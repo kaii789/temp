@@ -1,0 +1,1535 @@
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mikarv', 'supergovernance')
+Core Items: ('ai', 'analog', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'cc', 'clarifi', 'contextu', 'data', 'dataset', 'dota', 'eg', 'embed', 'frequent', 'malici', 'maxim', 'misus', 'ml', 'nlp', 'nuanc', 'output', 'rl', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'autom', 'broader', 'dataset', 'dota', 'eg', 'embed', 'malici', 'rl', 'scrape']
+Duplicate Count: 261
+
+Core Users: ('Smerity', 'jackclarkSF', 'mikarv', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'algorithm', 'analog', 'approxim', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'data', 'dataset', 'dota', 'eg', 'embed', 'frequent', 'hypothesi', 'increment', 'invari', 'metric', 'misus', 'ml', 'nlp', 'optim', 'output', 'phd', 'preprint', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl']
+Duplicate Count: 2382
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'SeanMcElwee', 'SeanTrende', 'ezraklein')
+Core Items: ('bennet', 'broader', 'cabl', 'compromis', 'congression', 'delaney', 'ds', 'enact', 'factcheck', 'hawley', 'medicaid', 'metric', 'neal', 'neoliber', 'obstruct', 'partisan', 'pelosi', 'promin', 'reconcili', 'skeptic', 'substant', 'substanti', 'ufo')
+Most Typical Words: ['congression', 'dccc', 'discours', 'medicaid', 'neoliber', 'partisan', 'reconcili', 'skeptic', 'substant', 'yougov']
+Duplicate Count: 49
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mikarv', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'cc', 'character', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'malici', 'metric', 'misus', 'ml', 'nlp', 'output', 'preprint', 'rl', 'scrape', 'skeptic', 'societ', 'subset')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'dataset', 'eg', 'embed', 'malici', 'ml', 'rl', 'scrape']
+Duplicate Count: 68
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'curaffairs', 'ezraklein')
+Core Items: ('bennet', 'bret', 'broader', 'bullock', 'buttigieg', 'cabl', 'compromis', 'congression', 'delaney', 'egregi', 'hawley', 'hickenloop', 'klobuchar', 'medicar', 'metric', 'obstruct', 'orourk', 'partisan', 'pelosi', 'pete', 'pod', 'radic', 'reconcili', 'revisit', 'substant', 'substanti', 'ufo')
+Most Typical Words: ['congression', 'delaney', 'discours', 'neonazi', 'partisan', 'pod', 'reconcili', 'regress', 'skeptic', 'substant']
+Duplicate Count: 8
+
+Core Users: ('Smerity', 'johnmyleswhite', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'benchmark', 'broader', 'causal', 'eg', 'embed', 'hypothesi', 'invari', 'metric', 'ml', 'optim', 'rl', 'semant', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 443
+
+Core Users: ('Smerity', 'johnmyleswhite', 'roydanroy', 'tdietterich', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'assumpt', 'atom', 'autonom', 'bandit', 'benchmark', 'broader', 'causal', 'correl', 'cpu', 'eg', 'embed', 'exponenti', 'fraction', 'hypothesi', 'increment', 'invari', 'linear', 'logist', 'lotteri', 'mathemat', 'mathematician', 'method', 'metric', 'ml', 'nlp', 'optim', 'phd', 'preprint', 'python', 'regress', 'robust', 'semant', 'supervis', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 1075
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'SolomonMg', 'julia_azari')
+Core Items: ('23rd', '_ツ_', 'addendum', 'aggreg', 'altogeth', 'analog', 'api', 'applaus', 'axio', 'backlash', 'bennet', 'blasio', 'bret', 'breyer', 'broader', 'bullock', 'bush', 'cabl', 'cardigan', 'coauthor', 'compon', 'compromis', 'congression', 'consensus', 'convey', 'dani', 'data', 'debunk', 'defer', 'deficit', 'delaney', 'deleg', 'deregul', 'dimension', 'discours', 'dispar', 'dp', 'dropbox', 'ds', 'ec', 'egregi', 'enact', 'error', 'estim', 'exposur', 'extract', 'factcheck', 'fdr', 'fiscal', 'framework', 'gdp', 'gerrymand', 'gilmor', 'github', 'gotcha', 'grad', 'graph', 'halt', 'hampshir', 'hawley', 'hickenloop', 'histrion', 'horrifi', 'hypothesi', 'incom', 'inequ', 'infanticid', 'influenti', 'inher', 'iowa', 'jeb', 'klobuchar', 'knit', 'lbj', 'legislatur', 'marriott', 'mason', 'mcsalli', 'medicaid', 'metric', 'midlif', 'midwestern', 'milwauke', 'nc', 'neal', 'neoliber', 'neonazi', 'nh', 'nostalgia', 'nuanc', 'nv', 'obstruct', 'orourk', 'outlier', 'pap', 'partisan', 'payrol', 'pelosi', 'pivot', 'preexist', 'premis', 'preregist', 'presum', 'promin', 'python', 'realign', 'recess', 'reconcili', 'redistrict', 'regress', 'replic', 'revenu', 'revisit', 'rhaegal', 'rhetor', 'scope', 'shutdown', 'skeptic', 'skew', 'soro', 'static', 'straightforward', 'substant', 'substanti', 'subtweet', 'suburb', 'supplier', 'syllabus', 'tax', 'tenur', 'treadmil', 'trickl', 'trillion', 'turnout', 'tx', 'ufo', 'undergrad', 'url', 'variabl', 'varianc', 'wealth', 'wealthi', 'wealthiest', 'winnow', 'yessssss')
+Most Typical Words: ['deficit', 'discours', 'metric', 'neonazi', 'partisan', 'regress', 'skeptic', 'straightforward', 'substant', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('SolomonMg', 'j2bryson', 'jasonmillar', 'mikarv', 'supergovernance')
+Core Items: ('academ', 'aggreg', 'ai', 'assess', 'autom', 'autonom', 'cc', 'contextu', 'data', 'eg', 'ethic', 'framework', 'intervent', 'presum', 'robot', 'scope')
+Most Typical Words: ['algorithm', 'autom', 'autonom', 'cf', 'embed', 'intervent', 'keynot', 'postdoc', 'presum', 'semant']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'KT_So_It_Goes', 'SeanTrende', 'ezraklein', 'juliagalef')
+Core Items: ('8chan', 'acquaint', 'addendum', 'admiss', 'algebra', 'altogeth', 'analog', 'approxim', 'assumpt', 'astonish', 'autom', 'autonom', 'autonomi', 'backfir', 'barr', 'bennet', 'biometr', 'blasio', 'boomer', 'botox', 'bret', 'breyer', 'broader', 'btwn', 'buffalo', 'bullock', 'bush', 'buttigieg', 'cabl', 'candidaci', 'carl', 'categor', 'cc', 'character', 'cheerlead', 'clarifi', 'clearest', 'clickbait', 'clive', 'coauthor', 'coffeeshop', 'compon', 'compromis', 'conceptu', 'congression', 'consensus', 'conspiraci', 'constraint', 'convey', 'coopt', 'corncob', 'cuck', 'cult', 'dani', 'defer', 'delaney', 'deleg', 'deriv', 'discours', 'domain', 'ds', 'dvr', 'ea', 'ec', 'eg', 'egregi', 'eleven', 'emphas', 'environment', 'error', 'ethic', 'examin', 'exoner', 'facet', 'facial', 'fdr', 'framework', 'frt', 'garrison', 'gerrymand', 'goblin', 'goddamn', 'gofundm', 'grail', 'graph', 'greenland', 'grift', 'ham', 'hampshir', 'handwrit', 'hawley', 'hypothesi', 'hypothet', 'identif', 'ie', 'increment', 'ineffect', 'instanc', 'intuit', 'iowa', 'jeb', 'jeffrey', 'khanna', 'klobuchar', 'kurt', 'lbj', 'mason', 'mathematician', 'medicar', 'medicareforal', 'metric', 'misinterpret', 'misrepres', 'missouri', 'nationalist', 'nc', 'nh', 'nuanc', 'nv', 'obamacar', 'obstruct', 'outlier', 'overton', 'partisan', 'pelosi', 'pete', 'phenomenon', 'philosophi', 'pod', 'premis', 'presum', 'priori', 'privaci', 'procedur', 'promin', 'radic', 'rational', 'realign', 'recognit', 'reconcili', 'redistrict', 'reform', 'rephras', 'revisit', 'rhaegal', 'rug', 'scrape', 'selfregul', 'shapiro', 'sharehold', 'shooter', 'silicon', 'skeptic', 'slack', 'slipperi', 'smdh', 'soybean', 'structur', 'subset', 'substanti', 'surveil', 'tenur', 'thinker', 'torr', 'transcript', 'tricki', 'turd', 'ture', 'tx', 'ufo', 'undergrad', 'uneth', 'valley', 'walsh', 'winnow', 'worldview')
+Most Typical Words: ['autonomi', 'coauthor', 'emphas', 'frt', 'identif', 'medicareforal', 'skeptic', 'surveil', 'torr', 'undergrad']
+Duplicate Count: 10
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mark_riedl', 'mikarv', 'zacharylipton')
+Core Items: ('analog', 'autonom', 'benchmark', 'broader', 'dataset', 'dota', 'eg', 'embed', 'misus', 'ml', 'nlp', 'output', 'rl', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'autonom', 'colab', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape', 'stylegan']
+Duplicate Count: 217
+
+Core Users: ('alexstamos', 'j2bryson', 'mikarv', 'tdietterich', 'zacharylipton')
+Core Items: ('academ', 'ai', 'algorithm', 'amplifi', 'approxim', 'assess', 'attribut', 'autonom', 'benchmark', 'broader', 'causal', 'cc', 'cf', 'compon', 'confound', 'copyright', 'data', 'discours', 'eg', 'embed', 'gmail', 'hash', 'increment', 'intervent', 'invari', 'keynot', 'metric', 'ml', 'phd', 'postdoc', 'preprint', 'presum', 'rl', 'robust', 'scrape', 'semant', 'subset', 'supervis', 'unifi', 'vpn')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'embed', 'intervent', 'keynot', 'metric', 'ml', 'semant']
+Duplicate Count: 45
+
+Core Users: ('Smerity', 'roydanroy', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('algorithm', 'approxim', 'autonom', 'bandit', 'benchmark', 'broader', 'categor', 'causal', 'character', 'compon', 'correl', 'cpu', 'deriv', 'eg', 'embed', 'exponenti', 'fraction', 'hypothesi', 'increment', 'invari', 'linear', 'lotteri', 'metric', 'misus', 'ml', 'moreov', 'nlp', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'rl', 'robust', 'semant', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'dataset', 'embed', 'metric', 'ml', 'optim', 'rl', 'semant']
+Duplicate Count: 355
+
+Core Users: ('Smerity', 'alexstamos', 'mikarv', 'tdietterich', 'tyrell_turing')
+Core Items: ('algorithm', 'analog', 'api', 'approxim', 'assess', 'attribut', 'autom', 'benchmark', 'broader', 'causal', 'compon', 'copyright', 'correl', 'cough', 'data', 'ecosystem', 'eg', 'embed', 'gmail', 'hash', 'hypothesi', 'metric', 'misus', 'ml', 'optim', 'outlier', 'postdoc', 'preprint', 'rl', 'scrape', 'semant', 'societ', 'unifi', 'variabl', 'vpn')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'embed', 'metric', 'ml', 'neurosci', 'rl', 'scrape', 'unifi']
+Duplicate Count: 3
+
+Core Users: ('Smerity', 'alexstamos', 'jackclarkSF', 'mikarv', 'supergovernance')
+Core Items: ('ai', 'api', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'compon', 'contextu', 'copyright', 'data', 'dataset', 'dota', 'ecosystem', 'eg', 'embed', 'frequent', 'gmail', 'hash', 'intervent', 'maxim', 'metric', 'misus', 'ml', 'nuanc', 'output', 'scrape', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'autom', 'broader', 'dataset', 'embed', 'metric', 'ml', 'scrape']
+Duplicate Count: 6
+
+Core Users: ('Miles_Brundage', 'Smerity', 'alexstamos', 'mikarv', 'yoavgo')
+Core Items: ('analog', 'api', 'broader', 'cc', 'clarifi', 'contextu', 'copyright', 'data', 'dataset', 'domain', 'ecosystem', 'eg', 'embed', 'gmail', 'hash', 'intervent', 'lms', 'metric', 'misus', 'mitig', 'ml', 'moat', 'nlp', 'output', 'python', 'scrape', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'analog', 'api', 'dataset', 'embed', 'intervent', 'metric', 'ml', 'scrape']
+Duplicate Count: 62
+
+Core Users: ('Smerity', 'alexstamos', 'mikarv', 'rctatman', 'yoavgo')
+Core Items: ('analog', 'api', 'autom', 'benchmark', 'broader', 'contextu', 'copyright', 'data', 'dataset', 'debug', 'domain', 'ecosystem', 'embed', 'ensembl', 'gmail', 'hash', 'intervent', 'linguist', 'metric', 'misus', 'mitig', 'ml', 'nlp', 'output', 'python', 'scrape', 'semant', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'api', 'dataset', 'embed', 'gustav', 'metric', 'ml', 'nlp', 'pacif', 'scrape']
+Duplicate Count: 94
+
+Core Users: ('Smerity', 'alexstamos', 'mikarv', 'yoavgo', 'zacharylipton')
+Core Items: ('amplifi', 'analog', 'api', 'approxim', 'autom', 'benchmark', 'broader', 'copyright', 'data', 'dataset', 'ecosystem', 'embed', 'gmail', 'hash', 'intervent', 'linear', 'metric', 'misus', 'mitig', 'ml', 'nlp', 'preprint', 'python', 'recipi', 'scrape', 'semant', 'societ', 'supervis', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'broader', 'dataset', 'embed', 'metric', 'ml', 'scrape', 'semant']
+Duplicate Count: 49
+
+Core Users: ('Smerity', 'SolomonMg', 'alexstamos', 'mikarv', 'yoavgo')
+Core Items: ('aggreg', 'analog', 'api', 'autom', 'broader', 'copyright', 'data', 'dataset', 'ecosystem', 'embed', 'gmail', 'hash', 'intervent', 'metric', 'misus', 'mitig', 'ml', 'nlp', 'presum', 'python', 'scope', 'scrape', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'dataset', 'embed', 'intervent', 'metric', 'ml', 'privaci', 'scrape']
+Duplicate Count: 16
+
+Core Users: ('Smerity', 'jackclarkSF', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('approxim', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'eg', 'embed', 'hypothesi', 'metric', 'misus', 'ml', 'optim', 'rl', 'semant')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'neurosci', 'rl', 'semant']
+Duplicate Count: 135
+
+Core Users: ('Smerity', 'roydanroy', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cpu', 'dataset', 'debug', 'deriv', 'embed', 'ensembl', 'exponenti', 'fraction', 'git', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'lotteri', 'metric', 'mit', 'ml', 'nlp', 'notat', 'optim', 'phd', 'preprint', 'python', 'rl', 'robust', 'semant', 'supervis', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 33
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'autonom', 'benchmark', 'broader', 'character', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'gmail', 'linear', 'lms', 'malici', 'metric', 'misus', 'mit', 'ml', 'nlp', 'output', 'python', 'rl', 'scrape', 'semant', 'skeptic', 'societ', 'subset', 'supervis')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'embed', 'malici', 'metric', 'ml', 'nlp', 'rl', 'semant']
+Duplicate Count: 251
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mark_riedl', 'zacharylipton')
+Core Items: ('ai', 'analog', 'approxim', 'atari', 'autonom', 'benchmark', 'broader', 'character', 'clarifi', 'colab', 'dataset', 'domain', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'github', 'malici', 'metric', 'misus', 'ml', 'nlp', 'output', 'phd', 'python', 'pytorch', 'replic', 'rl', 'robot', 'scrape', 'semant', 'skeptic', 'societ', 'stylegan', 'subset', 'supervis', 'ture')
+Most Typical Words: ['algorithm', 'autonom', 'colab', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape', 'stylegan']
+Duplicate Count: 111
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'tdietterich', 'zacharylipton')
+Core Items: ('approxim', 'autonom', 'benchmark', 'broader', 'dataset', 'eg', 'embed', 'metric', 'misus', 'ml', 'nlp', 'output', 'rl', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'approxim', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl']
+Duplicate Count: 39
+
+Core Users: ('Smerity', 'jackclarkSF', 'mark_riedl', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'approxim', 'autonom', 'benchmark', 'broader', 'dataset', 'dota', 'embed', 'metric', 'ml', 'nlp', 'output', 'phd', 'rl', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'scrape']
+Duplicate Count: 60
+
+Core Users: ('Smerity', 'hardmaru', 'jackclarkSF', 'mark_riedl', 'zacharylipton')
+Core Items: ('atari', 'autonom', 'benchmark', 'broader', 'dataset', 'dota', 'embed', 'github', 'latent', 'ml', 'nlp', 'output', 'rl', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'dataset', 'embed', 'github', 'ml', 'rl', 'scrape', 'selfdriv']
+Duplicate Count: 44
+
+Core Users: ('Miles_Brundage', 'Smerity', 'haldaume3', 'jackclarkSF', 'zacharylipton')
+Core Items: ('admiss', 'approxim', 'autonom', 'benchmark', 'broader', 'character', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'malici', 'metric', 'misus', 'ml', 'nlp', 'output', 'rl', 'scrape', 'skeptic', 'societ', 'subset')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'dataset', 'dota', 'embed', 'malici', 'ml', 'rl', 'scrape']
+Duplicate Count: 86
+
+Core Users: ('haldaume3', 'hardmaru', 'jackclarkSF', 'mark_riedl', 'zacharylipton')
+Core Items: ('admiss', 'algorithm', 'atari', 'autonom', 'benchmark', 'broader', 'colab', 'compon', 'constraint', 'dataset', 'domain', 'dota', 'eg', 'embed', 'faculti', 'github', 'increment', 'latent', 'linear', 'maxim', 'ml', 'nlp', 'output', 'phd', 'rl', 'robot', 'scalabl', 'scrape', 'selfdriv', 'semant', 'societ', 'stylegan', 'supervis', 'ture')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'dataset', 'embed', 'github', 'latent', 'ml', 'rl', 'selfdriv']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'tdietterich', 'tyrell_turing', 'yoavgo', 'zacharylipton')
+Core Items: ('abstract', 'algorithm', 'analog', 'approxim', 'autonom', 'benchmark', 'broader', 'categor', 'causal', 'character', 'compon', 'correl', 'dataset', 'debug', 'deriv', 'embed', 'ensembl', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'metric', 'misus', 'ml', 'moreov', 'nlp', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'python', 'rl', 'robust', 'semant', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'neurosci', 'rl', 'semant']
+Duplicate Count: 39
+
+Core Users: ('johnmyleswhite', 'roydanroy', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('approxim', 'benchmark', 'broader', 'causal', 'correl', 'eg', 'hypothesi', 'invari', 'linear', 'ml', 'optim', 'preprint', 'rl', 'semant', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'embed', 'ml', 'optim', 'rl', 'semant', 'variabl']
+Duplicate Count: 2
+
+Core Users: ('MichaelSLinden', 'SeanTrende', 'curaffairs', 'ezraklein', 'timoreilly')
+Core Items: ('analog', 'bennet', 'broader', 'bullock', 'buttigieg', 'congression', 'delaney', 'essay', 'extract', 'inequ', 'klobuchar', 'medicar', 'metric', 'monopoli', 'pod', 'radic', 'revisit', 'silicon', 'valley')
+Most Typical Words: ['congression', 'deficit', 'delaney', 'inequ', 'medicareforal', 'metric', 'neonazi', 'partisan', 'pod', 'regress']
+Duplicate Count: 28
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'ezraklein', 'qjurecic')
+Core Items: ('8chan', 'astonish', 'barr', 'bret', 'cabl', 'congression', 'conspiraci', 'contributor', 'factcheck', 'fox', 'greenland', 'hanniti', 'obstruct', 'pelosi', 'segment', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'congression', 'factcheck', 'fox', 'greenland', 'hanniti', 'retract', 'segment', 'tucker']
+Duplicate Count: 13
+
+Core Users: ('LisPower1', 'MattGertz', 'OsitaNwanevu', 'SeanTrende', 'curaffairs')
+Core Items: ('_ツ_', 'bennet', 'bret', 'bullock', 'cabl', 'congression', 'contributor', 'delaney', 'egregi', 'factcheck', 'fox', 'hanniti', 'hawley', 'hickenloop', 'klobuchar', 'partisan', 'pelosi', 'retract', 'revisit', 'rhetor', 'segment', 'skeptic', 'substanti', 'tucker', 'ufo')
+Most Typical Words: ['bret', 'cabl', 'delaney', 'discours', 'factcheck', 'fox', 'hanniti', 'partisan', 'retract', 'skeptic']
+Duplicate Count: 1
+
+Core Users: ('OsitaNwanevu', 'SeanTrende', 'curaffairs', 'ezraklein', 'qjurecic')
+Core Items: ('barr', 'bennet', 'bret', 'bullock', 'buttigieg', 'cabl', 'compromis', 'congression', 'delaney', 'egregi', 'essay', 'hawley', 'hickenloop', 'klobuchar', 'medicar', 'obstruct', 'orourk', 'partisan', 'pelosi', 'pete', 'pod', 'radic', 'reconcili', 'revisit', 'skeptic', 'substanti', 'ufo')
+Most Typical Words: ['cabl', 'congression', 'delaney', 'discours', 'partisan', 'pod', 'reconcili', 'skeptic', 'straightforward', 'substant']
+Duplicate Count: 8
+
+Core Users: ('SeanMcElwee', 'ZachLowe_NBA', 'curaffairs', 'ezraklein', 'willsommer')
+Core Items: ('abolish', 'admiss', 'andr', 'antiracist', 'backend', 'backfir', 'baldwin', 'bannon', 'barr', 'bennet', 'blacklist', 'bret', 'bullock', 'bureaucraci', 'butler', 'buttigieg', 'bw', 'cabl', 'candidaci', 'caravan', 'caucus', 'centrist', 'clearest', 'comet', 'compromis', 'congression', 'conspiraci', 'contributor', 'counterprotest', 'dccc', 'decrimin', 'delaney', 'disenfranchis', 'dominion', 'ds', 'dsa', 'editor', 'enact', 'environment', 'essay', 'factcheck', 'flint', 'gabbard', 'gateway', 'gavin', 'gianni', 'gofundm', 'guantanamo', 'hawley', 'hickenloop', 'incarcer', 'incumb', 'instanc', 'jfk', 'jill', 'jokic', 'khanna', 'kirk', 'klobuchar', 'lavin', 'lizard', 'loomer', 'lotteri', 'manchin', 'medicaid', 'medicar', 'medicareforal', 'migrat', 'milo', 'milwauke', 'missouri', 'monopoli', 'neal', 'neoliber', 'neonazi', 'newslett', 'nyt', 'obamacar', 'obstruct', 'offseason', 'okc', 'orourk', 'overton', 'partisan', 'pelican', 'pelosi', 'persuas', 'pete', 'peterson', 'pharma', 'playoff', 'pod', 'podcast', 'poll', 'postseason', 'primari', 'progress', 'promin', 'qanon', 'radic', 'rational', 'reconcili', 'reform', 'retract', 'revisit', 'rural', 'shapiro', 'silicon', 'skeptic', 'slack', 'sloan', 'steph', 'structur', 'suitor', 'thurmond', 'tpusa', 'transcript', 'turnov', 'utah', 'valley', 'voicemail', 'yougov')
+Most Typical Words: ['andr', 'dccc', 'gianni', 'gofundm', 'infowar', 'milo', 'pod', 'podcast', 'qanon', 'rebound']
+Duplicate Count: 11
+
+Core Users: ('MichaelSLinden', 'SeanTrende', 'curaffairs', 'ezraklein', 'qjurecic')
+Core Items: ('barr', 'bennet', 'broader', 'buttigieg', 'congression', 'delaney', 'essay', 'klobuchar', 'medicar', 'metric', 'obstruct', 'pelosi', 'pete', 'pod', 'radic', 'revisit', 'undergrad')
+Most Typical Words: ['congression', 'deficit', 'delaney', 'medicareforal', 'metric', 'neonazi', 'partisan', 'pod', 'regress', 'skeptic']
+Duplicate Count: 3
+
+Core Users: ('LisPower1', 'MattGertz', 'OsitaNwanevu', 'ezraklein', 'qjurecic')
+Core Items: ('_ツ_', 'barr', 'bret', 'cabl', 'compromis', 'congression', 'delaney', 'factcheck', 'fox', 'hanniti', 'obstruct', 'partisan', 'pelosi', 'reconcili', 'rhetor', 'segment', 'skeptic', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'discours', 'factcheck', 'fox', 'hanniti', 'partisan', 'reconcili', 'retract', 'tucker']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'ezraklein', 'qjurecic')
+Core Items: ('barr', 'bennet', 'broader', 'cabl', 'compromis', 'congression', 'delaney', 'egregi', 'metric', 'obstruct', 'partisan', 'pelosi', 'reconcili', 'skeptic', 'substant', 'substanti', 'ufo', 'undergrad')
+Most Typical Words: ['congression', 'deficit', 'delaney', 'discours', 'neonazi', 'partisan', 'reconcili', 'skeptic', 'straightforward', 'substant']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'edwardhkennedy', 'fhuszar', 'johnmyleswhite')
+Core Items: ('approxim', 'assumpt', 'benchmark', 'causal', 'cis', 'distribut', 'eg', 'error', 'estim', 'github', 'graph', 'hypothesi', 'identif', 'intervent', 'invari', 'linear', 'logist', 'method', 'optim', 'pnas', 'preregist', 'python', 'regress', 'replic', 'robust', 'skeptic', 'statist', 'subtweet', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['approxim', 'benchmark', 'causal', 'embed', 'hypothesi', 'identif', 'intervent', 'regress', 'skeptic', 'tenur']
+Duplicate Count: 22
+
+Core Users: ('Smerity', 'alexstamos', 'mikarv', 'tdietterich', 'zacharylipton')
+Core Items: ('algorithm', 'amplifi', 'analog', 'api', 'approxim', 'assess', 'attribut', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'copyright', 'data', 'ecosystem', 'eg', 'embed', 'gmail', 'hypothesi', 'increment', 'intervent', 'invari', 'metric', 'misus', 'ml', 'nlp', 'optim', 'phd', 'preprint', 'recipi', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis', 'unifi', 'vpn')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'scrape']
+Duplicate Count: 60
+
+Core Users: ('Smerity', 'alexstamos', 'roydanroy', 'yoavgo', 'zacharylipton')
+Core Items: ('amplifi', 'analog', 'api', 'approxim', 'benchmark', 'broader', 'cpu', 'dataset', 'deriv', 'ecosystem', 'embed', 'exponenti', 'fraction', 'git', 'gmail', 'gpu', 'hypothesi', 'linear', 'lotteri', 'metric', 'misus', 'mit', 'mitig', 'ml', 'nlp', 'notat', 'optim', 'preprint', 'python', 'scrape', 'semant', 'supervis')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'approxim', 'binari', 'dataset', 'embed', 'metric', 'ml', 'semant']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'alexstamos', 'johnmyleswhite', 'tdietterich', 'zacharylipton')
+Core Items: ('amplifi', 'api', 'approxim', 'assumpt', 'attribut', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'correl', 'cpu', 'data', 'ecosystem', 'eg', 'embed', 'gmail', 'hash', 'hypothesi', 'increment', 'intervent', 'invari', 'linear', 'logist', 'method', 'metric', 'misus', 'ml', 'nlp', 'optim', 'phd', 'python', 'regress', 'rl', 'robust', 'scrape', 'semant', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'haldaume3', 'jackclarkSF', 'tdietterich', 'zacharylipton')
+Core Items: ('admiss', 'ai', 'approxim', 'assess', 'autonom', 'benchmark', 'broader', 'causal', 'clarifi', 'compon', 'dataset', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'hypothesi', 'increment', 'invari', 'metric', 'misus', 'ml', 'nlp', 'output', 'phd', 'pointer', 'postdoc', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl']
+Duplicate Count: 6
+
+Core Users: ('fermatslibrary', 'fhuszar', 'gokstudio', 'roydanroy', 'thesasho')
+Core Items: ('approxim', 'atom', 'binari', 'bound', 'compress', 'deriv', 'distribut', 'exponenti', 'fraction', 'gpu', 'hypothesi', 'invert', 'linear', 'mathemat', 'mathematician', 'ml', 'nevertheless', 'notat', 'optim', 'quantum', 'shortest', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'causal', 'embed', 'mathemat', 'mathematician', 'ml', 'quantum', 'tenur']
+Duplicate Count: 11
+
+Core Users: ('hardmaru', 'jackclarkSF', 'mark_riedl', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'algorithm', 'atari', 'autonom', 'benchmark', 'broader', 'compon', 'dataset', 'embed', 'github', 'increment', 'latent', 'ml', 'phd', 'rl', 'semant')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'github', 'ml', 'rl', 'selfdriv']
+Duplicate Count: 16
+
+Core Users: ('Smerity', 'jackclarkSF', 'mark_riedl', 'rctatman', 'zacharylipton')
+Core Items: ('autonom', 'benchmark', 'broader', 'dataset', 'dota', 'embed', 'github', 'ml', 'nlp', 'output', 'python', 'rl', 'scrape', 'semant', 'societ')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'dataset', 'embed', 'gustav', 'ml', 'pacif', 'rl', 'scrape']
+Duplicate Count: 1
+
+Core Users: ('fermatslibrary', 'gokstudio', 'octonion', 'roydanroy', 'thesasho')
+Core Items: ('approxim', 'atom', 'bound', 'cpu', 'deriv', 'exponenti', 'fraction', 'github', 'gpu', 'hypothesi', 'infinit', 'invert', 'mathemat', 'mathematician', 'maxim', 'ml', 'notat', 'polynomi', 'python', 'quantum', 'shortest', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'bpm', 'mathemat', 'mathematician', 'ml', 'quantum', 'tenur', 'wahoo']
+Duplicate Count: 3
+
+Core Users: ('Smerity', 'jackclarkSF', 'mikarv', 'rctatman', 'roydanroy')
+Core Items: ('api', 'approxim', 'assess', 'autom', 'benchmark', 'broader', 'classif', 'contextu', 'cpu', 'data', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'github', 'gpu', 'hypothesi', 'lotteri', 'maxim', 'misus', 'mit', 'ml', 'nlp', 'optim', 'output', 'preprint', 'python', 'scrape', 'semant', 'societ', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'dataset', 'dota', 'embed', 'gustav', 'ml', 'pacif', 'scrape']
+Duplicate Count: 24
+
+Core Users: ('Smerity', 'jackclarkSF', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'assess', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'dataset', 'debug', 'domain', 'dota', 'eg', 'embed', 'ensembl', 'frequent', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'metric', 'misus', 'mit', 'ml', 'nlp', 'optim', 'output', 'phd', 'python', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 30
+
+Core Users: ('Smerity', 'rctatman', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'api', 'approxim', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'contextu', 'data', 'dataset', 'debug', 'domain', 'embed', 'ensembl', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'linguist', 'metric', 'ml', 'nlp', 'optim', 'output', 'phd', 'python', 'regress', 'rl', 'robust', 'semant', 'supervis')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'embed', 'gustav', 'metric', 'ml', 'pacif', 'semant']
+Duplicate Count: 3
+
+Core Users: ('fermatslibrary', 'fhuszar', 'natematias', 'roydanroy', 'zacharylipton')
+Core Items: ('approxim', 'atom', 'bandit', 'binari', 'causal', 'compress', 'deriv', 'distribut', 'embed', 'exponenti', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'intervent', 'invari', 'linear', 'mathemat', 'mathematician', 'metric', 'mit', 'ml', 'nevertheless', 'nip', 'notat', 'optim', 'phd', 'preprint', 'robust', 'semant', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'bandit', 'binari', 'causal', 'embed', 'hypothesi', 'intervent', 'ml', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'edwardhkennedy', 'johnmyleswhite', 'tdietterich', 'zacharylipton')
+Core Items: ('approxim', 'assumpt', 'benchmark', 'broader', 'causal', 'eg', 'intervent', 'invari', 'logist', 'method', 'optim', 'regress', 'robust', 'semant', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'identif', 'intervent', 'ml', 'regress', 'rl', 'semant', 'tenur']
+Duplicate Count: 9
+
+Core Users: ('Smerity', 'haldaume3', 'jackclarkSF', 'mark_riedl', 'zacharylipton')
+Core Items: ('admiss', 'ai', 'approxim', 'atari', 'autonom', 'benchmark', 'broader', 'clarifi', 'dataset', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'github', 'metric', 'misus', 'ml', 'nlp', 'output', 'phd', 'python', 'pytorch', 'rl', 'robot', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape', 'selfdriv']
+Duplicate Count: 7
+
+Core Users: ('Smerity', 'haldaume3', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('admiss', 'algorithm', 'analog', 'approxim', 'autonom', 'benchmark', 'broader', 'categor', 'causal', 'character', 'clarifi', 'compon', 'correl', 'eg', 'embed', 'faculti', 'hypothesi', 'increment', 'invari', 'metric', 'misus', 'ml', 'moreov', 'nlp', 'optim', 'outlier', 'output', 'phd', 'pointer', 'postdoc', 'preprint', 'rl', 'robust', 'semant', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'embed', 'metric', 'ml', 'optim', 'postdoc', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'jackclarkSF', 'tyrell_turing')
+Core Items: ('analog', 'benchmark', 'broader', 'causal', 'character', 'clarifi', 'compon', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'hypothesi', 'impost', 'irrespons', 'malici', 'misus', 'nlp', 'optim', 'output', 'ponder', 'replic', 'rl', 'scrape', 'skeptic', 'societ', 'sociolog')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'embed', 'intervent', 'neurosci', 'rl', 'scrape', 'tenur']
+Duplicate Count: 8
+
+Core Users: ('Smerity', 'fermatslibrary', 'johnmyleswhite', 'natematias', 'roydanroy')
+Core Items: ('analog', 'approxim', 'atom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'correl', 'cpu', 'dataset', 'deriv', 'exponenti', 'github', 'hypothesi', 'intervent', 'linear', 'lotteri', 'mathemat', 'mathematician', 'ml', 'notat', 'optim', 'preprint', 'python', 'semant', 'sphere', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'bandit', 'binari', 'causal', 'cpu', 'dataset', 'hypothesi', 'intervent', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'mikarv', 'natematias', 'zeynep')
+Core Items: ('academ', 'aggreg', 'algorithm', 'analys', 'autom', 'broader', 'causal', 'cluster', 'conceptu', 'data', 'dataset', 'forthcom', 'github', 'hah', 'hypothesi', 'intervent', 'ml', 'postdoc', 'preprint', 'preregist', 'presum', 'replic', 'scope', 'scrape', 'sociolog', 'tenur', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'dataset', 'forthcom', 'intervent', 'regress', 'replic', 'sociolog', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'j2bryson', 'natematias', 'roydanroy', 'tyrell_turing')
+Core Items: ('academ', 'algorithm', 'bandit', 'binari', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'dataset', 'deriv', 'faculti', 'hypothesi', 'intervent', 'mit', 'optim', 'postdoc', 'preprint', 'preregist', 'replic', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'binari', 'causal', 'cf', 'coauthor', 'hypothesi', 'intervent', 'postdoc', 'regress', 'tenur']
+Duplicate Count: 42
+
+Core Users: ('JohnHolbein1', 'edwardhkennedy', 'johnmyleswhite', 'roydanroy', 'zacharylipton')
+Core Items: ('approxim', 'assumpt', 'atom', 'benchmark', 'bound', 'broader', 'causal', 'cis', 'coauthor', 'conceptu', 'confound', 'cpu', 'distribut', 'eg', 'error', 'exponenti', 'faculti', 'fraction', 'hypothesi', 'identif', 'intervent', 'invari', 'linear', 'logist', 'mathemat', 'mathematician', 'method', 'ml', 'optim', 'preprint', 'regress', 'robust', 'semant', 'skeptic', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'coauthor', 'identif', 'intervent', 'ml', 'regress', 'semant', 'tenur']
+Duplicate Count: 7
+
+Core Users: ('JohnHolbein1', 'natematias', 'roydanroy', 'tdietterich', 'zacharylipton')
+Core Items: ('academ', 'algorithm', 'approxim', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'dataset', 'embed', 'exponenti', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'increment', 'intervent', 'invari', 'linear', 'metric', 'mit', 'ml', 'optim', 'phd', 'postdoc', 'preprint', 'preregist', 'regress', 'replic', 'robust', 'semant', 'sociolog', 'supervis', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'hypothesi', 'intervent', 'ml', 'regress', 'rl', 'tenur']
+Duplicate Count: 27
+
+Core Users: ('JohnHolbein1', 'edwardhkennedy', 'johnmyleswhite', 'tyrell_turing', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'assumpt', 'benchmark', 'broader', 'categor', 'causal', 'character', 'cis', 'confound', 'correl', 'eg', 'error', 'hypothesi', 'identif', 'intervent', 'invari', 'linear', 'logist', 'method', 'moreov', 'optim', 'preprint', 'regress', 'rl', 'robust', 'semant', 'skeptic', 'sociolog', 'statist', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'identif', 'intervent', 'ml', 'neurosci', 'regress', 'semant', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'johnmyleswhite', 'roydanroy', 'tyrell_turing')
+Core Items: ('analog', 'approxim', 'atom', 'benchmark', 'broader', 'causal', 'character', 'cis', 'conceptu', 'correl', 'cpu', 'dataset', 'deriv', 'eg', 'hypothesi', 'intervent', 'irrespons', 'linear', 'mathemat', 'mathematician', 'misus', 'optim', 'preprint', 'regress', 'replic', 'rl', 'scrape', 'semant', 'skeptic', 'sociolog', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'hypothesi', 'intervent', 'neurosci', 'regress', 'rl', 'tenur', 'variabl']
+Duplicate Count: 10
+
+Core Users: ('JohnHolbein1', 'Smerity', 'SolomonMg', 'johnmyleswhite', 'roydanroy')
+Core Items: ('analog', 'api', 'approxim', 'atom', 'benchmark', 'broader', 'causal', 'coauthor', 'conceptu', 'cpu', 'dataset', 'error', 'frequent', 'github', 'hypothesi', 'impost', 'intervent', 'linear', 'lotteri', 'mathemat', 'mathematician', 'ml', 'optim', 'ponder', 'preregist', 'python', 'replic', 'scrape', 'semant', 'skeptic', 'tenur', 'turnout', 'variabl', 'varianc', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'cpu', 'dataset', 'hypothesi', 'intervent', 'regress', 'tenur']
+Duplicate Count: 12
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'johnmyleswhite', 'tdietterich', 'tyrell_turing')
+Core Items: ('algorithm', 'analog', 'approxim', 'assumpt', 'benchmark', 'broader', 'causal', 'cis', 'compon', 'correl', 'data', 'eg', 'error', 'github', 'hypothesi', 'intervent', 'invari', 'method', 'optim', 'outlier', 'postdoc', 'preregist', 'python', 'regress', 'replic', 'rl', 'semant', 'skeptic', 'sociolog', 'turnout', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'hypothesi', 'intervent', 'neurosci', 'regress', 'rl', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'Smerity', 'johnmyleswhite', 'tyrell_turing')
+Core Items: ('addendum', 'analog', 'approxim', 'benchmark', 'broader', 'causal', 'cis', 'correl', 'cpu', 'dataset', 'eg', 'error', 'hypothesi', 'impost', 'intervent', 'metric', 'misus', 'nuanc', 'optim', 'outlier', 'ponder', 'python', 'regress', 'scrape', 'semant', 'skeptic', 'sociolog', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'hypothesi', 'intervent', 'neurosci', 'regress', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('GraphicMatt', 'jen_keesmaat', 'jessebett', 'liannapisani', 'm_layton')
+Core Items: ('budget', 'commut', 'condo', 'congest', 'cyclist', 'environment', 'ford', 'intersect', 'lane', 'mitig', 'municip', 'neighbourhood', 'ontario', 'plow', 'provinci', 'ravin', 'sidewalk', 'streetcar', 'subsidi', 'toronto', 'transit', 'waterfront')
+Most Typical Words: ['councillor', 'hearn', 'intersect', 'municip', 'ontario', 'perk', 'provinci', 'transit', 'ttc', 'waterfront']
+Duplicate Count: 36
+
+Core Users: ('Smerity', 'jackclarkSF', 'mikarv', 'supergovernance', 'zacharylipton')
+Core Items: ('ai', 'analog', 'approxim', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'contextu', 'data', 'dataset', 'dota', 'eg', 'embed', 'exponenti', 'frequent', 'logist', 'maxim', 'misus', 'ml', 'nlp', 'nuanc', 'output', 'preprint', 'recipi', 'rl', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'autom', 'autonom', 'benchmark', 'broader', 'dataset', 'embed', 'ml', 'rl', 'scrape']
+Duplicate Count: 42
+
+Core Users: ('BrendaKLeong', 'Smerity', 'mikarv', 'rajiinio', 'supergovernance')
+Core Items: ('analog', 'assess', 'autom', 'biometr', 'broader', 'contextu', 'data', 'embed', 'ethic', 'framework', 'frequent', 'misus', 'ml', 'nuanc', 'principl', 'scope', 'societ')
+Most Typical Words: ['algorithm', 'autom', 'broader', 'dataset', 'dota', 'ecosystem', 'embed', 'ml', 'ponder', 'scrape']
+Duplicate Count: 5
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mikarv', 'supergovernance', 'yoavgo')
+Core Items: ('analog', 'assess', 'autom', 'broader', 'contextu', 'dataset', 'domain', 'eg', 'embed', 'misus', 'ml', 'nlp', 'output', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'analog', 'autom', 'dataset', 'eg', 'embed', 'malici', 'ml', 'rl', 'scrape']
+Duplicate Count: 13
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'WillOremus', 'alexstamos', 'mikarv')
+Core Items: ('academ', 'algorithm', 'amplifi', 'analog', 'analytica', 'autom', 'backlash', 'biometr', 'broader', 'cc', 'coauthor', 'conceptu', 'coopt', 'copyright', 'data', 'forthcom', 'gmail', 'hash', 'hypothet', 'identif', 'intervent', 'mitig', 'ml', 'privaci', 'scrape', 'sharehold', 'subtweet', 'surveil', 'tenur', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'coauthor', 'frt', 'identif', 'intervent', 'privaci', 'scrape', 'surveil', 'tenur']
+Duplicate Count: 41
+
+Core Users: ('JohnHolbein1', 'Smerity', 'johnmyleswhite', 'natematias', 'roydanroy')
+Core Items: ('academ', 'analog', 'approxim', 'atom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'cpu', 'dataset', 'frequent', 'github', 'hypothesi', 'impost', 'intervent', 'linear', 'lotteri', 'mathemat', 'mathematician', 'mit', 'ml', 'optim', 'ponder', 'preprint', 'preregist', 'python', 'regress', 'replic', 'scrape', 'semant', 'skeptic', 'sociolog', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'bandit', 'causal', 'coauthor', 'dataset', 'hypothesi', 'intervent', 'regress', 'tenur']
+Duplicate Count: 20
+
+Core Users: ('Smerity', 'fhuszar', 'roydanroy', 'sina_lana', 'yoavgo')
+Core Items: ('analog', 'approxim', 'binari', 'classif', 'compress', 'cpu', 'dataset', 'debug', 'deriv', 'distribut', 'domain', 'embed', 'fraction', 'git', 'gmail', 'gpu', 'hypothesi', 'linear', 'lotteri', 'metric', 'ml', 'nich', 'nip', 'nlp', 'notat', 'optim', 'python', 'quantum', 'semant', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'causal', 'dataset', 'embed', 'hypothesi', 'metric', 'ml', 'tenur']
+Duplicate Count: 5
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mikarv', 'yoavgo')
+Core Items: ('analog', 'assess', 'autom', 'benchmark', 'broader', 'cc', 'clarifi', 'contextu', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'gmail', 'lms', 'malici', 'metric', 'misus', 'ml', 'nlp', 'output', 'python', 'rl', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'analog', 'dataset', 'dota', 'eg', 'embed', 'malici', 'ml', 'rl', 'scrape']
+Duplicate Count: 7
+
+Core Users: ('natematias', 'roydanroy', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('algorithm', 'approxim', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'categor', 'causal', 'character', 'compon', 'correl', 'deriv', 'eg', 'embed', 'exponenti', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'increment', 'invari', 'linear', 'mit', 'ml', 'moreov', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'rl', 'robust', 'semant', 'sociolog', 'supervis', 'tenur', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'hypothesi', 'ml', 'postdoc', 'preprint', 'rl', 'semant', 'tenur']
+Duplicate Count: 31
+
+Core Users: ('JohnHolbein1', 'Smerity', 'jackclarkSF', 'johnmyleswhite', 'mikarv')
+Core Items: ('academ', 'analog', 'approxim', 'assess', 'autom', 'benchmark', 'broader', 'causal', 'cpu', 'dataset', 'dota', 'eg', 'embed', 'forthcom', 'frequent', 'hash', 'hypothesi', 'impost', 'intervent', 'intuit', 'misus', 'ml', 'optim', 'output', 'ponder', 'python', 'regress', 'scrape', 'skeptic', 'societ', 'tricki', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'intervent', 'regress', 'scrape', 'tenur']
+Duplicate Count: 22
+
+Core Users: ('Miles_Brundage', 'Smerity', 'alexstamos', 'jackclarkSF', 'mikarv')
+Core Items: ('analog', 'api', 'assess', 'autom', 'benchmark', 'broader', 'cc', 'clarifi', 'compon', 'copyright', 'data', 'dataset', 'dota', 'ecosystem', 'eg', 'embed', 'frequent', 'gmail', 'hash', 'intervent', 'malici', 'metric', 'misus', 'ml', 'moat', 'nlp', 'output', 'rl', 'scrape', 'skeptic', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'api', 'broader', 'dataset', 'eg', 'embed', 'intervent', 'metric', 'rl', 'scrape']
+Duplicate Count: 51
+
+Core Users: ('Miles_Brundage', 'Smerity', 'catherineols', 'jackclarkSF', 'tyrell_turing')
+Core Items: ('analog', 'benchmark', 'broader', 'cc', 'character', 'clarifi', 'compon', 'dataset', 'domain', 'dota', 'eg', 'frequent', 'hypothesi', 'irrespons', 'malici', 'metaphor', 'misus', 'mit', 'nlp', 'optim', 'output', 'rl', 'scrape', 'semant', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'dataset', 'eg', 'embed', 'irrespons', 'malici', 'metaphor', 'misus', 'neurosci', 'rl']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'jackclarkSF', 'mikarv')
+Core Items: ('academ', 'analog', 'assess', 'autom', 'benchmark', 'broader', 'cc', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'forthcom', 'frequent', 'hypothesi', 'impost', 'intervent', 'malici', 'misus', 'ml', 'nlp', 'output', 'ponder', 'replic', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'dataset', 'eg', 'embed', 'intervent', 'rl', 'scrape', 'tenur']
+Duplicate Count: 14
+
+Core Users: ('Smerity', 'jackclarkSF', 'mark_riedl', 'supergovernance', 'zacharylipton')
+Core Items: ('ai', 'assess', 'atari', 'autom', 'autonom', 'benchmark', 'broader', 'dataset', 'dota', 'embed', 'exponenti', 'faculti', 'frequent', 'github', 'latent', 'logist', 'maxim', 'metric', 'misus', 'ml', 'nlp', 'nuanc', 'output', 'phd', 'python', 'pytorch', 'rl', 'robot', 'scrape', 'semant', 'societ', 'supervis', 'trek')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape', 'selfdriv']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'jackclarkSF', 'johnmyleswhite', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'analog', 'approxim', 'assess', 'assumpt', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'correl', 'cpu', 'dataset', 'dota', 'eg', 'embed', 'frequent', 'github', 'hypothesi', 'increment', 'intuit', 'invari', 'linear', 'method', 'metric', 'misus', 'ml', 'nlp', 'optim', 'output', 'phd', 'python', 'regress', 'rl', 'robust', 'scrape', 'semant', 'skeptic', 'societ', 'supervis', 'tricki', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 17
+
+Core Users: ('GraphicMatt', 'jen_keesmaat', 'jessebett', 'm_layton', 'supergovernance')
+Core Items: ('autonom', 'budget', 'commut', 'condo', 'congest', 'cyclist', 'environment', 'ford', 'intersect', 'lane', 'municip', 'neighbourhood', 'ontario', 'plow', 'procur', 'provinci', 'ravin', 'sidewalk', 'streetcar', 'subsidi', 'toronto', 'transit', 'ttc', 'waterfront')
+Most Typical Words: ['councillor', 'hearn', 'intersect', 'municip', 'ontario', 'perk', 'provinci', 'transit', 'ttc', 'waterfront']
+Duplicate Count: 67
+
+Core Users: ('Smerity', 'jackclarkSF', 'mikarv', 'rctatman', 'supergovernance')
+Core Items: ('analog', 'api', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'classif', 'contextu', 'data', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'github', 'maxim', 'misus', 'ml', 'nlp', 'nuanc', 'output', 'python', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'autom', 'benchmark', 'dataset', 'embed', 'gustav', 'ml', 'nlp', 'pacif', 'scrape']
+Duplicate Count: 6
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mark_riedl', 'mikarv')
+Core Items: ('ai', 'algorithm', 'analog', 'assess', 'atari', 'autom', 'autonom', 'benchmark', 'broader', 'cc', 'clarifi', 'colab', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'malici', 'misus', 'ml', 'nlp', 'output', 'python', 'pytorch', 'replic', 'rl', 'robot', 'scrape', 'skeptic', 'societ', 'stylegan', 'ture')
+Most Typical Words: ['algorithm', 'autonom', 'colab', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape', 'stylegan']
+Duplicate Count: 16
+
+Core Users: ('alexstamos', 'katecrawford', 'mikarv', 'mmitchell_ai', 'packer_ben', 'supergovernance')
+Core Items: ('ai', 'analys', 'assess', 'attribut', 'autom', 'autonom', 'biometr', 'broader', 'classif', 'copyright', 'data', 'ethic', 'fair', 'hash', 'intervent', 'metric', 'mitig', 'ml', 'nuanc', 'recognit', 'scrape', 'sexism', 'tech', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'intervent', 'keynot', 'metric', 'ml', 'privaci', 'scrape', 'sexism']
+Duplicate Count: 1
+
+Core Users: ('jackclarkSF', 'mikarv', 'supergovernance', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'algorithm', 'approxim', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'contextu', 'data', 'eg', 'embed', 'exponenti', 'increment', 'invari', 'logist', 'maxim', 'ml', 'phd', 'preprint', 'recipi', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'causal', 'dataset', 'eg', 'embed', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'j2bryson', 'mikarv', 'supergovernance', 'zeynep')
+Core Items: ('academ', 'ai', 'algorithm', 'amplifi', 'assess', 'attribut', 'autom', 'autonom', 'broader', 'cc', 'contextu', 'copyright', 'data', 'eg', 'forthcom', 'gmail', 'hash', 'intervent', 'keynot', 'logist', 'metric', 'ml', 'postdoc', 'presum', 'scrape', 'sociolog', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'autonom', 'cf', 'intervent', 'keynot', 'ml', 'postdoc', 'scrape', 'sociolog']
+Duplicate Count: 1
+
+Core Users: ('jen_keesmaat', 'jessebett', 'kongaloosh', 'megberetta', 'supergovernance')
+Core Items: ('absorb', 'acronym', 'admiss', 'ai', 'amii', 'analyt', 'assess', 'autom', 'autonom', 'bike', 'bureaucraci', 'cargo', 'civic', 'classif', 'cohort', 'commut', 'condo', 'congest', 'conscious', 'contextu', 'convey', 'cycl', 'cyclist', 'data', 'densiti', 'digit', 'dive', 'dough', 'ecolog', 'edmonton', 'emiss', 'environment', 'ethic', 'exponenti', 'fellowship', 'flow', 'forum', 'framework', 'gov', 'grad', 'gradschool', 'grandfath', 'handgun', 'ht', 'impost', 'incent', 'inclus', 'increment', 'intersect', 'intervent', 'intranet', 'janell', 'lane', 'liabil', 'literaci', 'liveabl', 'logist', 'manuscript', 'maxim', 'median', 'misus', 'mitig', 'mose', 'mosh', 'msc', 'municip', 'naval', 'neighbourhood', 'nuanc', 'ontario', 'oxford', 'pedestrian', 'percept', 'phd', 'philosophi', 'pia', 'plow', 'procur', 'rad', 'ravin', 'reliabl', 'retract', 'sept', 'sidewalk', 'snow', 'softwar', 'stakehold', 'streetcar', 'suburb', 'tbs', 'tech', 'toronto', 'transit', 'trek', 'undergrad', 'urban', 'user', 'vancouv', 'vienna', 'virgil', 'waterfront')
+Most Typical Words: ['autonom', 'commut', 'congest', 'environment', 'intersect', 'intervent', 'liveabl', 'neighbourhood', 'pedestrian', 'transit']
+Duplicate Count: 2
+
+Core Users: ('TedOnPrivacy', 'alexstamos', 'j2bryson', 'mikarv', 'supergovernance')
+Core Items: ('academ', 'aggreg', 'algorithm', 'assess', 'attribut', 'autom', 'autonom', 'binari', 'broader', 'browser', 'cc', 'classif', 'contextu', 'copyright', 'data', 'eg', 'ethic', 'gmail', 'hash', 'intervent', 'keynot', 'malwar', 'metric', 'mitig', 'ml', 'presum', 'privaci', 'recipi', 'scrape', 'semant', 'tracker', 'user', 'vpn')
+Most Typical Words: ['algorithm', 'autonom', 'cf', 'dataset', 'differenti', 'intervent', 'keynot', 'ml', 'privaci', 'semant']
+Duplicate Count: 13
+
+Core Users: ('SeanTrende', 'Smerity', 'alexstamos', 'tyrell_turing', 'yoavgo')
+Core Items: ('abstract', 'analog', 'api', 'broader', 'compon', 'cough', 'dataset', 'deriv', 'ecosystem', 'embed', 'gmail', 'hypothesi', 'metric', 'misus', 'ml', 'nlp', 'nuanc', 'optim', 'outlier', 'python', 'scrape', 'semant', 'undergrad', 'unifi')
+Most Typical Words: ['algorithm', 'amplifi', 'analog', 'api', 'dataset', 'embed', 'metric', 'ml', 'neurosci', 'scrape']
+Duplicate Count: 3
+
+Core Users: ('EvanSelinger', 'elizabeth_joh', 'katecrawford', 'mikarv', 'mmitchell_ai')
+Core Items: ('academ', 'ai', 'alexa', 'algorithm', 'analog', 'analys', 'anatomi', 'artifici', 'assess', 'autom', 'autonom', 'autonomi', 'bandit', 'bind', 'biometr', 'broader', 'carpent', 'categor', 'cc', 'character', 'clickbait', 'clive', 'coauthor', 'conceptu', 'confer', 'constraint', 'contextu', 'coopt', 'copyright', 'cough', 'data', 'derail', 'discours', 'divers', 'dna', 'dystopian', 'eg', 'embed', 'emphas', 'environment', 'essay', 'ethic', 'exoner', 'facial', 'fair', 'forthcom', 'framework', 'frt', 'gps', 'hash', 'horrifi', 'hypothet', 'ico', 'identif', 'inclus', 'increment', 'infinit', 'intervent', 'mehta', 'misdemeanor', 'mitig', 'ml', 'montreal', 'nip', 'nuanc', 'obstruct', 'patent', 'pd', 'philosophi', 'preprint', 'presum', 'privaci', 'probat', 'procedur', 'processor', 'proprietari', 'provis', 'recipi', 'recognit', 'redact', 'regul', 'relev', 'resourc', 'retali', 'richardson', 'robot', 'scope', 'scrape', 'secreci', 'selfregul', 'sexism', 'sf', 'sharehold', 'siri', 'skeptic', 'slipperi', 'societ', 'step1', 'storytel', 'subpoena', 'surveil', 'syllabus', 'tech', 'technolog', 'tenur', 'thinker', 'thrill', 'ture', 'turnov', 'ucl', 'undergrad', 'vpn', 'workshop', 'wut', 'yuh')
+Most Typical Words: ['algorithm', 'autonomi', 'biometr', 'facial', 'frt', 'intervent', 'privaci', 'recognit', 'sexism', 'surveil']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'alexstamos', 'j2bryson', 'supergovernance', 'zeynep')
+Core Items: ('ai', 'amplifi', 'attribut', 'autom', 'autonom', 'broader', 'data', 'ecosystem', 'ethic', 'gmail', 'intervent', 'keynot', 'logist', 'metric', 'misus', 'ml', 'nuanc', 'postdoc', 'scrape', 'sociolog', 'sphere')
+Most Typical Words: ['algorithm', 'amplifi', 'autonom', 'cf', 'dataset', 'intervent', 'keynot', 'metric', 'ml', 'sociolog']
+Duplicate Count: 2
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'autonom', 'benchmark', 'broader', 'causal', 'character', 'clarifi', 'cpu', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'github', 'intuit', 'invari', 'linear', 'logist', 'malici', 'metric', 'misus', 'nlp', 'optim', 'output', 'python', 'regress', 'rl', 'scrape', 'semant', 'skeptic', 'societ', 'subset', 'tricki')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'ml', 'rl', 'skeptic']
+Duplicate Count: 7
+
+Core Users: ('JohnHolbein1', 'haldaume3', 'j2bryson', 'natematias', 'roydanroy')
+Core Items: ('academ', 'bandit', 'binari', 'causal', 'cluster', 'coauthor', 'conceptu', 'dataset', 'deriv', 'eg', 'faculti', 'hah', 'hypothesi', 'intervent', 'mit', 'postdoc', 'preprint', 'preregist', 'principl', 'replic', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'cf', 'coauthor', 'intervent', 'postdoc', 'regress', 'tenur']
+Duplicate Count: 4
+
+Core Users: ('Miles_Brundage', 'Smerity', 'haldaume3', 'jackclarkSF', 'mikarv')
+Core Items: ('analog', 'assess', 'autom', 'benchmark', 'broader', 'cc', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'malici', 'misus', 'ml', 'nlp', 'output', 'rl', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'broader', 'dataset', 'dota', 'eg', 'embed', 'malici', 'ml', 'rl', 'scrape']
+Duplicate Count: 18
+
+Core Users: ('JohnHolbein1', 'haldaume3', 'natematias', 'tyrell_turing', 'zacharylipton')
+Core Items: ('abstract', 'academ', 'admiss', 'algorithm', 'benchmark', 'broader', 'categor', 'causal', 'character', 'cluster', 'correl', 'dataset', 'eg', 'faculti', 'hah', 'hypothesi', 'intervent', 'moreov', 'phd', 'postdoc', 'preprint', 'preregist', 'regress', 'replic', 'rl', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'intervent', 'ml', 'neurosci', 'postdoc', 'regress', 'rl', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'edwardhkennedy', 'jackclarkSF', 'johnmyleswhite')
+Core Items: ('assumpt', 'autonom', 'benchmark', 'broader', 'causal', 'cis', 'coauthor', 'conceptu', 'constraint', 'dataset', 'eg', 'error', 'frequent', 'github', 'hypothet', 'identif', 'intervent', 'intuit', 'logist', 'method', 'optim', 'regress', 'scrape', 'selfregul', 'skeptic', 'tenur', 'tricki', 'variabl')
+Most Typical Words: ['benchmark', 'causal', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'regress', 'skeptic', 'tenur']
+Duplicate Count: 14
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'natematias', 'roydanroy', 'tyrell_turing')
+Core Items: ('academ', 'algorithm', 'bandit', 'broader', 'categor', 'causal', 'character', 'cluster', 'coauthor', 'conceptu', 'correl', 'dataset', 'deriv', 'environment', 'faculti', 'hypothesi', 'hypothet', 'identif', 'intervent', 'mit', 'optim', 'postdoc', 'preprint', 'preregist', 'replic', 'scrape', 'semant', 'skeptic', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'frt', 'hypothesi', 'identif', 'intervent', 'regress', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'j2bryson', 'natematias', 'roydanroy')
+Core Items: ('academ', 'approxim', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'cpu', 'dataset', 'deriv', 'frequent', 'gmail', 'hypothesi', 'impost', 'intervent', 'lotteri', 'mit', 'ml', 'optim', 'ponder', 'postdoc', 'preprint', 'preregist', 'replic', 'scrape', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'cf', 'coauthor', 'dataset', 'hypothesi', 'intervent', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'haldaume3', 'jackclarkSF')
+Core Items: ('analog', 'benchmark', 'broader', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'faculti', 'frequent', 'hah', 'hypothesi', 'impost', 'malici', 'misus', 'nlp', 'output', 'ponder', 'replic', 'rl', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'intervent', 'ponder', 'rl', 'scrape', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'SeanTrende', 'jackclarkSF', 'johnmyleswhite')
+Core Items: ('addendum', 'analog', 'autonom', 'benchmark', 'broader', 'causal', 'conceptu', 'constraint', 'dataset', 'eg', 'error', 'frequent', 'github', 'hypothesi', 'hypothet', 'identif', 'intervent', 'intuit', 'regress', 'scrape', 'selfregul', 'skeptic', 'tenur', 'tricki', 'undergrad', 'variabl')
+Most Typical Words: ['broader', 'causal', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'regress', 'skeptic', 'tenur']
+Duplicate Count: 6
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'Miles_Brundage', 'haldaume3', 'natematias')
+Core Items: ('academ', 'broader', 'causal', 'cc', 'character', 'clarifi', 'cluster', 'conceptu', 'dataset', 'eg', 'emphas', 'faculti', 'hah', 'hypothesi', 'hypothet', 'identif', 'intervent', 'output', 'postdoc', 'preregist', 'recognit', 'replic', 'scrape', 'skeptic', 'sociolog', 'tenur', 'ture', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'replic', 'tenur']
+Duplicate Count: 20
+
+Core Users: ('EvanSelinger', 'SeanTrende', 'bencasselman', 'jackclarkSF', 'qjurecic')
+Core Items: ('8chan', 'addendum', 'adequ', 'ai', 'altogeth', 'analog', 'assess', 'astonish', 'atari', 'autom', 'autonom', 'autonomi', 'barr', 'bea', 'benchmark', 'bennet', 'biometr', 'blasio', 'breyer', 'broader', 'bullock', 'bush', 'categor', 'cc', 'character', 'chernobyl', 'clickbait', 'clive', 'coauthor', 'compon', 'conceptu', 'congression', 'constraint', 'consumpt', 'coopt', 'cps', 'dani', 'data', 'dataset', 'deduct', 'delaney', 'deleg', 'discours', 'domain', 'dota', 'ds', 'ec', 'economist', 'eg', 'egregi', 'embed', 'emphas', 'environment', 'error', 'essay', 'ethic', 'facial', 'fascin', 'fdr', 'framework', 'frequent', 'frt', 'fryer', 'fulltim', 'gdp', 'gerrymand', 'github', 'grappl', 'greenland', 'hampshir', 'hawley', 'hypothesi', 'hypothet', 'identif', 'impeach', 'incoher', 'increment', 'inher', 'inquiri', 'interfac', 'intersect', 'intervent', 'intuit', 'iowa', 'jeb', 'klobuchar', 'labor', 'largescal', 'lbj', 'literari', 'litig', 'malici', 'mason', 'maxim', 'metric', 'misus', 'mit', 'mortgag', 'mueller', 'nc', 'newslett', 'nh', 'norm', 'nuanc', 'nv', 'oath', 'obstruct', 'outlier', 'output', 'partisan', 'payrol', 'pelosi', 'philosophi', 'privaci', 'procedur', 'puzzl', 'q1', 'realign', 'recess', 'recognit', 'redistrict', 'regress', 'revis', 'revisit', 'rhaegal', 'risen', 'rl', 'robot', 'scalabl', 'scrape', 'selfregul', 'sharehold', 'shutdown', 'skeptic', 'slipperi', 'slowdown', 'societ', 'substanti', 'subtweet', 'surveil', 'tenur', 'thinker', 'tricki', 'ture', 'tx', 'ufo', 'undergrad', 'variabl', 'volatil', 'winnow', 'writeup')
+Most Typical Words: ['broader', 'dataset', 'frt', 'fryer', 'fulltim', 'rebound', 'revis', 'skeptic', 'surveil', 'volatil']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'edwardhkennedy', 'johnmyleswhite', 'mikarv')
+Core Items: ('academ', 'analog', 'assumpt', 'autom', 'benchmark', 'broader', 'causal', 'cc', 'cis', 'coauthor', 'conceptu', 'coopt', 'eg', 'error', 'forthcom', 'hash', 'hypothet', 'identif', 'intervent', 'logist', 'method', 'optim', 'regress', 'scrape', 'skeptic', 'statist', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'frt', 'identif', 'intervent', 'regress', 'skeptic', 'surveil', 'tenur']
+Duplicate Count: 4
+
+Core Users: ('JohnHolbein1', 'Smerity', 'haldaume3', 'mikarv', 'natematias')
+Core Items: ('academ', 'aggreg', 'algorithm', 'analog', 'analys', 'autom', 'benchmark', 'broader', 'causal', 'clarifi', 'cluster', 'dataset', 'eg', 'embed', 'faculti', 'forthcom', 'frequent', 'hah', 'hypothesi', 'impost', 'intervent', 'ml', 'output', 'ponder', 'postdoc', 'preprint', 'preregist', 'replic', 'scrape', 'societ', 'sociolog', 'tenur')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'dataset', 'hypothesi', 'intervent', 'ponder', 'regress', 'scrape', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('BrendaKLeong', 'EvanSelinger', 'katecrawford', 'mikarv', 'supergovernance')
+Core Items: ('ai', 'analog', 'assess', 'autom', 'autonom', 'biometr', 'broader', 'cc', 'clickbait', 'contextu', 'coopt', 'data', 'ethic', 'facial', 'framework', 'intervent', 'recognit')
+Most Typical Words: ['algorithm', 'autom', 'autonom', 'autonomi', 'biometr', 'broader', 'frt', 'intervent', 'privaci', 'surveil']
+Duplicate Count: 2
+
+Core Users: ('BrendaKLeong', 'ShannonVallor', 'jasonmillar', 'mikarv', 'supergovernance')
+Core Items: ('analog', 'assess', 'autom', 'autonom', 'biometr', 'broader', 'clickbait', 'contextu', 'data', 'embed', 'ethic', 'ethicist', 'framework', 'robot', 'tech')
+Most Typical Words: ['algorithm', 'assess', 'autom', 'autonom', 'biometr', 'clickbait', 'contextu', 'embed', 'ethic', 'ethicist']
+Duplicate Count: 1
+
+Core Users: ('DaraKaye', 'GeoffreySupran', 'harvard_data', 'leah_boustan', 'megberetta')
+Core Items: ('1970s', 'algorithm', 'alum', 'analyt', 'artifici', 'auburn', 'audiobook', 'autonomi', 'ave', 'baldwin', 'bea', 'bestsel', 'bps', 'breathless', 'brett', 'bureaucraci', 'causal', 'center', 'civic', 'clarifi', 'climat', 'cluster', 'co2', 'coauthor', 'cohort', 'condo', 'copyright', 'credul', 'dara', 'data', 'delay', 'denial', 'denier', 'destabil', 'diagnosi', 'digit', 'discoveri', 'disenfranchis', 'eager', 'earnest', 'edmonton', 'eloqu', 'emiss', 'environment', 'essay', 'et', 'factcheck', 'fellowship', 'forum', 'fossil', 'fratern', 'fuel', 'gbs', 'github', 'gotcha', 'gov', 'grad', 'grandfath', 'ham', 'hebrew', 'ht', 'incent', 'inclus', 'increment', 'intervent', 'janell', 'jerusalem', 'katharin', 'legitimis', 'liabil', 'literaci', 'literari', 'manuscript', 'matern', 'maxim', 'maxwel', 'migrat', 'mit', 'neoliber', 'ninth', 'noisi', 'noon', 'oct', 'overflow', 'oxford', 'pajama', 'pancra', 'phd', 'pivot', 'playbook', 'postdoc', 'premis', 'presum', 'preval', 'princeton', 'procur', 'quantum', 'quota', 'rad', 'rafael', 'ras', 'rebuk', 'reef', 'refram', 'replic', 'scientist', 'shabbat', 'shakespear', 'shapiro', 'sharehold', 'slack', 'snow', 'stakehold', 'statist', 'storytel', 'suburb', 'takeaway', 'tbr', 'tech', 'tenur', 'tfw', 'tobacco', 'trajectori', 'tx', 'umbrella', 'urban', 'vegetarian', 'virgil', 'yknow')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'literari', 'maxwel', 'oct', 'oxford', 'princeton', 'shakespear', 'tfw']
+Duplicate Count: 7
+
+Core Users: ('Smerity', 'catherineols', 'rctatman', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'api', 'approxim', 'autom', 'benchmark', 'clarifi', 'contextu', 'dataset', 'debug', 'domain', 'embed', 'ensembl', 'forum', 'gmail', 'gpu', 'linear', 'linguist', 'metric', 'mit', 'ml', 'nlp', 'output', 'phd', 'python', 'regress', 'semant', 'supervis', 'undergrad')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'embed', 'gustav', 'linguist', 'ml', 'nlp', 'pacif', 'semant']
+Duplicate Count: 5
+
+Core Users: ('Smerity', 'jackclarkSF', 'rctatman', 'yoavgo', 'zacharylipton')
+Core Items: ('api', 'approxim', 'autom', 'autonom', 'benchmark', 'broader', 'contextu', 'dataset', 'debug', 'domain', 'dota', 'embed', 'ensembl', 'frequent', 'github', 'gmail', 'gpu', 'linear', 'linguist', 'metric', 'misus', 'mit', 'ml', 'nlp', 'output', 'python', 'regress', 'rl', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'embed', 'gustav', 'ml', 'nlp', 'pacif', 'rl', 'semant']
+Duplicate Count: 5
+
+Core Users: ('AnnaJaneSmith4', 'dhackett1565', 'joey_doubleyou', 'william_lou', 'wtevs')
+Core Items: ('brandon', 'dribbl', 'foul', 'franchis', 'fred', 'gianni', 'hernandez', 'isaac', 'jv', 'lin', 'milwauke', 'monro', 'norm', 'offseason', 'okc', 'pascal', 'pelican', 'playoff', 'raptor', 'rotat', 'serg', 'shooter', 'smdh', 'steph', 'turnov')
+Most Typical Words: ['gianni', 'jv', 'lin', 'mccaw', 'offenc', 'pascal', 'raptor', 'rebound', 'rotat', 'serg']
+Duplicate Count: 23
+
+Core Users: ('AnnaJaneSmith4', 'ekoreen', 'joey_doubleyou', 'william_lou', 'wtevs')
+Core Items: ('brandon', 'butler', 'djokov', 'dribbl', 'foul', 'franchis', 'fred', 'gianni', 'hockey', 'isaac', 'jv', 'kyle', 'lin', 'looney', 'norm', 'nurs', 'offseason', 'pascal', 'playoff', 'pod', 'raptor', 'rotat', 'smdh', 'steph', 'turnov')
+Most Typical Words: ['foul', 'gianni', 'isaac', 'jv', 'kyle', 'pascal', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 6
+
+Core Users: ('AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'wtevs')
+Core Items: ('dribbl', 'foul', 'franchis', 'fred', 'gianni', 'isaac', 'jv', 'lin', 'norm', 'pascal', 'playoff', 'raptor', 'rotat', 'steph', 'turnov')
+Most Typical Words: ['foul', 'gianni', 'jv', 'mccaw', 'offenc', 'pascal', 'raptor', 'rebound', 'rotat', 'serg']
+Duplicate Count: 22
+
+Core Users: ('AnnaJaneSmith4', 'ZachLowe_NBA', 'dhackett1565', 'joey_doubleyou', 'william_lou', 'wtevs')
+Core Items: ('dribbl', 'foul', 'franchis', 'fred', 'gianni', 'jv', 'lin', 'milwauke', 'norm', 'offseason', 'pascal', 'pelican', 'playoff', 'raptor', 'rotat', 'serg', 'steph', 'turnov')
+Most Typical Words: ['gianni', 'jv', 'mccaw', 'offenc', 'pascal', 'pod', 'raptor', 'rebound', 'rotat', 'serg']
+Duplicate Count: 10
+
+Core Users: ('Miles_Brundage', 'Smerity', 'alexstamos', 'jackclarkSF', 'yoavgo')
+Core Items: ('analog', 'api', 'benchmark', 'broader', 'clarifi', 'compon', 'dataset', 'domain', 'dota', 'ecosystem', 'eg', 'embed', 'frequent', 'gmail', 'lms', 'malici', 'metric', 'misus', 'mitig', 'ml', 'moat', 'nlp', 'output', 'python', 'rl', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'broader', 'dataset', 'embed', 'metric', 'ml', 'rl', 'scrape']
+Duplicate Count: 12
+
+Core Users: ('GraphicMatt', 'Richard_Florida', 'jen_keesmaat', 'jessebett', 'm_layton')
+Core Items: ('budget', 'commut', 'condo', 'congest', 'cycl', 'cyclist', 'environment', 'ford', 'intersect', 'lane', 'median', 'municip', 'neighbourhood', 'ontario', 'plow', 'provinci', 'ravin', 'sidewalk', 'streetcar', 'subsidi', 'suburb', 'toronto', 'transit', 'ttc', 'urban', 'vancouv', 'vienna', 'waterfront')
+Most Typical Words: ['councillor', 'hearn', 'municip', 'ontario', 'perk', 'provinci', 'sidewalk', 'transit', 'ttc', 'waterfront']
+Duplicate Count: 14
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'edwardhkennedy', 'johnmyleswhite', 'tyrell_turing')
+Core Items: ('addendum', 'analog', 'benchmark', 'broader', 'causal', 'cis', 'correl', 'eg', 'error', 'hypothesi', 'identif', 'intervent', 'logist', 'method', 'nuanc', 'optim', 'outlier', 'regress', 'semant', 'skeptic', 'sociolog', 'statist', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'hypothesi', 'identif', 'intervent', 'neurosci', 'regress', 'tenur', 'variabl']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('approxim', 'assumpt', 'benchmark', 'broader', 'bw', 'causal', 'cis', 'confound', 'distribut', 'eg', 'error', 'estim', 'faculti', 'identif', 'intervent', 'invari', 'latent', 'linear', 'logist', 'method', 'regress', 'robust', 'semant', 'skeptic', 'statist', 'variabl', 'varianc')
+Most Typical Words: ['benchmark', 'bw', 'causal', 'confound', 'identif', 'intervent', 'ml', 'regress', 'semant', 'tenur']
+Duplicate Count: 10
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'edwardhkennedy', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('approxim', 'benchmark', 'broader', 'causal', 'cis', 'confound', 'eg', 'error', 'estim', 'faculti', 'github', 'identif', 'intervent', 'invari', 'linear', 'logist', 'method', 'optim', 'preregist', 'python', 'regress', 'replic', 'robust', 'semant', 'skeptic', 'statist', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['benchmark', 'causal', 'confound', 'identif', 'intervent', 'ml', 'regress', 'replic', 'semant', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'edwardhkennedy', 'jackclarkSF', 'johnmyleswhite')
+Core Items: ('benchmark', 'broader', 'causal', 'cis', 'dataset', 'eg', 'error', 'estim', 'frequent', 'github', 'identif', 'intervent', 'intuit', 'logist', 'method', 'optim', 'preregist', 'python', 'regress', 'replic', 'scrape', 'skeptic', 'statist', 'tricki', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['benchmark', 'causal', 'dataset', 'eg', 'github', 'identif', 'intervent', 'regress', 'skeptic', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('Smerity', 'johnmyleswhite', 'mikarv', 'tdietterich', 'zacharylipton')
+Core Items: ('algorithm', 'analog', 'approxim', 'assess', 'assumpt', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'correl', 'cpu', 'data', 'eg', 'embed', 'hash', 'hypothesi', 'increment', 'intervent', 'invari', 'linear', 'logist', 'method', 'metric', 'ml', 'nlp', 'optim', 'phd', 'preprint', 'python', 'recipi', 'regress', 'robust', 'scrape', 'semant', 'societ', 'supervis', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'Smerity', 'johnmyleswhite', 'roydanroy', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'atom', 'benchmark', 'broader', 'causal', 'coauthor', 'conceptu', 'cpu', 'dataset', 'embed', 'exponenti', 'faculti', 'fraction', 'frequent', 'hypothesi', 'impost', 'intervent', 'invari', 'linear', 'logist', 'lotteri', 'mathemat', 'mathematician', 'ml', 'nlp', 'optim', 'ponder', 'preprint', 'python', 'regress', 'scrape', 'semant', 'skeptic', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'intervent', 'ml', 'regress', 'semant', 'tenur']
+Duplicate Count: 4
+
+Core Users: ('CANADALAND', 'JesseBrown', 'ProbCausation', 'ZachLowe_NBA', 'lawfareblog')
+Core Items: ('alberta', 'andr', 'assang', 'astonish', 'attribut', 'bail', 'bailout', 'baker', 'barr', 'bate', 'bay', 'benjamin', 'broader', 'bryant', 'butler', 'bw', 'canadian', 'chesney', 'congression', 'contributor', 'ddos', 'defer', 'divers', 'document', 'doug', 'edmonton', 'environment', 'episod', 'fbis', 'gianni', 'greenland', 'guest', 'harman', 'ht', 'incarcer', 'indict', 'injunct', 'intervent', 'jokic', 'judiciari', 'juri', 'kris', 'lavin', 'levant', 'libel', 'lim', 'lotsa', 'lotteri', 'mccabe', 'milwauke', 'misrepres', 'mueller', 'nato', 'newsroom', 'ninth', 'obstruct', 'offseason', 'okc', 'oppo', 'org', 'pelican', 'peterson', 'playoff', 'pod', 'podcast', 'postseason', 'redact', 'reform', 'retract', 'revisit', 'rosenberg', 'secreci', 'shaun', 'sleaz', 'sloan', 'stakehold', 'steph', 'subpoena', 'subsidi', 'suitor', 'thunder', 'turnov', 'unrel', 'upcom', 'utah', 'vancouv', 'vishnu', 'wag', 'work', 'xmas')
+Most Typical Words: ['bailout', 'baker', 'benjamin', 'chesney', 'congression', 'injunct', 'pod', 'podcast', 'rosenberg', 'vishnu']
+Duplicate Count: 10
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'aprilaser', 'peltzmadeline')
+Core Items: ('8chan', 'boomer', 'bret', 'cabl', 'caravan', 'carlson', 'contributor', 'factcheck', 'fox', 'hanniti', 'nationalist', 'neonazi', 'newsroom', 'rhetor', 'segment', 'shapiro', 'shooter', 'tucker', 'wikileak')
+Most Typical Words: ['bret', 'cabl', 'carlson', 'factcheck', 'fox', 'hanniti', 'neonazi', 'retract', 'terf', 'tucker']
+Duplicate Count: 8
+
+Core Users: ('3r1nG', 'JesseBrown', 'MattGertz', 'curaffairs', 'sina_lana')
+Core Items: ('amplifi', 'assang', 'astonish', 'attribut', 'avec', 'bacteria', 'bailout', 'beginn', 'bennet', 'bret', 'bryant', 'bullock', 'bureaucraci', 'buttigieg', 'cabl', 'canadian', 'carlson', 'caucus', 'cgi', 'classif', 'cluster', 'congression', 'conspiraci', 'contributor', 'darwin', 'dataset', 'debug', 'debunk', 'defer', 'delaney', 'disinfo', 'eager', 'earnest', 'ebola', 'editor', 'elsi', 'environment', 'eoin', 'epoch', 'essay', 'esta', 'evolut', 'factcheck', 'fisher', 'flint', 'fossil', 'fox', 'gabbard', 'graph', 'guantanamo', 'hacker', 'hanniti', 'hickenloop', 'hog', 'ht', 'hunch', 'hypothesi', 'infinit', 'influenti', 'infus', 'irrespons', 'keynot', 'klobuchar', 'levant', 'lindsey', 'lotsa', 'medicar', 'misrepres', 'monica', 'monopoli', 'narco', 'neonazi', 'neuron', 'newslett', 'newsroom', 'nich', 'nyt', 'oppo', 'org', 'orourk', 'parasit', 'partisan', 'paywal', 'pete', 'peterson', 'pharma', 'pod', 'podcast', 'postdoc', 'procrastin', 'puerto', 'quantum', 'qui', 'radic', 'replic', 'retract', 'revisit', 'rico', 'robot', 'secreci', 'segment', 'sept', 'seth', 'shapiro', 'shaun', 'skeptic', 'sleaz', 'stakehold', 'static', 'subsidi', 'swarm', 't_t', 'thunder', 'thurmond', 'tiller', 'transcript', 'tucker', 'unrel', 'url', 'vegetarian', 'venezuelan', 'verifi', 'voicemail', 'wikileak', 'xmas')
+Most Typical Words: ['algorithm', 'bailout', 'cabl', 'dataset', 'debunk', 'fox', 'graph', 'hanniti', 'retract', 'unrel']
+Duplicate Count: 1
+
+Core Users: ('3r1nG', 'JesseBrown', 'JohnHolbein1', 'curaffairs', 'willsommer')
+Core Items: ('academ', 'addendum', 'amplifi', 'assang', 'astonish', 'attribut', 'backlash', 'bailout', 'bannon', 'benchmark', 'bennet', 'bret', 'broader', 'bryant', 'bullock', 'bureaucraci', 'buttigieg', 'canadian', 'caravan', 'caucus', 'cluster', 'coauthor', 'comet', 'conceptu', 'conspiraci', 'contributor', 'counterprotest', 'dataset', 'debunk', 'defer', 'delaney', 'disinfo', 'disinform', 'dmv', 'doo', 'dsa', 'eager', 'editor', 'environment', 'eoin', 'epoch', 'essay', 'esta', 'faculti', 'flint', 'forthcom', 'frequent', 'gabbard', 'gateway', 'gavin', 'gofundm', 'graph', 'guantanamo', 'hacker', 'hah', 'harsher', 'hickenloop', 'ht', 'hypothesi', 'hypothet', 'identif', 'impost', 'influenti', 'infowar', 'infus', 'intervent', 'irrespons', 'jfk', 'jill', 'kirk', 'klobuchar', 'levant', 'lizard', 'longrun', 'loomer', 'lotsa', 'manuscript', 'medicar', 'milo', 'misrepres', 'monopoli', 'narco', 'neonazi', 'newslett', 'newsroom', 'nyt', 'oppo', 'org', 'orourk', 'pete', 'peterson', 'pharma', 'pnas', 'pod', 'podcast', 'ponder', 'preregist', 'promin', 'puerto', 'qanon', 'radic', 'regress', 'replic', 'retract', 'revisit', 'rico', 'scrape', 'secreci', 'sept', 'shapiro', 'shaun', 'skeptic', 'sleaz', 'sociolog', 'stakehold', 'subsidi', 'subtweet', 'tenur', 'tfw', 'thunder', 'thurmond', 'tpusa', 'transcript', 'turnout', 'unrel', 'url', 'variabl', 'varianc', 'venezuelan', 'verifi', 'voicemail', 'xmas')
+Most Typical Words: ['bailout', 'causal', 'dataset', 'gofundm', 'infowar', 'pod', 'qanon', 'regress', 'retract', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('3r1nG', 'JesseBrown', 'RespectableLaw', 'sina_lana', 'zacharylipton')
+Core Items: ('11k', 'abject', 'admiss', 'altogeth', 'amplifi', 'approxim', 'assang', 'astonish', 'attribut', 'autonom', 'avec', 'bacteria', 'bailout', 'ballsack', 'baton', 'beginn', 'benchmark', 'boomer', 'bridget', 'broader', 'bryant', 'bw', 'canadian', 'carl', 'categor', 'causal', 'cgi', 'character', 'chud', 'classif', 'cluster', 'confound', 'connor', 'contributor', 'darwin', 'dataset', 'debug', 'debunk', 'defer', 'discours', 'disinfo', 'disinform', 'dsa', 'eager', 'earnest', 'elsi', 'embed', 'environment', 'eoin', 'epoch', 'esta', 'evolut', 'exponenti', 'faculti', 'fashi', 'fellowship', 'fossil', 'fraction', 'garfield', 'goon', 'graph', 'hacker', 'hardcor', 'heya', 'histrion', 'ht', 'hunch', 'hypothesi', 'increment', 'infinit', 'influenti', 'infowar', 'infus', 'invari', 'irrespons', 'jonathon', 'keynot', 'latent', 'levant', 'linear', 'lob', 'logist', 'lotsa', 'malici', 'menac', 'metaphor', 'metric', 'militia', 'misplac', 'misrepres', 'ml', 'moreov', 'narco', 'neuron', 'nevertheless', 'newsroom', 'nich', 'nlp', 'nra', 'nyt', 'oppo', 'org', 'overst', 'parasit', 'paywal', 'peterson', 'phd', 'podcast', 'possum', 'postdoc', 'preprint', 'procrastin', 'promin', 'puerto', 'quantum', 'qui', 'rancid', 'recipi', 'regress', 'replic', 'retract', 'rico', 'rl', 'robot', 'robust', 'rube', 'scold', 'scoreboard', 'secreci', 'semant', 'sept', 'shaun', 'sleaz', 'stakehold', 'static', 'subset', 'subsidi', 'supervis', 'swarm', 'thunder', 'unblock', 'unrel', 'unsettl', 'url', 'vegetarian', 'venezuelan', 'verifi', 'weirdo', 'xmas')
+Most Typical Words: ['algorithm', 'bailout', 'causal', 'dataset', 'graph', 'heya', 'ml', 'retract', 'unrel', 'weirdo']
+Duplicate Count: 6
+
+Core Users: ('3r1nG', 'JesseBrown', 'JohnHolbein1', 'curaffairs', 'mkoplow')
+Core Items: ('academ', 'addendum', 'aipac', 'amplifi', 'assad', 'assang', 'astonish', 'attribut', 'backlash', 'bailout', 'benchmark', 'bennet', 'bennett', 'blasio', 'bret', 'broader', 'bryant', 'bullock', 'bureaucraci', 'buttigieg', 'canadian', 'caucus', 'character', 'cluster', 'coauthor', 'compon', 'conceptu', 'congression', 'contributor', 'dataset', 'debunk', 'defer', 'delaney', 'disinfo', 'disinform', 'dmv', 'doo', 'eager', 'editor', 'environment', 'eoin', 'epoch', 'essay', 'esta', 'faculti', 'flint', 'forthcom', 'frequent', 'gabbard', 'gaza', 'graph', 'guantanamo', 'hacker', 'hah', 'hama', 'harsher', 'hebrew', 'hickenloop', 'ht', 'hypothesi', 'hypothet', 'identif', 'idf', 'impost', 'indict', 'influenti', 'infus', 'inher', 'instanc', 'intervent', 'irrespons', 'isra', 'israel', 'jerusalem', 'klobuchar', 'levant', 'longrun', 'lotsa', 'manuscript', 'medicar', 'misrepres', 'monopoli', 'narco', 'netanyahu', 'newslett', 'newsroom', 'nyt', 'oppo', 'org', 'orourk', 'pete', 'peterson', 'pharma', 'pnas', 'pod', 'podcast', 'ponder', 'preregist', 'puerto', 'radic', 'reconcili', 'regress', 'replic', 'retract', 'revisit', 'rico', 'scrape', 'secreci', 'sept', 'shapiro', 'shaun', 'skeptic', 'sleaz', 'sociolog', 'stakehold', 'subsidi', 'subtweet', 'tenur', 'tfw', 'thunder', 'thurmond', 'tlaib', 'transcript', 'turnout', 'unfold', 'unrel', 'url', 'variabl', 'varianc', 'venezuelan', 'verifi', 'voicemail', 'xmas', 'zionism', 'zionist')
+Most Typical Words: ['bailout', 'causal', 'dataset', 'graph', 'identif', 'intervent', 'netanyahu', 'regress', 'retract', 'tenur']
+Duplicate Count: 13
+
+Core Users: ('3r1nG', 'JesseBrown', 'MattGertz', 'aprilaser', 'curaffairs')
+Core Items: ('8chan', 'amplifi', 'astonish', 'attribut', 'bailout', 'bay', 'bennet', 'bret', 'bryant', 'bullock', 'bureaucraci', 'buttigieg', 'cabl', 'canadian', 'carlson', 'caucus', 'cluster', 'congression', 'conspiraci', 'contractor', 'contributor', 'dataset', 'debunk', 'defer', 'delaney', 'deregul', 'disinfo', 'disinform', 'eager', 'earnest', 'ebola', 'editor', 'environment', 'eoin', 'epoch', 'essay', 'esta', 'evacu', 'factcheck', 'fisher', 'flint', 'forum', 'fox', 'francisco', 'gabbard', 'graph', 'guantanamo', 'hacker', 'hanniti', 'heron', 'heya', 'hickenloop', 'hog', 'ht', 'influenti', 'infus', 'irrespons', 'klobuchar', 'levant', 'liberti', 'lindsey', 'lotsa', 'medicar', 'merci', 'misrepres', 'monica', 'monopoli', 'narco', 'neonazi', 'newslett', 'newsroom', 'nich', 'nyt', 'oakland', 'oppo', 'org', 'orourk', 'partisan', 'pete', 'peterson', 'pharma', 'pod', 'podcast', 'puerto', 'rad', 'radic', 'regul', 'retali', 'retract', 'revisit', 'rico', 'secreci', 'segment', 'sept', 'seth', 'sf', 'shapiro', 'shaun', 'skeptic', 'slate', 'sleaz', 'spectacl', 'stakehold', 'subsidi', 'tech', 'thunder', 'thurmond', 'tiller', 'transcript', 'tucker', 'tx', 'ty', 'unrel', 'url', 'venezuelan', 'verifi', 'voicemail', 'wikileak', 'xmas', 'zine')
+Most Typical Words: ['bailout', 'cabl', 'debunk', 'fox', 'graph', 'hanniti', 'newsroom', 'retract', 'subsidi', 'unrel']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'MichaelSLinden', 'Richard_Florida', 'jen_keesmaat', 'katecrawford')
+Core Items: ('autonom', 'broader', 'commut', 'cycl', 'deregul', 'environment', 'facial', 'increment', 'inequ', 'intervent', 'median', 'recognit', 'suburb', 'toronto', 'trickl', 'vancouv', 'vienna')
+Most Typical Words: ['autonom', 'commut', 'environment', 'frt', 'increment', 'intervent', 'liveabl', 'pedestrian', 'surveil', 'transit']
+Duplicate Count: 10
+
+Core Users: ('JohnHolbein1', 'MichaelSLinden', 'ModeledBehavior', 'bencasselman', 'johnmyleswhite')
+Core Items: ('addendum', 'approxim', 'benchmark', 'broader', 'causal', 'cps', 'fiscal', 'gdp', 'github', 'graph', 'intervent', 'labor', 'longrun', 'medicaid', 'neoliber', 'optim', 'payrol', 'recess', 'regress', 'revis', 'shutdown', 'skeptic', 'slowdown', 'subtweet', 'tfw', 'variabl', 'volatil')
+Most Typical Words: ['benchmark', 'broader', 'causal', 'econ', 'fryer', 'intervent', 'regress', 'skeptic', 'tenur', 'volatil']
+Duplicate Count: 3
+
+Core Users: ('AINowInstitute', 'GeoffreySupran', 'harvard_data', 'leah_boustan', 'megberetta')
+Core Items: ('1970s', 'ai', 'algorithm', 'analyt', 'anatomi', 'artifici', 'auburn', 'autom', 'autonomi', 'ave', 'bps', 'breathless', 'bureaucraci', 'causal', 'center', 'civic', 'clarifi', 'climat', 'cluster', 'co2', 'coauthor', 'cofound', 'cohort', 'condo', 'credul', 'data', 'delay', 'denial', 'denier', 'deploy', 'destabil', 'diagnosi', 'digit', 'discoveri', 'discriminatori', 'edmonton', 'eloqu', 'emiss', 'environment', 'et', 'facial', 'factcheck', 'faculti', 'fellowship', 'forum', 'fossil', 'fuel', 'gbs', 'github', 'gotcha', 'gov', 'grad', 'grandfath', 'harm', 'hebrew', 'ht', 'impact', 'incent', 'increment', 'inequ', 'intervent', 'janell', 'jerusalem', 'katharin', 'legitimis', 'liabil', 'literaci', 'litig', 'maxim', 'maxwel', 'migrat', 'mit', 'neoliber', 'ninth', 'noisi', 'noon', 'oct', 'oxford', 'pancra', 'phd', 'playbook', 'postdoc', 'presum', 'preval', 'princeton', 'procur', 'quantum', 'quota', 'rafael', 'ras', 'rebuk', 'recognit', 'reef', 'refram', 'regul', 'replic', 'richardson', 'scientist', 'secreci', 'shabbat', 'sharehold', 'slack', 'snow', 'societ', 'stakehold', 'statist', 'suburb', 'takeaway', 'tech', 'technolog', 'tenur', 'tobacco', 'trajectori', 'tx', 'umbrella', 'urban', 'virgil')
+Most Typical Words: ['algorithm', 'ave', 'causal', 'coauthor', 'condo', 'maxwel', 'oct', 'oxford', 'postdoc', 'princeton']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'MichaelSLinden', 'ModeledBehavior', 'Susan_Athey', 'causalinf')
+Core Items: ('broader', 'capita', 'causal', 'cluster', 'economist', 'fiscal', 'longrun', 'medicaid', 'neoliber', 'recess', 'regress', 'tenur', 'tfw', 'undergrad', 'variabl')
+Most Typical Words: ['causal', 'econ', 'economist', 'identif', 'intervent', 'regress', 'replic', 'tenur', 'tfw', 'volatil']
+Duplicate Count: 4
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'j2bryson', 'natematias', 'roydanroy')
+Core Items: ('academ', 'bandit', 'binari', 'broader', 'causal', 'cc', 'cluster', 'coauthor', 'conceptu', 'dataset', 'deriv', 'discours', 'ethic', 'faculti', 'hypothesi', 'hypothet', 'identif', 'intervent', 'mit', 'postdoc', 'preprint', 'preregist', 'replic', 'scrape', 'semant', 'skeptic', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'cf', 'coauthor', 'frt', 'identif', 'intervent', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'mikarv', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('algorithm', 'analog', 'approxim', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'contextu', 'data', 'debug', 'eg', 'embed', 'ensembl', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'metric', 'ml', 'nlp', 'optim', 'phd', 'preprint', 'python', 'recipi', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 5
+
+Core Users: ('MichaelSLinden', 'ModeledBehavior', 'Smerity', 'matthewstoller', 'timoreilly')
+Core Items: ('1970s', 'analog', 'approxim', 'broader', 'congression', 'deficit', 'deregul', 'extract', 'fiscal', 'inequ', 'medicaid', 'metric', 'monetari', 'monopoli', 'neoliber', 'optim', 'output', 'ponder', 'recess', 'silicon', 'thinker')
+Most Typical Words: ['algorithm', 'approxim', 'dataset', 'deficit', 'econ', 'economist', 'ecosystem', 'metric', 'neoliber', 'ponder']
+Duplicate Count: 4
+
+Core Users: ('Smerity', 'jackclarkSF', 'supergovernance', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'approxim', 'assess', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'data', 'dataset', 'dota', 'eg', 'embed', 'exponenti', 'frequent', 'hypothesi', 'increment', 'invari', 'logist', 'maxim', 'metric', 'misus', 'ml', 'nlp', 'nuanc', 'optim', 'output', 'phd', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl']
+Duplicate Count: 7
+
+Core Users: ('AINowInstitute', 'BlakeMurphyODC', 'GeoffreySupran', 'harvard_data', 'leah_boustan')
+Core Items: ('1970s', 'ai', 'algorithm', 'analyt', 'anatomi', 'artifici', 'auburn', 'autom', 'autonomi', 'ave', 'basketbal', 'bps', 'brandon', 'breathless', 'causal', 'cba', 'center', 'clarifi', 'climat', 'cluster', 'co2', 'coauthor', 'cofound', 'condo', 'credul', 'data', 'delay', 'denial', 'denier', 'deploy', 'destabil', 'diagnosi', 'discoveri', 'discriminatori', 'eloqu', 'emiss', 'environment', 'et', 'facial', 'factcheck', 'faculti', 'fellowship', 'flier', 'fossil', 'fuel', 'gbs', 'github', 'gotcha', 'grad', 'harm', 'hebrew', 'hernandez', 'hockey', 'ht', 'impact', 'increment', 'inequ', 'intervent', 'jerusalem', 'katharin', 'legitimis', 'liabil', 'litig', 'maxim', 'maxwel', 'mccaw', 'migrat', 'mit', 'neoliber', 'ninth', 'noisi', 'noon', 'nuanc', 'oct', 'offseason', 'oxford', 'pancra', 'phd', 'pj', 'playbook', 'postdoc', 'presum', 'preval', 'princeton', 'quantum', 'quota', 'rafael', 'raptor', 'ras', 'rebuk', 'recognit', 'reef', 'refram', 'regul', 'replic', 'richardson', 'roster', 'russ', 'scientist', 'secreci', 'shabbat', 'sharehold', 'shooter', 'skeptic', 'slack', 'societ', 'straightforward', 'suburb', 'takeaway', 'tech', 'technolog', 'tenur', 'tobacco', 'trajectori', 'tx', 'umbrella', 'urban', 'vlad')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'hernandez', 'maxwel', 'oct', 'oxford', 'postdoc', 'princeton', 'raptor']
+Duplicate Count: 5
+
+Core Users: ('JohnHolbein1', 'MichaelSLinden', 'ModeledBehavior', 'bencasselman', 'matthewstoller')
+Core Items: ('1970s', 'addendum', 'benchmark', 'broader', 'cps', 'deficit', 'economist', 'fiscal', 'gdp', 'labor', 'longrun', 'medicaid', 'monetari', 'neoliber', 'payrol', 'recess', 'regress', 'revis', 'shutdown', 'skeptic', 'slowdown', 'subtweet', 'tfw', 'variabl', 'volatil')
+Most Typical Words: ['causal', 'econ', 'economist', 'fryer', 'intervent', 'regress', 'revis', 'skeptic', 'tenur', 'volatil']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'roydanroy', 'tdietterich', 'zacharylipton')
+Core Items: ('approxim', 'autonom', 'bandit', 'benchmark', 'broader', 'causal', 'coauthor', 'conceptu', 'cpu', 'dataset', 'embed', 'exponenti', 'faculti', 'fraction', 'frequent', 'hypothesi', 'impost', 'increment', 'invari', 'linear', 'lotteri', 'metric', 'ml', 'nlp', 'optim', 'phd', 'ponder', 'preprint', 'rl', 'robust', 'scrape', 'semant', 'supervis', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'metric', 'ml', 'regress', 'rl', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('DaraKaye', 'GeoffreySupran', 'fhuszar', 'harvard_data', 'megberetta')
+Core Items: ('algorithm', 'alum', 'analyt', 'approxim', 'artifici', 'assumpt', 'auburn', 'audiobook', 'autonomi', 'ave', 'baldwin', 'bea', 'bestsel', 'binari', 'bps', 'breathless', 'brett', 'browser', 'bureaucraci', 'causal', 'center', 'civic', 'climat', 'cluster', 'co2', 'cohort', 'compress', 'constraint', 'copyright', 'credul', 'dali', 'dara', 'data', 'delay', 'denial', 'denier', 'deriv', 'destabil', 'diagnosi', 'digit', 'discoveri', 'disenfranchis', 'distribut', 'domain', 'eager', 'earnest', 'edmonton', 'eloqu', 'embed', 'emiss', 'environment', 'essay', 'et', 'factcheck', 'fellowship', 'forum', 'fossil', 'fraction', 'fratern', 'fuel', 'gbs', 'github', 'gov', 'grad', 'grandfath', 'graph', 'ham', 'ht', 'hungarian', 'hypothesi', 'impract', 'incent', 'inclus', 'increment', 'intervent', 'invari', 'janell', 'katharin', 'legitimis', 'liabil', 'linear', 'literaci', 'literari', 'manuscript', 'matern', 'maxim', 'maxwel', 'mit', 'ml', 'nevertheless', 'nich', 'ninth', 'nip', 'noisi', 'noon', 'oct', 'optim', 'overflow', 'oxford', 'pajama', 'pancra', 'phd', 'pivot', 'playbook', 'pnas', 'pointer', 'postdoc', 'premis', 'procur', 'quantum', 'quota', 'rad', 'rafael', 'rebuk', 'reef', 'refram', 'rephras', 'robust', 'sarcast', 'scientist', 'shakespear', 'shapiro', 'sharehold', 'skeptic', 'slack', 'snow', 'stakehold', 'statist', 'storytel', 'subtweet', 'takeaway', 'tbr', 'tech', 'tfw', 'tobacco', 'trajectori', 'variabl', 'vegetarian', 'virgil', 'yknow')
+Most Typical Words: ['algorithm', 'causal', 'embed', 'intervent', 'literari', 'maxwel', 'oct', 'oxford', 'shakespear', 'tfw']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'mikarv', 'natematias', 'roydanroy', 'zacharylipton')
+Core Items: ('academ', 'aggreg', 'algorithm', 'analys', 'approxim', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'dataset', 'embed', 'exponenti', 'faculti', 'fellowship', 'forthcom', 'fraction', 'hypothesi', 'intervent', 'linear', 'ml', 'phd', 'preprint', 'preregist', 'recipi', 'regress', 'replic', 'scrape', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'dataset', 'intervent', 'ml', 'preprint', 'regress', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'Smerity', 'alexstamos', 'mikarv', 'zeynep')
+Core Items: ('academ', 'algorithm', 'amplifi', 'analog', 'api', 'autom', 'benchmark', 'broader', 'conceptu', 'data', 'dataset', 'ecosystem', 'embed', 'forthcom', 'frequent', 'gmail', 'hah', 'hash', 'hypothesi', 'impost', 'intervent', 'metric', 'misus', 'ml', 'ponder', 'scrape', 'societ', 'sociolog', 'sphere', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'broader', 'dataset', 'forthcom', 'intervent', 'metric', 'ml', 'scrape', 'tenur']
+Duplicate Count: 5
+
+Core Users: ('JohnHolbein1', 'ModeledBehavior', 'bencasselman', 'fhuszar', 'johnmyleswhite')
+Core Items: ('addendum', 'approxim', 'assumpt', 'benchmark', 'broader', 'causal', 'cps', 'economist', 'github', 'graph', 'intervent', 'invari', 'labor', 'linear', 'longrun', 'optim', 'pnas', 'recess', 'regress', 'revis', 'skeptic', 'slowdown', 'subtweet', 'tfw', 'variabl', 'volatil')
+Most Typical Words: ['approxim', 'benchmark', 'causal', 'econ', 'fryer', 'intervent', 'regress', 'skeptic', 'tenur', 'volatil']
+Duplicate Count: 14
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'Smerity', 'mikarv', 'zeynep')
+Core Items: ('academ', 'algorithm', 'analog', 'autom', 'benchmark', 'biometr', 'broader', 'cc', 'clickbait', 'conceptu', 'coopt', 'dataset', 'embed', 'forthcom', 'frequent', 'gmail', 'hah', 'hypothesi', 'hypothet', 'identif', 'impost', 'intervent', 'metric', 'ml', 'ponder', 'scrape', 'skeptic', 'societ', 'sociolog', 'sphere', 'tenur')
+Most Typical Words: ['algorithm', 'broader', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'scrape', 'surveil', 'tenur']
+Duplicate Count: 4
+
+Core Users: ('ModeledBehavior', 'Susan_Athey', 'causalinf', 'matthewstoller', 'timoreilly')
+Core Items: ('1970s', '8chan', 'abram', 'alum', 'analog', 'anand', 'applic', 'approxim', 'astonish', 'atari', 'bailout', 'baldwin', 'banker', 'becker', 'bestsel', 'blasio', 'brad', 'capita', 'causal', 'ccp', 'cluster', 'confer', 'congression', 'conner', 'corn', 'cps', 'cunningham', 'dd', 'defer', 'deficit', 'demolit', 'deregul', 'deterr', 'dishonest', 'dudley', 'econom', 'economist', 'ecosystem', 'ensembl', 'essay', 'expenditur', 'extract', 'fascin', 'fiscal', 'fizzi', 'framework', 'francisco', 'freelanc', 'gaf', 'gerald', 'guido', 'hawley', 'heartland', 'hhs', 'impact', 'incent', 'incoher', 'increment', 'inequ', 'inflat', 'instanc', 'investor', 'irrespons', 'keyn', 'kylo', 'labor', 'lectur', 'liabil', 'logist', 'longrun', 'longterm', 'machin', 'median', 'medicaid', 'melatonin', 'method', 'mmt', 'monetari', 'monopoli', 'neoliber', 'obamacar', 'optim', 'ought', 'output', 'paig', 'pharma', 'phd', 'pivot', 'ponder', 'postdoc', 'prequel', 'provis', 'rancid', 'recess', 'reinforc', 'renegoti', 'retali', 'revis', 'rogan', 'rubin', 'sharehold', 'shrink', 'silicon', 'slack', 'slipperi', 'slowdown', 'soybean', 'spark', 'specul', 'stanford', 'straightforward', 'tech', 'tenur', 'tfw', 'thinker', 'tpp', 'trilog', 'tucker', 'ture', 'ufo', 'undergrad', 'unrestrict', 'valley', 'variabl', 'veto', 'volatil')
+Most Typical Words: ['algorithm', 'causal', 'dudley', 'econ', 'economist', 'median', 'monopoli', 'neoliber', 'tenur', 'volatil']
+Duplicate Count: 15
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'jackclarkSF', 'zacharylipton')
+Core Items: ('analog', 'autonom', 'benchmark', 'broader', 'causal', 'character', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'hypothesi', 'impost', 'malici', 'metric', 'misus', 'ml', 'nlp', 'output', 'ponder', 'regress', 'replic', 'rl', 'scrape', 'skeptic', 'societ', 'subset')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'ml', 'rl', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'johnmyleswhite', 'tdietterich', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'assumpt', 'autonom', 'benchmark', 'broader', 'causal', 'correl', 'cpu', 'dataset', 'eg', 'embed', 'faculti', 'frequent', 'hypothesi', 'impost', 'increment', 'intervent', 'invari', 'linear', 'logist', 'method', 'metric', 'ml', 'nlp', 'optim', 'phd', 'ponder', 'python', 'regress', 'robust', 'scrape', 'semant', 'skeptic', 'supervis', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'intervent', 'metric', 'ml', 'regress']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'johnmyleswhite', 'natematias', 'zeynep')
+Core Items: ('academ', 'aggreg', 'algorithm', 'benchmark', 'broader', 'causal', 'cluster', 'conceptu', 'correl', 'dataset', 'error', 'faculti', 'forthcom', 'github', 'hah', 'hypothesi', 'intervent', 'logist', 'preregist', 'python', 'regress', 'replic', 'skeptic', 'sociolog', 'tenur', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'github', 'hypothesi', 'intervent', 'regress', 'replic', 'sociolog', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'mikarv', 'zacharylipton', 'zeynep')
+Core Items: ('academ', 'algorithm', 'amplifi', 'approxim', 'autom', 'benchmark', 'broader', 'causal', 'conceptu', 'dataset', 'embed', 'faculti', 'forthcom', 'frequent', 'gmail', 'hah', 'hypothesi', 'impost', 'intervent', 'logist', 'metric', 'ml', 'nlp', 'ponder', 'preprint', 'recipi', 'regress', 'scrape', 'societ', 'sociolog', 'sphere')
+Most Typical Words: ['algorithm', 'broader', 'causal', 'dataset', 'embed', 'forthcom', 'intervent', 'ml', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('DaraKaye', 'KT_So_It_Goes', 'ModeledBehavior', 'julia_azari', 'wtevs')
+Core Items: ('1970s', '8chan', 'aerosmith', 'alum', 'analog', 'approxim', 'astonish', 'atari', 'audiobook', 'baldwin', 'bandaid', 'basketbal', 'bea', 'bestsel', 'boomer', 'bret', 'brett', 'buffalo', 'butler', 'cameo', 'capita', 'cardigan', 'carl', 'chandler', 'coauthor', 'compon', 'conspiraci', 'copyright', 'corbin', 'corncob', 'cps', 'cuck', 'cult', 'dara', 'demolit', 'deriv', 'derrick', 'disenfranchis', 'dropbox', 'dudley', 'dvr', 'eager', 'earnest', 'ec', 'economist', 'eleven', 'essay', 'examin', 'exoner', 'facet', 'fiscal', 'franchis', 'fratern', 'fred', 'freelanc', 'freight', 'garrison', 'gilmor', 'goblin', 'goddamn', 'gofundm', 'grad', 'grail', 'greenland', 'greg', 'grift', 'ham', 'handwrit', 'hawley', 'heartland', 'hockey', 'horrifi', 'howdi', 'ineffect', 'inflat', 'iowa', 'irrespons', 'jeffrey', 'knit', 'kurt', 'labor', 'literari', 'longrun', 'manuscript', 'marriott', 'matern', 'median', 'medicaid', 'midlif', 'midwestern', 'milwauke', 'monetari', 'monro', 'montag', 'nationalist', 'ncaa', 'neoliber', 'newslett', 'nostalgia', 'optim', 'output', 'overflow', 'oxford', 'pajama', 'partisan', 'pivot', 'pj', 'premis', 'rad', 'raptor', 'recess', 'revis', 'rhetor', 'rug', 'shakespear', 'shapiro', 'shooter', 'shrink', 'slack', 'slowdown', 'smdh', 'soybean', 'specul', 'storytel', 'subset', 'substant', 'subtweet', 'suburb', 'syllabus', 'tbr', 'tenur', 'tfw', 'trajectori', 'treadmil', 'tucker', 'turd', 'ufo', 'unrestrict', 'vegetarian', 'volatil', 'walsh', 'wildest', 'worldview', 'yessssss', 'yknow')
+Most Typical Words: ['approxim', 'dudley', 'earnest', 'hawley', 'literari', 'median', 'shakespear', 'tenur', 'tfw', 'volatil']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'EvanSelinger', 'JohnHolbein1', 'WillOremus', 'alexstamos', 'mikarv')
+Core Items: ('academ', 'algorithm', 'amplifi', 'analog', 'analytica', 'backlash', 'biometr', 'broader', 'cc', 'clickbait', 'coauthor', 'conceptu', 'coopt', 'copyright', 'data', 'ethic', 'facial', 'forthcom', 'framework', 'frequent', 'gmail', 'hash', 'hypothet', 'identif', 'intervent', 'mitig', 'ml', 'privaci', 'scrape', 'sharehold', 'skeptic', 'subtweet', 'surveil', 'tech', 'tenur', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'broader', 'frt', 'identif', 'intervent', 'privaci', 'scrape', 'surveil', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'j2bryson', 'natematias', 'roydanroy', 'zacharylipton')
+Core Items: ('academ', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'confound', 'dataset', 'deriv', 'discours', 'exponenti', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'intervent', 'linear', 'mit', 'ml', 'phd', 'postdoc', 'preprint', 'preregist', 'regress', 'replic', 'semant', 'sociolog', 'subset', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'binari', 'causal', 'cf', 'coauthor', 'intervent', 'ml', 'regress', 'semant', 'tenur']
+Duplicate Count: 19
+
+Core Users: ('j2bryson', 'natematias', 'roydanroy', 'tyrell_turing', 'zacharylipton')
+Core Items: ('academ', 'algorithm', 'autonom', 'bandit', 'binari', 'categor', 'causal', 'character', 'coauthor', 'confound', 'correl', 'deriv', 'discours', 'eg', 'exponenti', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'intervent', 'linear', 'mit', 'ml', 'moreov', 'optim', 'phd', 'postdoc', 'preprint', 'rl', 'semant', 'sociolog', 'subset', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'cf', 'intervent', 'ml', 'postdoc', 'semant', 'tenur']
+Duplicate Count: 44
+
+Core Users: ('fhuszar', 'natematias', 'roydanroy', 'tyrell_turing', 'yisongyue')
+Core Items: ('algorithm', 'analog', 'approxim', 'bandit', 'binari', 'causal', 'compress', 'constraint', 'correl', 'deriv', 'distribut', 'fraction', 'hypothesi', 'intervent', 'linear', 'mit', 'ml', 'nip', 'optim', 'phd', 'preprint', 'quantum', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'embed', 'hypothesi', 'intervent', 'ml', 'tenur', 'variabl']
+Duplicate Count: 4
+
+Core Users: ('natematias', 'roydanroy', 'tyrell_turing', 'yisongyue', 'zacharylipton')
+Core Items: ('algorithm', 'analog', 'approxim', 'bandit', 'binari', 'categor', 'causal', 'character', 'correl', 'deriv', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'linear', 'mit', 'ml', 'moreov', 'optim', 'phd', 'postdoc', 'preprint', 'rl', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'ml', 'neurosci', 'preprint', 'rl', 'semant', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'SolomonMg', 'mikarv', 'natematias')
+Core Items: ('academ', 'aggreg', 'algorithm', 'analys', 'autom', 'biometr', 'broader', 'causal', 'cc', 'cluster', 'coauthor', 'conceptu', 'coopt', 'data', 'dataset', 'faculti', 'forthcom', 'framework', 'github', 'hypothesi', 'hypothet', 'identif', 'intervent', 'preprint', 'preregist', 'presum', 'replic', 'scope', 'scrape', 'skeptic', 'sociolog', 'tenur', 'turnout', 'varianc')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'frt', 'identif', 'intervent', 'replic', 'surveil', 'tenur']
+Duplicate Count: 6
+
+Core Users: ('DaraKaye', 'aprilaser', 'kongaloosh', 'realnamepolicy', 'timhwang')
+Core Items: ('8chan', '_ツ_', 'abstract', 'admiss', 'ala', 'alum', 'amii', 'apex', 'apparel', 'apropo', 'artifici', 'audiobook', 'baldwin', 'barb', 'bay', 'bea', 'bestsel', 'brett', 'comput', 'conscious', 'contractor', 'convey', 'copyright', 'corn', 'dara', 'def', 'deregul', 'disenfranchis', 'dive', 'eager', 'earnest', 'edmonton', 'essay', 'evacu', 'fascin', 'forum', 'francisco', 'fratern', 'freelanc', 'frequent', 'garfield', 'grad', 'gradschool', 'ham', 'hash', 'heron', 'heya', 'ie', 'impost', 'infinit', 'liberti', 'literari', 'longterm', 'machin', 'manuscript', 'matern', 'meltdown', 'merci', 'msc', 'neonazi', 'newsroom', 'nich', 'oakland', 'overflow', 'oxford', 'pajama', 'password', 'percept', 'phd', 'philosophi', 'pivot', 'premis', 'rad', 'regul', 'reliabl', 'retali', 'rube', 'sept', 'sf', 'shakespear', 'shapiro', 'slate', 'softwar', 'spectacl', 'storytel', 'tbr', 'tech', 'tfw', 'tx', 'ty', 'vegetarian', 'wikileak', 'woof', 'yknow', 'zine')
+Most Typical Words: ['amii', 'copyright', 'disenfranchis', 'garfield', 'literari', 'nich', 'pivot', 'rad', 'shakespear', 'tfw']
+Duplicate Count: 8
+
+Core Users: ('Miles_Brundage', 'SeanTrende', 'Smerity', 'jackclarkSF', 'juliagalef')
+Core Items: ('analog', 'benchmark', 'broader', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'emphas', 'error', 'frequent', 'hypothesi', 'intuit', 'malici', 'misus', 'nlp', 'nuanc', 'output', 'rl', 'scrape', 'skeptic', 'societ', 'tricki')
+Most Typical Words: ['algorithm', 'broader', 'dataset', 'dota', 'eg', 'embed', 'malici', 'rl', 'scrape', 'skeptic']
+Duplicate Count: 29
+
+Core Users: ('Smerity', 'alexstamos', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('algorithm', 'amplifi', 'analog', 'api', 'approxim', 'attribut', 'autonom', 'benchmark', 'broader', 'categor', 'causal', 'character', 'compon', 'correl', 'cough', 'data', 'ecosystem', 'embed', 'gmail', 'hypothesi', 'increment', 'invari', 'metric', 'misus', 'ml', 'moreov', 'nlp', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'rl', 'robust', 'scrape', 'semant', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant', 'unifi']
+Duplicate Count: 12
+
+Core Users: ('j2bryson', 'jackclarkSF', 'mikarv', 'tdietterich', 'zacharylipton')
+Core Items: ('academ', 'ai', 'algorithm', 'approxim', 'assess', 'attribut', 'autonom', 'benchmark', 'broader', 'causal', 'cc', 'cf', 'compon', 'confound', 'data', 'discours', 'eg', 'embed', 'increment', 'intervent', 'invari', 'mit', 'ml', 'phd', 'postdoc', 'preprint', 'presum', 'recipi', 'rl', 'robot', 'robust', 'scrape', 'semant', 'societ', 'subset', 'supervis')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'dataset', 'eg', 'embed', 'ml', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'j2bryson', 'mikarv', 'roydanroy', 'yoavgo')
+Core Items: ('academ', 'analog', 'approxim', 'autom', 'binari', 'broader', 'cc', 'coauthor', 'contextu', 'cpu', 'dataset', 'deriv', 'eg', 'embed', 'git', 'gmail', 'gpu', 'hypothesi', 'intervent', 'linear', 'lotteri', 'metric', 'mit', 'ml', 'nlp', 'notat', 'preprint', 'presum', 'python', 'scrape', 'semant', 'societ')
+Most Typical Words: ['algorithm', 'binari', 'cf', 'dataset', 'embed', 'keynot', 'mit', 'ml', 'semant', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'Richard_Florida', 'SeanTrende', 'matthewstoller', 'timoreilly')
+Core Items: ('analog', 'blasio', 'broader', 'congression', 'deficit', 'deregul', 'ecosystem', 'extract', 'inequ', 'metric', 'monopoli', 'neoliber', 'nuanc', 'outlier', 'silicon', 'thinker', 'trickl', 'valley')
+Most Typical Words: ['broader', 'congression', 'deficit', 'inequ', 'metric', 'monopoli', 'neoliber', 'neonazi', 'partisan', 'skeptic']
+Duplicate Count: 6
+
+Core Users: ('Smerity', 'alexstamos', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('amplifi', 'analog', 'api', 'approxim', 'attribut', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'data', 'dataset', 'ecosystem', 'embed', 'ensembl', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'metric', 'misus', 'mitig', 'ml', 'nlp', 'optim', 'phd', 'python', 'rl', 'robust', 'scrape', 'semant', 'supervis', 'unifi')
+Most Typical Words: ['algorithm', 'amplifi', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 77
+
+Core Users: ('Miles_Brundage', 'Smerity', 'haldaume3', 'yoavgo', 'zacharylipton')
+Core Items: ('abstract', 'admiss', 'analog', 'approxim', 'broader', 'character', 'clarifi', 'dataset', 'domain', 'eg', 'embed', 'faculti', 'gmail', 'linear', 'lms', 'metric', 'misus', 'ml', 'nlp', 'output', 'python', 'rl', 'scrape', 'semant', 'societ', 'subset', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'dataset', 'embed', 'metric', 'ml', 'nlp', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'catherineols', 'gokstudio', 'roydanroy', 'zacharylipton')
+Core Items: ('admiss', 'adversari', 'approxim', 'eager', 'exponenti', 'fraction', 'framework', 'github', 'gpu', 'linear', 'mit', 'ml', 'nevertheless', 'phd', 'preprint', 'pytorch', 'robust', 'semant')
+Most Typical Words: ['algorithm', 'binari', 'causal', 'exponenti', 'github', 'ml', 'nevertheless', 'preprint', 'semant', 'tenur']
+Duplicate Count: 9
+
+Core Users: ('DoctorVive', 'GeoffreySupran', 'jen_keesmaat', 'jessebett', 'm_layton')
+Core Items: ('climat', 'co2', 'commut', 'condo', 'congest', 'cyclist', 'delay', 'denial', 'denier', 'emiss', 'environment', 'fossil', 'ht', 'increment', 'intersect', 'lane', 'liabil', 'mitig', 'municip', 'neighbourhood', 'ontario', 'playbook', 'ravin', 'scientist', 'sidewalk', 'streetcar', 'toronto', 'transit')
+Most Typical Words: ['congest', 'emiss', 'environment', 'intersect', 'liveabl', 'mitig', 'neighbourhood', 'pedestrian', 'transit', 'ttc']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'berty38', 'roydanroy', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'benchmark', 'broader', 'cpu', 'dataset', 'deriv', 'embed', 'exponenti', 'fraction', 'git', 'gmail', 'gpu', 'hypothesi', 'impost', 'linear', 'lotteri', 'metric', 'mit', 'ml', 'nip', 'nlp', 'notat', 'optim', 'preprint', 'python', 'semant', 'supervis', 'undergrad')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'causal', 'dataset', 'embed', 'metric', 'ml', 'nlp', 'semant']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'j2bryson', 'roydanroy', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'amplifi', 'approxim', 'attribut', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cf', 'coauthor', 'compon', 'confound', 'data', 'deriv', 'discours', 'eg', 'embed', 'exponenti', 'fraction', 'gmail', 'hypothesi', 'increment', 'intervent', 'invari', 'keynot', 'linear', 'metric', 'ml', 'optim', 'phd', 'postdoc', 'preprint', 'rl', 'robust', 'semant', 'subset', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'amplifi', 'autonom', 'causal', 'cf', 'keynot', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('j2bryson', 'natematias', 'roydanroy', 'tdietterich', 'tyrell_turing')
+Core Items: ('algorithm', 'bandit', 'binari', 'causal', 'correl', 'deriv', 'eg', 'hypothesi', 'mit', 'optim', 'postdoc', 'preprint', 'semant', 'sociolog', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'cf', 'intervent', 'ml', 'postdoc', 'rl', 'semant', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'WillOremus', 'nathanjurgenson')
+Core Items: ('amplifi', 'analog', 'backlash', 'bret', 'broader', 'congression', 'defer', 'delaney', 'discours', 'factcheck', 'gmail', 'hawley', 'inher', 'metric', 'partisan', 'pivot', 'revisit', 'silicon', 'skeptic', 'substant', 'substanti', 'ufo', 'valley')
+Most Typical Words: ['algorithm', 'amplifi', 'backlash', 'discours', 'metric', 'neonazi', 'partisan', 'skeptic', 'straightforward', 'substant']
+Duplicate Count: 33
+
+Core Users: ('DaraKaye', 'WillOremus', 'aprilaser', 'kongaloosh', 'timhwang')
+Core Items: ('8chan', '_ツ_', 'admiss', 'ala', 'alexa', 'algorithm', 'alum', 'amii', 'amplifi', 'analog', 'analytica', 'apparel', 'artifici', 'audiobook', 'backlash', 'baldwin', 'bannon', 'barb', 'bay', 'bea', 'bestsel', 'blacklist', 'bret', 'brett', 'conscious', 'contractor', 'convey', 'copyright', 'dara', 'def', 'defer', 'delaney', 'delawar', 'deregul', 'destabil', 'disenfranchis', 'dive', 'dystopian', 'earnest', 'edmonton', 'essay', 'evacu', 'factcheck', 'fascin', 'forum', 'fraction', 'francisco', 'fratern', 'freelanc', 'frequent', 'gmail', 'grad', 'gradschool', 'ham', 'heron', 'heya', 'hypothet', 'ie', 'impost', 'infinit', 'liberti', 'literari', 'longterm', 'manuscript', 'matern', 'median', 'merci', 'mitig', 'msc', 'neonazi', 'newsroom', 'nich', 'nyt', 'oakland', 'overflow', 'oxford', 'pajama', 'percept', 'persuas', 'petul', 'phd', 'philosophi', 'pivot', 'premis', 'privaci', 'rad', 'refram', 'regul', 'reliabl', 'retali', 'revisit', 'semant', 'sept', 'sf', 'shakespear', 'shapiro', 'silicon', 'slack', 'slate', 'softwar', 'spectacl', 'standpoint', 'storytel', 'subtweet', 'surveil', 'tbr', 'tech', 'tfw', 'tx', 'ty', 'undergrad', 'valley', 'vegetarian', 'vpn', 'wikileak', 'yelp', 'yknow', 'zeppelin', 'zine')
+Most Typical Words: ['algorithm', 'delawar', 'earnest', 'literari', 'nich', 'pivot', 'privaci', 'rad', 'shakespear', 'tfw']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'johnmyleswhite')
+Core Items: ('addendum', 'analog', 'benchmark', 'broader', 'causal', 'congression', 'delaney', 'egregi', 'error', 'graph', 'hawley', 'hypothesi', 'intervent', 'metric', 'partisan', 'regress', 'skeptic', 'substant', 'substanti', 'ufo', 'variabl')
+Most Typical Words: ['benchmark', 'broader', 'causal', 'discours', 'intervent', 'partisan', 'regress', 'skeptic', 'substant', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'johnmyleswhite', 'roydanroy', 'tyrell_turing')
+Core Items: ('analog', 'approxim', 'atom', 'benchmark', 'broader', 'causal', 'cis', 'coauthor', 'conceptu', 'correl', 'cpu', 'dataset', 'deriv', 'eg', 'frequent', 'hypothesi', 'impost', 'intervent', 'linear', 'lotteri', 'mathemat', 'mathematician', 'misus', 'ml', 'optim', 'ponder', 'preprint', 'python', 'scrape', 'semant', 'skeptic', 'sociolog', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'hypothesi', 'intervent', 'regress', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'natematias', 'roydanroy', 'tyrell_turing', 'zacharylipton')
+Core Items: ('algorithm', 'analog', 'approxim', 'bandit', 'binari', 'categor', 'causal', 'character', 'correl', 'dataset', 'deriv', 'eg', 'exponenti', 'faculti', 'fellowship', 'fraction', 'hypothesi', 'irrespons', 'linear', 'misus', 'ml', 'moreov', 'nlp', 'optim', 'phd', 'postdoc', 'preprint', 'replic', 'rl', 'semant', 'sociolog', 'subset', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'dataset', 'intervent', 'ml', 'preprint', 'rl', 'semant', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'j2bryson', 'natematias', 'roydanroy')
+Core Items: ('academ', 'aggreg', 'bandit', 'binari', 'causal', 'cluster', 'coauthor', 'conceptu', 'dataset', 'deriv', 'faculti', 'github', 'hypothesi', 'intervent', 'mit', 'postdoc', 'preprint', 'preregist', 'presum', 'replic', 'semant', 'sociolog', 'tenur', 'turnout', 'url', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'cf', 'coauthor', 'intervent', 'mit', 'regress', 'tenur']
+Duplicate Count: 4
+
+Core Users: ('BrendanNyhan', 'Richard_Florida', 'Smerity', 'WillOremus', 'jen_keesmaat')
+Core Items: ('amplifi', 'analog', 'backlash', 'benchmark', 'broader', 'cycl', 'ecosystem', 'factcheck', 'frequent', 'gmail', 'incent', 'median', 'mitig', 'nuanc', 'pivot', 'silicon', 'suburb', 'toronto', 'urban', 'valley', 'vancouv', 'vienna')
+Most Typical Words: ['algorithm', 'commut', 'congest', 'dataset', 'environment', 'liveabl', 'median', 'neighbourhood', 'pedestrian', 'transit']
+Duplicate Count: 49
+
+Core Users: ('BrendanNyhan', 'ModeledBehavior', 'Richard_Florida', 'WillOremus', 'jen_keesmaat')
+Core Items: ('amplifi', 'backlash', 'broader', 'commut', 'cycl', 'factcheck', 'incent', 'irrespons', 'median', 'mitig', 'pivot', 'silicon', 'slack', 'toronto', 'urban', 'valley', 'vancouv', 'vienna')
+Most Typical Words: ['algorithm', 'commut', 'congest', 'environment', 'liveabl', 'median', 'neighbourhood', 'pedestrian', 'transit', 'vancouv']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'SeanTrende', 'Smerity', 'jackclarkSF')
+Core Items: ('addendum', 'analog', 'benchmark', 'broader', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'frequent', 'hypothesi', 'impost', 'malici', 'metric', 'misus', 'nlp', 'nuanc', 'output', 'ponder', 'replic', 'rl', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'dataset', 'intervent', 'regress', 'rl', 'scrape', 'skeptic', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'johnmyleswhite', 'roydanroy', 'tdietterich', 'tyrell_turing')
+Core Items: ('algorithm', 'analog', 'approxim', 'assumpt', 'atom', 'bandit', 'benchmark', 'broader', 'causal', 'cis', 'compon', 'correl', 'cpu', 'deriv', 'eg', 'embed', 'hypothesi', 'invari', 'linear', 'lotteri', 'mathemat', 'mathematician', 'method', 'misus', 'ml', 'optim', 'outlier', 'postdoc', 'preprint', 'python', 'rl', 'semant', 'unifi', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'hypothesi', 'ml', 'optim', 'rl', 'semant']
+Duplicate Count: 11
+
+Core Users: ('alexstamos', 'j2bryson', 'roydanroy', 'tdietterich', 'tyrell_turing')
+Core Items: ('ai', 'algorithm', 'attribut', 'autonom', 'bandit', 'binari', 'broader', 'causal', 'cf', 'coauthor', 'compon', 'correl', 'cough', 'data', 'deriv', 'eg', 'gmail', 'hypothesi', 'intervent', 'keynot', 'metric', 'misus', 'mit', 'ml', 'optim', 'outlier', 'postdoc', 'preprint', 'rl', 'semant', 'sociolog', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'keynot', 'ml', 'postdoc', 'rl', 'semant', 'unifi']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'SolomonMg', 'alexstamos', 'jackclarkSF', 'mikarv')
+Core Items: ('aggreg', 'analog', 'api', 'assess', 'autom', 'benchmark', 'broader', 'compon', 'copyright', 'data', 'dataset', 'dota', 'ecosystem', 'eg', 'embed', 'frequent', 'github', 'gmail', 'intervent', 'metric', 'misus', 'ml', 'output', 'presum', 'python', 'scope', 'scrape', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'broader', 'dataset', 'embed', 'intervent', 'metric', 'ml', 'scrape']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'gokstudio', 'hardmaru', 'mark_riedl', 'zacharylipton')
+Core Items: ('admiss', 'adversari', 'algorithm', 'atari', 'autonom', 'benchmark', 'broader', 'colab', 'dataset', 'eager', 'faculti', 'github', 'gpu', 'increment', 'kera', 'latent', 'linear', 'ml', 'nevertheless', 'nlp', 'python', 'pytorch', 'rl', 'robust', 'selfdriv', 'semant', 'stylegan', 'supervis', 'ture')
+Most Typical Words: ['algorithm', 'colab', 'dataset', 'github', 'latent', 'ml', 'rl', 'selfdriv', 'semant', 'stylegan']
+Duplicate Count: 1
+
+Core Users: ('NicolasPapernot', 'SolomonMg', 'TedOnPrivacy', 'alexstamos', 'mikarv')
+Core Items: ('adversari', 'aggreg', 'algorithm', 'api', 'attribut', 'broader', 'browser', 'contextu', 'data', 'differenti', 'dp', 'framework', 'github', 'hash', 'intervent', 'keynot', 'malwar', 'metric', 'mitig', 'ml', 'presum', 'privaci', 'recipi', 'scope', 'scrape', 'semant', 'tracker', 'vpn')
+Most Typical Words: ['algorithm', 'api', 'data', 'dataset', 'differenti', 'intervent', 'keynot', 'metric', 'ml', 'privaci']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'alexstamos', 'j2bryson', 'mikarv', 'tdietterich')
+Core Items: ('academ', 'algorithm', 'analog', 'api', 'approxim', 'assess', 'attribut', 'autom', 'autonom', 'benchmark', 'broader', 'cc', 'cf', 'compon', 'copyright', 'data', 'ecosystem', 'eg', 'embed', 'gmail', 'hash', 'hypothesi', 'intervent', 'keynot', 'metric', 'misus', 'ml', 'optim', 'postdoc', 'presum', 'scrape', 'semant', 'societ', 'unifi', 'vpn')
+Most Typical Words: ['algorithm', 'causal', 'cf', 'dataset', 'embed', 'intervent', 'keynot', 'metric', 'ml', 'scrape']
+Duplicate Count: 4
+
+Core Users: ('NicolasPapernot', 'TedOnPrivacy', 'alexstamos', 'mikarv', 'mmitchell_ai')
+Core Items: ('adversari', 'aggreg', 'algorithm', 'attribut', 'biometr', 'broader', 'contextu', 'copyright', 'data', 'differenti', 'github', 'hash', 'intervent', 'keynot', 'malwar', 'metric', 'mitig', 'ml', 'nip', 'privaci', 'recipi', 'scrape', 'semant', 'tech', 'tracker', 'vpn', 'workshop')
+Most Typical Words: ['algorithm', 'amplifi', 'dataset', 'differenti', 'keynot', 'metric', 'mitig', 'ml', 'privaci', 'scrape']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'mikarv', 'roydanroy', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'autom', 'benchmark', 'broader', 'contextu', 'cpu', 'dataset', 'deriv', 'embed', 'exponenti', 'fraction', 'git', 'gmail', 'gpu', 'hypothesi', 'linear', 'lotteri', 'metric', 'mit', 'ml', 'nlp', 'notat', 'optim', 'preprint', 'python', 'recipi', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'causal', 'dataset', 'embed', 'metric', 'ml', 'nlp', 'semant']
+Duplicate Count: 4
+
+Core Users: ('Smerity', 'alexstamos', 'catherineols', 'mikarv', 'yoavgo')
+Core Items: ('analog', 'api', 'autom', 'bind', 'broader', 'cc', 'clarifi', 'compon', 'contextu', 'copyright', 'dataset', 'detector', 'domain', 'ecosystem', 'embed', 'gmail', 'hash', 'intervent', 'metric', 'misus', 'mit', 'mitig', 'ml', 'nlp', 'python', 'scrape', 'semant', 'societ', 'undergrad', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'dataset', 'ecosystem', 'embed', 'linguist', 'metric', 'ml', 'scrape']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'Smerity', 'mark_riedl', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'autonom', 'benchmark', 'broader', 'character', 'clarifi', 'colab', 'dataset', 'domain', 'dota', 'embed', 'faculti', 'gmail', 'gpu', 'latent', 'linear', 'lms', 'metric', 'misus', 'ml', 'nlp', 'output', 'phd', 'python', 'replic', 'rl', 'scrape', 'semant', 'societ', 'stylegan', 'subset', 'supervis', 'ture', 'undergrad')
+Most Typical Words: ['algorithm', 'colab', 'dataset', 'embed', 'ml', 'nlp', 'rl', 'scrape', 'semant', 'stylegan']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'Smerity', 'hardmaru', 'jackclarkSF', 'mark_riedl')
+Core Items: ('analog', 'atari', 'benchmark', 'broader', 'colab', 'dataset', 'domain', 'github', 'misus', 'ml', 'nlp', 'output', 'rl', 'scrape', 'societ', 'stylegan', 'ture')
+Most Typical Words: ['algorithm', 'benchmark', 'colab', 'dataset', 'dota', 'github', 'rl', 'scrape', 'selfdriv', 'stylegan']
+Duplicate Count: 6
+
+Core Users: ('Miles_Brundage', 'adversariel', 'tyrell_turing', 'yisongyue', 'zacharylipton')
+Core Items: ('analog', 'categor', 'causal', 'character', 'discours', 'eg', 'interpret', 'misus', 'ml', 'moreov', 'nlp', 'noisi', 'optim', 'preprint', 'replic', 'rl', 'robust', 'semant', 'subset')
+Most Typical Words: ['algorithm', 'causal', 'character', 'dataset', 'irrespons', 'ml', 'neuron', 'neurosci', 'preprint', 'rl']
+Duplicate Count: 4
+
+Core Users: ('ErikLoomis', 'SarahTaber_bww', 'SeanMcElwee', 'jen_keesmaat', 'tyrell_turing')
+Core Items: ('1900s', '1970s', 'abolish', 'absorb', 'aftermath', 'ag', 'alg', 'algorithm', 'alpaca', 'analog', 'antiracist', 'aquaman', 'autom', 'autonom', 'backend', 'baldwin', 'blacklist', 'breyer', 'broader', 'btwn', 'cargo', 'categor', 'caucus', 'causal', 'centrist', 'character', 'cis', 'commut', 'compon', 'condo', 'congest', 'corn', 'correl', 'cough', 'countrysid', 'cycl', 'cyclist', 'dccc', 'decrimin', 'densiti', 'deriv', 'disenfranchis', 'dl', 'dock', 'dominion', 'drastic', 'ds', 'dsa', 'dynamit', 'ecolog', 'eg', 'emiss', 'enact', 'environment', 'factcheck', 'farm', 'farmer', 'fdr', 'gabriel', 'glyphos', 'handgun', 'hawley', 'hierarchi', 'homogen', 'ht', 'hypothesi', 'ila', 'incarcer', 'increment', 'incumb', 'intersect', 'intervent', 'iowa', 'irrespons', 'knight', 'labor', 'landlord', 'latinx', 'leas', 'liveabl', 'logist', 'manchin', 'median', 'medicaid', 'metaphor', 'mgmt', 'migrat', 'misus', 'mitig', 'montreal', 'moreov', 'municip', 'nc', 'neal', 'neighbourhood', 'neoliber', 'neuron', 'neurosci', 'newslett', 'nyt', 'ontario', 'optim', 'outlier', 'overst', 'partisan', 'pedestrian', 'persuas', 'physiolog', 'poll', 'porter', 'postdoc', 'prairi', 'preprint', 'primari', 'processor', 'progress', 'promin', 'radic', 'railroad', 'rancher', 'ravin', 'renter', 'revolt', 'rl', 'romain', 'rural', 'semant', 'sidewalk', 'skeptic', 'sociolog', 'soy', 'soybean', 'stewardess', 'streetcar', 'submarin', 'suburb', 'sylvi', 'tenant', 'thayer', 'tldr', 'toronto', 'tos', 'toyota', 'tpp', 'trajectori', 'transit', 'uneth', 'unifi', 'urban', 'vacuum', 'vancouv', 'variabl', 'vienna', 'waterfront', 'wynn', 'yougov')
+Most Typical Words: ['algorithm', 'dock', 'environment', 'gabriel', 'intervent', 'liveabl', 'neuron', 'neurosci', 'pedestrian', 'tenant']
+Duplicate Count: 7
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'superwuster', 'zittrain')
+Core Items: ('_ツ_', 'bret', 'brett', 'cabl', 'caravan', 'compromis', 'conspiraci', 'contributor', 'copyright', 'eager', 'factcheck', 'fox', 'hanniti', 'ht', 'jeffrey', 'shooter', 'tucker')
+Most Typical Words: ['atampt', 'bret', 'cabl', 'factcheck', 'fox', 'hanniti', 'retract', 'segment', 'selfdriv', 'tucker']
+Duplicate Count: 1
+
+Core Users: ('EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag')
+Core Items: ('aipac', 'antisemit', 'gaza', 'hama', 'hebrew', 'isra', 'israel', 'jerusalem', 'jew', 'jewish', 'netanyahu', 'orthodox', 'shabbat', 'zionism', 'zionist')
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'netanyahu', 'partisan', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 21
+
+Core Users: ('Smerity', 'mikarv', 'rctatman', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'api', 'approxim', 'autom', 'benchmark', 'broader', 'contextu', 'data', 'dataset', 'debug', 'domain', 'embed', 'ensembl', 'gmail', 'gpu', 'linear', 'linguist', 'metric', 'ml', 'nlp', 'output', 'python', 'recipi', 'regress', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'embed', 'gustav', 'metric', 'ml', 'nlp', 'pacif', 'semant']
+Duplicate Count: 8
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'Smerity', 'alexstamos')
+Core Items: ('_ツ_', 'amplifi', 'api', 'approxim', 'bret', 'broader', 'cabl', 'compon', 'conspiraci', 'contributor', 'ecosystem', 'factcheck', 'fox', 'gmail', 'hanniti', 'ineffect', 'metric', 'misus', 'ml', 'segment', 'shooter', 'tucker')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'cabl', 'dataset', 'fox', 'hanniti', 'metric', 'retract', 'scrape']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'ezraklein', 'timoreilly')
+Core Items: ('analog', 'bennet', 'broader', 'cabl', 'compromis', 'congression', 'delaney', 'egregi', 'extract', 'hawley', 'metric', 'obstruct', 'partisan', 'pelosi', 'reconcili', 'silicon', 'skeptic', 'substant', 'substanti', 'ufo', 'valley')
+Most Typical Words: ['congression', 'deficit', 'delaney', 'discours', 'neonazi', 'partisan', 'reconcili', 'skeptic', 'straightforward', 'substant']
+Duplicate Count: 2
+
+Core Users: ('BrendanNyhan', 'MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'timoreilly')
+Core Items: ('analog', 'broader', 'congression', 'delaney', 'ds', 'egregi', 'extract', 'factcheck', 'hawley', 'inequ', 'metric', 'partisan', 'pivot', 'skeptic', 'substant', 'ufo')
+Most Typical Words: ['broader', 'congression', 'deficit', 'discours', 'factcheck', 'neonazi', 'partisan', 'skeptic', 'straightforward', 'substant']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'fermatslibrary', 'johnmyleswhite', 'roydanroy', 'tdietterich')
+Core Items: ('approxim', 'assumpt', 'atom', 'bandit', 'benchmark', 'broader', 'causal', 'correl', 'cpu', 'deriv', 'eg', 'embed', 'exponenti', 'hypothesi', 'invari', 'linear', 'lotteri', 'mathemat', 'mathematician', 'method', 'metric', 'ml', 'notat', 'optim', 'python', 'semant', 'sphere', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'cpu', 'dataset', 'hypothesi', 'metric', 'ml', 'semant']
+Duplicate Count: 4
+
+Core Users: ('SussilloDavid', 'j2bryson', 'natematias', 'roydanroy', 'tyrell_turing')
+Core Items: ('academ', 'algorithm', 'analog', 'bandit', 'binari', 'causal', 'coauthor', 'correl', 'deriv', 'eg', 'hypothesi', 'intervent', 'linear', 'mit', 'neuron', 'neurosci', 'postdoc', 'preprint', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'cf', 'intervent', 'neurosci', 'postdoc', 'preprint', 'semant', 'tenur']
+Duplicate Count: 8
+
+Core Users: ('Smerity', 'fermatslibrary', 'octonion', 'roydanroy', 'thesasho')
+Core Items: ('approxim', 'atom', 'bound', 'cpu', 'deriv', 'exponenti', 'fraction', 'gpu', 'hypothesi', 'infinit', 'invert', 'lotteri', 'mathemat', 'mathematician', 'maxim', 'ml', 'notat', 'optim', 'polynomi', 'python', 'quantum', 'sphere', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'bpm', 'cpu', 'dataset', 'mathemat', 'mathematician', 'quantum', 'tenur', 'wahoo']
+Duplicate Count: 5
+
+Core Users: ('JohnHolbein1', 'Smerity', 'SolomonMg', 'roydanroy', 'tyrell_turing')
+Core Items: ('analog', 'api', 'approxim', 'benchmark', 'broader', 'causal', 'coauthor', 'conceptu', 'cpu', 'dataset', 'deriv', 'frequent', 'hypothesi', 'impost', 'misus', 'ml', 'optim', 'ponder', 'preprint', 'preregist', 'python', 'replic', 'scrape', 'semant', 'sociolog', 'tenur', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'dataset', 'hypothesi', 'intervent', 'neurosci', 'regress', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'alexdamour', 'edwardhkennedy', 'logangraham', 'zacharylipton')
+Core Items: ('assumpt', 'benchmark', 'bw', 'causal', 'confound', 'distribut', 'effici', 'estim', 'faculti', 'identif', 'ie', 'intervent', 'latent', 'logist', 'method', 'metric', 'ml', 'optim', 'recipi', 'regress', 'robust', 'variabl', 'varianc')
+Most Typical Words: ['benchmark', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'ml', 'regress', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('Miles_Brundage', 'Smerity', 'mikarv', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'benchmark', 'broader', 'cc', 'character', 'clarifi', 'contextu', 'dataset', 'domain', 'eg', 'embed', 'gmail', 'linear', 'lms', 'metric', 'misus', 'ml', 'nlp', 'output', 'preprint', 'python', 'recipi', 'rl', 'scrape', 'semant', 'societ', 'subset', 'supervis')
+Most Typical Words: ['algorithm', 'analog', 'approxim', 'dataset', 'embed', 'metric', 'ml', 'nlp', 'scrape', 'semant']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'OsitaNwanevu', 'Richard_Florida', 'SeanTrende', 'timoreilly')
+Core Items: ('analog', 'backlash', 'broader', 'congression', 'delaney', 'ecosystem', 'egregi', 'extract', 'francisco', 'hawley', 'inequ', 'metric', 'nuanc', 'outlier', 'partisan', 'silicon', 'skeptic', 'substant', 'substanti', 'trickl', 'ufo', 'valley')
+Most Typical Words: ['broader', 'congression', 'deficit', 'discours', 'inequ', 'neonazi', 'partisan', 'skeptic', 'straightforward', 'substant']
+Duplicate Count: 3
+
+Core Users: ('Smerity', 'haldaume3', 'natematias', 'roydanroy', 'tyrell_turing')
+Core Items: ('abstract', 'algorithm', 'analog', 'approxim', 'bandit', 'causal', 'clarifi', 'correl', 'cpu', 'dataset', 'deriv', 'eg', 'faculti', 'hypothesi', 'lotteri', 'misus', 'mit', 'ml', 'optim', 'output', 'postdoc', 'preprint', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'dataset', 'hypothesi', 'ml', 'neurosci', 'optim', 'postdoc', 'rl', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'Miles_Brundage', 'SeanTrende', 'Smerity')
+Core Items: ('addendum', 'analog', 'autom', 'benchmark', 'broader', 'cc', 'character', 'clarifi', 'coauthor', 'conceptu', 'dataset', 'emphas', 'frequent', 'hypothesi', 'identif', 'impost', 'intervent', 'metric', 'misus', 'nlp', 'nuanc', 'output', 'ponder', 'recognit', 'replic', 'scrape', 'skeptic', 'societ', 'tenur', 'ture', 'undergrad')
+Most Typical Words: ['algorithm', 'broader', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'scrape', 'skeptic', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('3r1nG', 'Miles_Brundage', 'ModeledBehavior', 'm_layton', 'tyrell_turing')
+Core Items: ('1970s', 'abstract', 'alg', 'algorithm', 'amplifi', 'analog', 'atari', 'bathurst', 'breweri', 'budget', 'capita', 'categor', 'causal', 'cc', 'character', 'christi', 'cis', 'clarifi', 'cluster', 'colab', 'commut', 'compon', 'condo', 'congest', 'correl', 'cough', 'cps', 'dataset', 'debunk', 'delay', 'demolit', 'deriv', 'disinfo', 'disinform', 'dl', 'domain', 'dudley', 'economist', 'eg', 'emphas', 'environment', 'eoin', 'epoch', 'erad', 'esta', 'et', 'fiscal', 'ford', 'freelanc', 'graph', 'hacker', 'hawley', 'heartland', 'hierarchi', 'ht', 'hypothesi', 'inflat', 'influenti', 'infus', 'interpret', 'intersect', 'irrespons', 'labor', 'landlord', 'lane', 'leas', 'lms', 'longrun', 'malici', 'median', 'medicaid', 'metaphor', 'misrepres', 'misus', 'mitig', 'moat', 'monetari', 'moreov', 'municip', 'narco', 'neighbourhood', 'neoliber', 'neuron', 'neurosci', 'nlp', 'noisi', 'nyt', 'ontario', 'optim', 'outlier', 'output', 'overdos', 'physiolog', 'pivot', 'plow', 'postdoc', 'preprint', 'provinci', 'puerto', 'ravin', 'recess', 'recognit', 'reconcili', 'renter', 'replic', 'retract', 'revis', 'rico', 'rl', 'romain', 'roug', 'scrape', 'semant', 'sept', 'shrink', 'sidewalk', 'skeptic', 'slack', 'slowdown', 'societ', 'sociolog', 'stn', 'streetcar', 'stylegan', 'subset', 'subsidi', 'tenant', 'tfw', 'toronto', 'trajectori', 'transit', 'ttc', 'tucker', 'ture', 'ufo', 'uneth', 'unifi', 'unrel', 'unrestrict', 'url', 'variabl', 'venezuelan', 'verifi', 'volatil', 'wynn')
+Most Typical Words: ['algorithm', 'dataset', 'graph', 'irrespons', 'metaphor', 'neuron', 'neurosci', 'output', 'rl', 'ttc']
+Duplicate Count: 16
+
+Core Users: ('alexstamos', 'jen_keesmaat', 'jessebett', 'm_layton', 'zittrain')
+Core Items: ('autonom', 'commut', 'condo', 'congest', 'copyright', 'cyclist', 'detector', 'environment', 'ht', 'intersect', 'intervent', 'lane', 'misus', 'mitig', 'municip', 'neighbourhood', 'ontario', 'plow', 'sidewalk', 'streetcar', 'toronto', 'transit')
+Most Typical Words: ['amplifi', 'congest', 'intersect', 'intervent', 'liveabl', 'mitig', 'neighbourhood', 'pedestrian', 'transit', 'ttc']
+Duplicate Count: 1
+
+Core Users: ('CANADALAND', 'GraphicMatt', 'jen_keesmaat', 'jessebett', 'liannapisani', 'm_layton', 'supergovernance')
+Core Items: ('autonom', 'budget', 'commut', 'condo', 'cyclist', 'doug', 'environment', 'ford', 'intersect', 'lane', 'mitig', 'municip', 'neighbourhood', 'ontario', 'plow', 'procur', 'provinci', 'ravin', 'sidewalk', 'streetcar', 'subsidi', 'toronto', 'transit', 'ttc', 'vancouv', 'waterfront')
+Most Typical Words: ['councillor', 'hearn', 'intersect', 'municip', 'ontario', 'perk', 'provinci', 'transit', 'ttc', 'waterfront']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'jackclarkSF', 'mark_riedl', 'roydanroy', 'zacharylipton')
+Core Items: ('ai', 'approxim', 'atari', 'autonom', 'benchmark', 'broader', 'cpu', 'dataset', 'dota', 'embed', 'exponenti', 'faculti', 'fraction', 'frequent', 'github', 'gpu', 'hypothesi', 'latent', 'linear', 'lotteri', 'maxim', 'misus', 'mit', 'ml', 'nlp', 'optim', 'output', 'phd', 'preprint', 'python', 'pytorch', 'rl', 'robot', 'scrape', 'semant', 'societ', 'supervis', 'tenur', 'vacuum')
+Most Typical Words: ['algorithm', 'approxim', 'autonom', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('DoctorVive', 'GeoffreySupran', 'MicroSFF', 'ashleyfeinberg', 'bruce_arthur')
+Core Items: ('advent', 'ala', 'alloy', 'amanda', 'annihil', 'arbitrari', 'armour', 'arya', 'aviat', 'blasio', 'bps', 'breathless', 'bret', 'cba', 'civilis', 'climat', 'co2', 'constrain', 'consumpt', 'copyright', 'credul', 'curios', 'deadlin', 'delaney', 'delay', 'denial', 'denier', 'deplor', 'destabil', 'djokov', 'dragon', 'eloqu', 'emiss', 'emit', 'emphas', 'et', 'factcheck', 'fade', 'fanfic', 'faq', 'feral', 'fossil', 'fuel', 'gbs', 'grang', 'grappl', 'grift', 'hah', 'halt', 'halv', 'hebrew', 'heh', 'hickenloop', 'hog', 'ht', 'identif', 'increment', 'insinu', 'interfac', 'katharin', 'knight', 'kofi', 'legitimis', 'liabil', 'lump', 'misrepres', 'misunderstood', 'mit', 'mitig', 'newsroom', 'ninth', 'oct', 'overflow', 'oxford', 'pancra', 'paperback', 'pelosi', 'persuas', 'playbook', 'premis', 'raisin', 'rebuk', 'reef', 'refram', 'rhetor', 'riff', 'robot', 'rode', 'scientist', 'sculptor', 'seventh', 'sharehold', 'siri', 'skull', 'slack', 'smelt', 'spaceship', 'squir', 'subtweet', 'takeaway', 'tapper', 'teller', 'toaster', 'tobacco', 'ty', 'unblock', 'unfold', 'vancouv', 'westin', 'witch', 'woof')
+Most Typical Words: ['bret', 'climat', 'delaney', 'denier', 'emiss', 'fossil', 'hog', 'identif', 'tobacco', 'unblock']
+Duplicate Count: 14
+
+Core Users: ('Smerity', 'SolomonMg', 'mikarv', 'rctatman', 'yoavgo')
+Core Items: ('aggreg', 'analog', 'api', 'autom', 'benchmark', 'broader', 'contextu', 'data', 'dataset', 'dimension', 'domain', 'embed', 'ensembl', 'github', 'gmail', 'gpu', 'linguist', 'metric', 'ml', 'nlp', 'output', 'presum', 'python', 'scope', 'scrape', 'semant', 'societ', 'varianc')
+Most Typical Words: ['algorithm', 'api', 'benchmark', 'dataset', 'embed', 'gustav', 'linguist', 'ml', 'nlp', 'pacif']
+Duplicate Count: 7
+
+Core Users: ('Smerity', 'jackclarkSF', 'roydanroy', 'tdietterich', 'zacharylipton')
+Core Items: ('approxim', 'assess', 'autonom', 'bandit', 'benchmark', 'broader', 'causal', 'compon', 'cpu', 'dataset', 'dota', 'eg', 'embed', 'exponenti', 'fraction', 'frequent', 'hypothesi', 'increment', 'invari', 'linear', 'lotteri', 'maxim', 'metric', 'misus', 'mit', 'ml', 'nlp', 'optim', 'output', 'phd', 'preprint', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 3
+
+Core Users: ('EgSophie', 'aprilaser', 'octonion', 'propublica', 'willsommer')
+Core Items: ('8chan', 'activeduti', 'adequ', 'algebra', 'altogeth', 'antiamerican', 'antisemit', 'approxim', 'audiobook', 'bannon', 'barclay', 'barrack', 'bay', 'bicycl', 'blasio', 'blockad', 'bpm', 'cadenc', 'cafeteria', 'caravan', 'cardiac', 'cargo', 'cbp', 'cellmat', 'comet', 'commemor', 'congression', 'conspiraci', 'contractor', 'cosin', 'counterprotest', 'cpu', 'crass', 'deplor', 'deregul', 'deriv', 'detector', 'dhs', 'discretionari', 'disloy', 'dsa', 'dx', 'embolden', 'enact', 'evacu', 'fbis', 'fitzgerald', 'fortran', 'forum', 'fraction', 'francisco', 'gateway', 'gavin', 'github', 'gofundm', 'gpu', 'grandchildren', 'heir', 'heron', 'heya', 'horrifi', 'identif', 'infinit', 'infowar', 'inmat', 'irrespons', 'islamophobia', 'jew', 'jewish', 'jfk', 'jill', 'kirk', 'lambert', 'legislatur', 'liberti', 'linux', 'lizard', 'lobbyist', 'loomer', 'loophol', 'maralago', 'mathemat', 'mathematician', 'maxim', 'mccabe', 'median', 'merci', 'methodist', 'milo', 'mississippi', 'nationalist', 'neonazi', 'newslett', 'newsroom', 'ngt', 'nonprofit', 'oakland', 'oasi', 'patrol', 'peterson', 'pharma', 'poc', 'pod', 'polynomi', 'presum', 'promin', 'puzzl', 'python', 'qanon', 'quantum', 'rad', 'regul', 'retali', 'semant', 'sensor', 'sf', 'sheriff', 'slate', 'soro', 'spectacl', 'successor', 'tech', 'tougher', 'tpusa', 'trout', 'tsa', 'tx', 'ty', 'vegetarian', 'veto', 'wahoo', 'wikileak', 'wv', 'zine')
+Most Typical Words: ['bpm', 'detector', 'gavin', 'gofundm', 'infowar', 'maralago', 'milo', 'neonazi', 'qanon', 'wahoo']
+Duplicate Count: 19
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'ezraklein')
+Core Items: ('_ツ_', 'barr', 'bret', 'cabl', 'compon', 'compromis', 'congression', 'conspiraci', 'contributor', 'delaney', 'factcheck', 'fox', 'hanniti', 'hawley', 'obstruct', 'partisan', 'pelosi', 'reconcili', 'rhetor', 'segment', 'shooter', 'skeptic')
+Most Typical Words: ['bret', 'cabl', 'discours', 'factcheck', 'fox', 'hanniti', 'partisan', 'reconcili', 'retract', 'tucker']
+Duplicate Count: 2
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'curaffairs', 'peltzmadeline')
+Core Items: ('boomer', 'bret', 'cabl', 'caravan', 'carlson', 'caucus', 'conspiraci', 'contributor', 'factcheck', 'hanniti', 'nationalist', 'neonazi', 'radic', 'retract', 'rhetor', 'segment', 'shapiro', 'shooter', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'carlson', 'factcheck', 'fox', 'hanniti', 'neonazi', 'retract', 'terf', 'tucker']
+Duplicate Count: 2
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'ModeledBehavior', 'peltzmadeline')
+Core Items: ('approxim', 'boomer', 'bret', 'cabl', 'caravan', 'carlson', 'conspiraci', 'contributor', 'factcheck', 'fox', 'hanniti', 'hawley', 'neonazi', 'pivot', 'rhetor', 'segment', 'shapiro', 'shooter', 'slack', 'tfw', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'carlson', 'factcheck', 'fox', 'hanniti', 'neonazi', 'retract', 'terf', 'tucker']
+Duplicate Count: 8
+
+Core Users: ('BrendanNyhan', 'MichaelSLinden', 'ModeledBehavior', 'SeanMcElwee', 'matthewstoller')
+Core Items: ('1970s', 'broader', 'deficit', 'deregul', 'enact', 'factcheck', 'fiscal', 'hawley', 'irrespons', 'median', 'medicaid', 'monetari', 'neal', 'neoliber', 'pivot', 'recess', 'specul')
+Most Typical Words: ['dccc', 'deficit', 'econ', 'economist', 'factcheck', 'median', 'medicaid', 'neoliber', 'partisan', 'yougov']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'j2bryson', 'tdietterich', 'tyrell_turing', 'yoavgo')
+Core Items: ('abstract', 'ai', 'algorithm', 'analog', 'attribut', 'autonom', 'binari', 'broader', 'causal', 'compon', 'correl', 'cough', 'data', 'debug', 'deriv', 'eg', 'embed', 'ensembl', 'gmail', 'hypothesi', 'intervent', 'keynot', 'metric', 'misus', 'mit', 'mitig', 'ml', 'optim', 'outlier', 'postdoc', 'rl', 'semant', 'sociolog', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'cf', 'embed', 'keynot', 'metric', 'ml', 'postdoc', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('jackclarkSF', 'johnmyleswhite', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('ai', 'analog', 'approxim', 'assess', 'assumpt', 'autonom', 'benchmark', 'broader', 'categor', 'causal', 'character', 'cis', 'compon', 'correl', 'eg', 'embed', 'github', 'hypothesi', 'increment', 'intuit', 'invari', 'linear', 'logist', 'method', 'metric', 'misus', 'ml', 'moreov', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'regress', 'rl', 'robust', 'semant', 'skeptic', 'supervis', 'tricki', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'embed', 'ml', 'neurosci', 'postdoc', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('j2bryson', 'natematias', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('academ', 'ai', 'algorithm', 'attribut', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'categor', 'causal', 'cf', 'character', 'compon', 'confound', 'correl', 'deriv', 'discours', 'eg', 'embed', 'faculti', 'fellowship', 'hypothesi', 'increment', 'intervent', 'invari', 'metric', 'mit', 'ml', 'moreov', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'rl', 'robust', 'semant', 'sociolog', 'subset', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'autonom', 'bandit', 'causal', 'cf', 'intervent', 'ml', 'postdoc', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'fhuszar', 'j2bryson', 'natematias', 'roydanroy')
+Core Items: ('academ', 'approxim', 'bandit', 'binari', 'causal', 'cluster', 'coauthor', 'compress', 'conceptu', 'dataset', 'deriv', 'distribut', 'faculti', 'fraction', 'hypothesi', 'intervent', 'linear', 'mit', 'ml', 'nip', 'oxford', 'phd', 'pnas', 'postdoc', 'preprint', 'preregist', 'replic', 'semant', 'skeptic', 'sociolog', 'subtweet', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'binari', 'causal', 'cf', 'coauthor', 'hypothesi', 'intervent', 'regress', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('j2bryson', 'roydanroy', 'tdietterich', 'tyrell_turing', 'zacharylipton')
+Core Items: ('ai', 'algorithm', 'approxim', 'attribut', 'autonom', 'bandit', 'benchmark', 'binari', 'broader', 'categor', 'causal', 'character', 'coauthor', 'compon', 'confound', 'correl', 'deriv', 'discours', 'eg', 'embed', 'exponenti', 'fraction', 'hypothesi', 'increment', 'invari', 'linear', 'metric', 'mit', 'ml', 'moreov', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'rl', 'robust', 'semant', 'sociolog', 'subset', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'embed', 'keynot', 'ml', 'postdoc', 'rl', 'semant']
+Duplicate Count: 3
+
+Core Users: ('Smerity', 'alexstamos', 'j2bryson', 'mikarv', 'yoavgo')
+Core Items: ('academ', 'analog', 'api', 'attribut', 'autom', 'binari', 'broader', 'cc', 'copyright', 'data', 'dataset', 'deriv', 'ecosystem', 'eg', 'embed', 'gmail', 'hash', 'intervent', 'keynot', 'metric', 'misus', 'mit', 'mitig', 'ml', 'nlp', 'presum', 'python', 'scrape', 'semant', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'api', 'cf', 'dataset', 'embed', 'intervent', 'keynot', 'metric', 'ml', 'scrape']
+Duplicate Count: 2
+
+Core Users: ('alexstamos', 'catherineols', 'j2bryson', 'roydanroy', 'yoavgo')
+Core Items: ('attribut', 'binari', 'cc', 'coauthor', 'deriv', 'detector', 'domain', 'git', 'gmail', 'gpu', 'intervent', 'keynot', 'linear', 'metric', 'mit', 'mitig', 'ml', 'notat', 'semant', 'undergrad')
+Most Typical Words: ['algorithm', 'amplifi', 'binari', 'cf', 'embed', 'keynot', 'mit', 'ml', 'semant', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('Smerity', 'alexstamos', 'mikarv', 'roydanroy', 'yoavgo')
+Core Items: ('analog', 'api', 'approxim', 'autom', 'broader', 'contextu', 'copyright', 'cpu', 'data', 'dataset', 'deriv', 'ecosystem', 'embed', 'git', 'gmail', 'gpu', 'hash', 'hypothesi', 'intervent', 'linear', 'lotteri', 'metric', 'misus', 'mit', 'mitig', 'ml', 'nlp', 'notat', 'optim', 'preprint', 'python', 'scrape', 'semant', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'approxim', 'binari', 'dataset', 'embed', 'metric', 'ml', 'scrape']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'SolomonMg', 'alexstamos', 'mikarv')
+Core Items: ('academ', 'aggreg', 'analog', 'api', 'autom', 'benchmark', 'broader', 'copyright', 'data', 'dataset', 'ecosystem', 'embed', 'frequent', 'gmail', 'hash', 'hypothesi', 'impost', 'intervent', 'metric', 'misus', 'ml', 'ponder', 'preregist', 'presum', 'python', 'replic', 'scope', 'scrape', 'societ', 'turnout', 'varianc', 'vpn')
+Most Typical Words: ['algorithm', 'api', 'broader', 'causal', 'dataset', 'intervent', 'metric', 'ponder', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'juliagalef', 'mikarv')
+Core Items: ('analog', 'assess', 'autom', 'benchmark', 'broader', 'cc', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'emphas', 'frequent', 'hypothesi', 'intuit', 'malici', 'misus', 'ml', 'nlp', 'nuanc', 'output', 'presum', 'scrape', 'skeptic', 'societ', 'tricki')
+Most Typical Words: ['algorithm', 'broader', 'dataset', 'dota', 'eg', 'embed', 'malici', 'rl', 'scrape', 'skeptic']
+Duplicate Count: 4
+
+Core Users: ('Smerity', 'alexstamos', 'mikarv', 'tdietterich', 'zeynep')
+Core Items: ('algorithm', 'amplifi', 'analog', 'api', 'approxim', 'assess', 'attribut', 'autom', 'benchmark', 'broader', 'compon', 'copyright', 'data', 'ecosystem', 'eg', 'embed', 'forthcom', 'gmail', 'hash', 'hypothesi', 'intervent', 'metric', 'misus', 'ml', 'postdoc', 'scrape', 'sensor', 'societ', 'sphere', 'unifi', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'broader', 'causal', 'dataset', 'embed', 'intervent', 'metric', 'ml', 'scrape']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'Smerity', 'SolomonMg', 'zacharylipton')
+Core Items: ('addendum', 'altogeth', 'analog', 'api', 'approxim', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'error', 'faculti', 'frequent', 'hypothesi', 'impost', 'metric', 'ml', 'nuanc', 'ponder', 'preregist', 'python', 'regress', 'replic', 'scrape', 'skeptic', 'turnout', 'varianc')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'intervent', 'ml', 'ponder', 'regress', 'tenur']
+Duplicate Count: 8
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'Smerity', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('addendum', 'altogeth', 'analog', 'approxim', 'benchmark', 'broader', 'causal', 'cpu', 'dataset', 'embed', 'error', 'faculti', 'frequent', 'hypothesi', 'impost', 'intervent', 'invari', 'linear', 'logist', 'metric', 'ml', 'nlp', 'nuanc', 'optim', 'ponder', 'python', 'regress', 'scrape', 'semant', 'skeptic')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'broader', 'causal', 'dataset', 'intervent', 'ml', 'regress', 'tenur']
+Duplicate Count: 3
+
+Core Users: ('BrendanNyhan', 'MichaelSLinden', 'ModeledBehavior', 'OsitaNwanevu', 'SeanTrende')
+Core Items: ('broader', 'congression', 'delaney', 'ds', 'egregi', 'factcheck', 'fiscal', 'hawley', 'irrespons', 'median', 'metric', 'neoliber', 'partisan', 'pivot', 'recess', 'skeptic', 'substant', 'substanti', 'ufo')
+Most Typical Words: ['discours', 'econ', 'hawley', 'median', 'partisan', 'regress', 'skeptic', 'substant', 'ufo', 'volatil']
+Duplicate Count: 1
+
+Core Users: ('fermatslibrary', 'johnmyleswhite', 'natematias', 'roydanroy', 'thesasho')
+Core Items: ('approxim', 'atom', 'bandit', 'binari', 'bound', 'causal', 'correl', 'cpu', 'deriv', 'exponenti', 'github', 'hypothesi', 'intervent', 'invert', 'linear', 'mathemat', 'mathematician', 'mit', 'notat', 'optim', 'preprint', 'quantum', 'semant', 'shortest', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'bandit', 'binari', 'causal', 'hypothesi', 'intervent', 'mathemat', 'mathematician', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'alexstamos', 'jackclarkSF', 'yoavgo', 'zacharylipton')
+Core Items: ('amplifi', 'analog', 'api', 'approxim', 'autonom', 'benchmark', 'broader', 'compon', 'dataset', 'dota', 'ecosystem', 'embed', 'frequent', 'gmail', 'linear', 'metric', 'misus', 'mit', 'mitig', 'ml', 'nlp', 'output', 'python', 'rl', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'broader', 'dataset', 'embed', 'metric', 'ml', 'rl', 'scrape']
+Duplicate Count: 5
+
+Core Users: ('JohnHolbein1', 'Smerity', 'SolomonMg', 'haldaume3', 'natematias')
+Core Items: ('academ', 'aggreg', 'api', 'benchmark', 'broader', 'causal', 'clarifi', 'cluster', 'dataset', 'faculti', 'github', 'hah', 'hypothesi', 'impost', 'intervent', 'output', 'ponder', 'postdoc', 'preregist', 'python', 'replic', 'scrape', 'sociolog', 'tenur', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'dataset', 'hypothesi', 'intervent', 'ponder', 'regress', 'replic', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('Miles_Brundage', 'Smerity', 'alexstamos', 'haldaume3', 'mikarv', 'zeynep')
+Core Items: ('algorithm', 'amplifi', 'analog', 'api', 'autom', 'broader', 'cc', 'clarifi', 'copyright', 'data', 'dataset', 'ecosystem', 'eg', 'embed', 'forthcom', 'gmail', 'hah', 'intervent', 'metric', 'misus', 'ml', 'moat', 'nlp', 'output', 'postdoc', 'scrape', 'societ', 'sphere', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'api', 'broader', 'dataset', 'ecosystem', 'intervent', 'metric', 'ml', 'scrape']
+Duplicate Count: 11
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'bruce_arthur', 'curaffairs')
+Core Items: ('8chan', '_ツ_', 'amplifi', 'anchor', 'annihil', 'approxim', 'astonish', 'barr', 'bennet', 'boomer', 'bret', 'brett', 'buffalo', 'bullock', 'bureaucraci', 'buttigieg', 'cabl', 'caravan', 'carl', 'carlson', 'caucus', 'cba', 'compon', 'congression', 'conspiraci', 'contributor', 'conway', 'corncob', 'credul', 'cuck', 'cult', 'debunk', 'delaney', 'deplor', 'deriv', 'disloy', 'djokov', 'dvr', 'eager', 'earnest', 'ebola', 'editor', 'eleven', 'entireti', 'essay', 'examin', 'exoner', 'facet', 'factcheck', 'feral', 'fisher', 'flint', 'fox', 'gabbard', 'garrison', 'gee', 'goblin', 'goddamn', 'gofundm', 'grail', 'grang', 'grassley', 'greenland', 'grift', 'guantanamo', 'ham', 'handwrit', 'hanniti', 'hawley', 'hewitt', 'hickenloop', 'hog', 'ht', 'ineffect', 'iowa', 'jeffrey', 'kellyann', 'klobuchar', 'kurt', 'lindsey', 'medicar', 'monica', 'monopoli', 'nationalist', 'neonazi', 'newslett', 'newsroom', 'nich', 'nyt', 'obliter', 'orourk', 'outnumb', 'partisan', 'pelosi', 'pete', 'peterson', 'pharma', 'pod', 'preexist', 'puerto', 'radic', 'retract', 'revisit', 'rhetor', 'rico', 'rug', 'schlapp', 'segment', 'seth', 'sexism', 'shapiro', 'shooter', 'silk', 'skeptic', 'smdh', 'soybean', 'subset', 'thurmond', 'tiller', 'tlaib', 'transcript', 'tucker', 'turd', 'unrel', 'vancouv', 'voicemail', 'walsh', 'wikileak', 'woof', 'worldview')
+Most Typical Words: ['bret', 'cabl', 'contributor', 'factcheck', 'fox', 'hanniti', 'hog', 'retract', 'segment', 'tucker']
+Duplicate Count: 9
+
+Core Users: ('3r1nG', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'curaffairs')
+Core Items: ('amplifi', 'bret', 'cabl', 'conspiraci', 'contributor', 'debunk', 'factcheck', 'hanniti', 'ht', 'nyt', 'puerto', 'retract', 'rico', 'segment', 'shapiro', 'shooter', 'tucker', 'unrel')
+Most Typical Words: ['bret', 'cabl', 'debunk', 'factcheck', 'fox', 'graph', 'hanniti', 'puerto', 'retract', 'tucker']
+Duplicate Count: 1
+
+Core Users: ('JesseBrown', 'ZachLowe_NBA', 'curaffairs', 'ezraklein', 'william_lou')
+Core Items: ('bennet', 'buttigieg', 'contributor', 'delaney', 'gianni', 'medicar', 'milwauke', 'pete', 'peterson', 'pod', 'podcast', 'radic', 'retract', 'revisit', 'steph')
+Most Typical Words: ['andr', 'bailout', 'gianni', 'pascal', 'pod', 'podcast', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 1
+
+Core Users: ('KT_So_It_Goes', 'OsitaNwanevu', 'SeanTrende', 'curaffairs', 'ezraklein')
+Core Items: ('bennet', 'bret', 'bullock', 'buttigieg', 'cabl', 'compromis', 'congression', 'delaney', 'egregi', 'hawley', 'hickenloop', 'iowa', 'klobuchar', 'medicar', 'obstruct', 'orourk', 'partisan', 'pelosi', 'pete', 'pod', 'radic', 'reconcili', 'revisit', 'shapiro', 'skeptic', 'substanti', 'ufo')
+Most Typical Words: ['bret', 'congression', 'delaney', 'discours', 'hawley', 'partisan', 'pod', 'reconcili', 'straightforward', 'substant']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'Smerity', 'haldaume3', 'jackclarkSF', 'tyrell_turing')
+Core Items: ('abstract', 'analog', 'benchmark', 'broader', 'character', 'clarifi', 'compon', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'hypothesi', 'irrespons', 'malici', 'misus', 'nlp', 'optim', 'output', 'postdoc', 'rl', 'scrape', 'societ')
+Most Typical Words: ['algorithm', 'dataset', 'eg', 'embed', 'irrespons', 'malici', 'misus', 'neurosci', 'optim', 'rl']
+Duplicate Count: 1
+
+Core Users: ('natematias', 'roydanroy', 'tdietterich', 'tyrell_turing', 'yisongyue')
+Core Items: ('algorithm', 'analog', 'approxim', 'bandit', 'binari', 'causal', 'compon', 'correl', 'deriv', 'eg', 'hypothesi', 'interpret', 'ml', 'optim', 'outlier', 'phd', 'postdoc', 'preprint', 'rl', 'semant', 'sociolog', 'tenur', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'hypothesi', 'ml', 'neurosci', 'postdoc', 'rl', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'catherineols', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('amplifi', 'approxim', 'attribut', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'data', 'debug', 'detector', 'domain', 'embed', 'ensembl', 'gmail', 'increment', 'invari', 'linear', 'metric', 'mit', 'mitig', 'ml', 'nlp', 'phd', 'rl', 'robust', 'semant', 'supervis', 'unifi')
+Most Typical Words: ['algorithm', 'amplifi', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant', 'unifi']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'DaraKaye', 'WillOremus', 'realnamepolicy', 'wtevs')
+Core Items: ('abstract', 'aerosmith', 'alexa', 'algorithm', 'alum', 'amplifi', 'analog', 'analytica', 'apex', 'apropo', 'audiobook', 'backlash', 'baldwin', 'bandaid', 'bannon', 'basketbal', 'bay', 'bea', 'benchmark', 'bestsel', 'blacklist', 'bret', 'brett', 'broader', 'butler', 'cameo', 'chandler', 'comput', 'conspiraci', 'copyright', 'corbin', 'corn', 'cult', 'dara', 'defer', 'delawar', 'derrick', 'destabil', 'disenfranchis', 'ds', 'dystopian', 'eager', 'earnest', 'essay', 'estim', 'expertis', 'exposur', 'factcheck', 'fraction', 'franchis', 'fratern', 'fred', 'freight', 'frequent', 'garfield', 'gmail', 'gore', 'greenland', 'greg', 'ham', 'hash', 'hockey', 'howdi', 'hypothet', 'incent', 'irrespons', 'literari', 'machin', 'mampm', 'manuscript', 'matern', 'median', 'meltdown', 'mitig', 'monro', 'montag', 'ncaa', 'newslett', 'nyt', 'overflow', 'overst', 'oxford', 'pajama', 'password', 'peanut', 'persuas', 'petul', 'pivot', 'pj', 'premis', 'privaci', 'rad', 'raptor', 'refram', 'revisit', 'rube', 'semant', 'shakespear', 'shapiro', 'silicon', 'slack', 'smdh', 'specul', 'standpoint', 'storytel', 'subtweet', 'surveil', 'syllabus', 'tbr', 'tfw', 'valley', 'vegetarian', 'vpn', 'wildest', 'woof', 'yelp', 'yknow', 'zeppelin')
+Most Typical Words: ['algorithm', 'delawar', 'earnest', 'factcheck', 'garfield', 'literari', 'median', 'pivot', 'shakespear', 'tfw']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'ModeledBehavior', 'WillOremus', 'julia_azari')
+Core Items: ('broader', 'coauthor', 'conceptu', 'hypothet', 'identif', 'intervent', 'longrun', 'median', 'pivot', 'privaci', 'scrape', 'skeptic', 'slack', 'subtweet', 'surveil', 'tenur', 'tfw', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'frt', 'identif', 'intervent', 'regress', 'skeptic', 'surveil', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'haldaume3', 'mark_riedl', 'yoavgo', 'zacharylipton')
+Core Items: ('abstract', 'admiss', 'analog', 'autonom', 'character', 'clarifi', 'colab', 'dataset', 'eg', 'embed', 'faculti', 'gpu', 'latent', 'linear', 'lms', 'metric', 'ml', 'nlp', 'output', 'phd', 'python', 'replic', 'rl', 'scrape', 'semant', 'societ', 'stylegan', 'subset', 'supervis', 'ture', 'undergrad')
+Most Typical Words: ['algorithm', 'colab', 'dataset', 'embed', 'ml', 'nlp', 'rl', 'selfdriv', 'semant', 'stylegan']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'haldaume3', 'roydanroy')
+Core Items: ('analog', 'approxim', 'benchmark', 'broader', 'clarifi', 'coauthor', 'conceptu', 'cpu', 'dataset', 'eg', 'faculti', 'frequent', 'hah', 'hypothesi', 'impost', 'lotteri', 'misus', 'ml', 'nlp', 'optim', 'output', 'ponder', 'replic', 'scrape', 'skeptic', 'societ', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'coauthor', 'dataset', 'hypothesi', 'intervent', 'regress', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'haldaume3', 'roydanroy', 'tdietterich', 'zacharylipton')
+Core Items: ('admiss', 'approxim', 'autonom', 'bandit', 'benchmark', 'broader', 'causal', 'clarifi', 'cpu', 'eg', 'embed', 'exponenti', 'faculti', 'fraction', 'hypothesi', 'increment', 'invari', 'linear', 'lotteri', 'metric', 'ml', 'nlp', 'optim', 'output', 'phd', 'pointer', 'preprint', 'rl', 'robust', 'semant', 'supervis', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'gokstudio', 'hardmaru', 'jackclarkSF', 'mark_riedl', 'rctatman')
+Core Items: ('atari', 'benchmark', 'broader', 'colab', 'dataset', 'domain', 'dota', 'embed', 'github', 'gpu', 'kera', 'ml', 'nlp', 'output', 'python', 'pytorch', 'rl', 'societ')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'embed', 'github', 'gustav', 'ml', 'pacif', 'rl', 'selfdriv']
+Duplicate Count: 1
+
+Core Users: ('Miles_Brundage', 'Smerity', 'jackclarkSF', 'mikarv', 'rctatman')
+Core Items: ('analog', 'api', 'assess', 'autom', 'benchmark', 'broader', 'cc', 'clarifi', 'colab', 'contextu', 'data', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'github', 'malici', 'misus', 'ml', 'nlp', 'output', 'python', 'scrape', 'skeptic', 'societ')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'eg', 'embed', 'gustav', 'ml', 'pacif', 'rl', 'scrape']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'fermatslibrary', 'natematias', 'roydanroy', 'tyrell_turing')
+Core Items: ('algorithm', 'analog', 'approxim', 'atom', 'bandit', 'binari', 'causal', 'correl', 'cpu', 'dataset', 'deriv', 'exponenti', 'hypothesi', 'lotteri', 'mathemat', 'mathematician', 'misus', 'mit', 'ml', 'notat', 'optim', 'postdoc', 'preprint', 'semant', 'sociolog', 'sphere', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'bandit', 'binari', 'dataset', 'hypothesi', 'neurosci', 'optim', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('EgSophie', 'MichaelSLinden', 'aprilaser', 'propublica', 'willsommer')
+Core Items: ('8chan', 'activeduti', 'adequ', 'altogeth', 'antisemit', 'axio', 'bannon', 'barclay', 'barrack', 'bay', 'blasio', 'blockad', 'broader', 'cafeteria', 'caravan', 'cardiac', 'cargo', 'cbp', 'cellmat', 'comet', 'commemor', 'congression', 'conspiraci', 'contractor', 'counterprotest', 'crass', 'debunk', 'deficit', 'deplor', 'deregul', 'detector', 'dhs', 'discretionari', 'disloy', 'dsa', 'embolden', 'enact', 'evacu', 'extract', 'factcheck', 'fbis', 'fiscal', 'fitzgerald', 'forum', 'francisco', 'gateway', 'gavin', 'gdp', 'gofundm', 'gotcha', 'grandchildren', 'graph', 'heir', 'heron', 'heya', 'horrifi', 'identif', 'incom', 'inequ', 'infowar', 'inmat', 'irrespons', 'islamophobia', 'jew', 'jewish', 'jfk', 'jill', 'kirk', 'legislatur', 'liberti', 'lizard', 'lobbyist', 'loomer', 'loophol', 'maralago', 'mccabe', 'mcsalli', 'medicaid', 'merci', 'methodist', 'metric', 'milo', 'mississippi', 'nationalist', 'neal', 'neoliber', 'neonazi', 'newslett', 'newsroom', 'nonprofit', 'oakland', 'patrol', 'payrol', 'peterson', 'pharma', 'poc', 'pod', 'preexist', 'promin', 'qanon', 'rad', 'recess', 'regress', 'regul', 'retali', 'retract', 'revenu', 'semant', 'sf', 'sheriff', 'shutdown', 'slate', 'soro', 'spectacl', 'static', 'substant', 'successor', 'supplier', 'tax', 'tech', 'tpusa', 'trickl', 'trillion', 'tsa', 'tx', 'ty', 'veto', 'wealth', 'wealthi', 'wealthiest', 'wikileak', 'wv', 'zine')
+Most Typical Words: ['detector', 'gavin', 'gofundm', 'infowar', 'loomer', 'maralago', 'mccabe', 'milo', 'neonazi', 'qanon']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'alexstamos', 'tdietterich', 'tyrell_turing', 'yoavgo')
+Core Items: ('abstract', 'algorithm', 'analog', 'api', 'approxim', 'attribut', 'benchmark', 'broader', 'causal', 'compon', 'correl', 'cough', 'data', 'dataset', 'debug', 'deriv', 'ecosystem', 'eg', 'embed', 'ensembl', 'gmail', 'hypothesi', 'metric', 'misus', 'mitig', 'ml', 'nlp', 'optim', 'outlier', 'postdoc', 'python', 'scrape', 'semant', 'supervis', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'embed', 'metric', 'ml', 'neurosci', 'optim', 'rl', 'unifi']
+Duplicate Count: 1
+
+Core Users: ('NicolasPapernot', 'TedOnPrivacy', 'adversariel', 'alexstamos', 'mikarv')
+Core Items: ('adversari', 'aggreg', 'algorithm', 'attribut', 'broader', 'browser', 'contextu', 'copyright', 'data', 'differenti', 'github', 'hash', 'infosec', 'intervent', 'malwar', 'metric', 'misus', 'mitig', 'ml', 'preprint', 'privaci', 'recipi', 'robust', 'scrape', 'semant', 'tracker', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'data', 'dataset', 'differenti', 'keynot', 'metric', 'ml', 'privaci', 'scrape']
+Duplicate Count: 2
+
+Core Users: ('EgSophie', 'MichaelSLinden', 'Richard_Florida', 'aprilaser', 'matthewstoller')
+Core Items: ('1970s', '8chan', 'analog', 'antisemit', 'axio', 'backlash', 'bailout', 'banker', 'bay', 'blasio', 'blockad', 'broader', 'buffalo', 'cbp', 'ccp', 'cluster', 'commut', 'congression', 'contractor', 'corn', 'cycl', 'debunk', 'defer', 'deficit', 'deregul', 'dhs', 'dishonest', 'disloy', 'dispar', 'ecosystem', 'embolden', 'enact', 'evacu', 'extract', 'factcheck', 'fiscal', 'forum', 'framework', 'francisco', 'gdp', 'geographi', 'gerald', 'gotcha', 'grandchildren', 'graph', 'heron', 'heya', 'horrifi', 'hudson', 'hunch', 'incent', 'incom', 'increment', 'inequ', 'irrespons', 'islamophobia', 'jew', 'jewish', 'keyn', 'legislatur', 'liabil', 'liberti', 'mcsalli', 'median', 'medicaid', 'merci', 'metric', 'mmt', 'monetari', 'monopoli', 'nationalist', 'neal', 'neoliber', 'neonazi', 'newsroom', 'nuanc', 'oakland', 'obamacar', 'outlier', 'payrol', 'pharma', 'pittsburgh', 'poc', 'preexist', 'prestig', 'provis', 'rad', 'rancid', 'recess', 'regress', 'regul', 'renegoti', 'reset', 'retali', 'revenu', 'rogan', 'rubin', 'rural', 'semant', 'sf', 'silicon', 'slate', 'slipperi', 'soro', 'soybean', 'spectacl', 'specul', 'static', 'straightforward', 'substant', 'suburb', 'supplier', 'tax', 'tech', 'thinker', 'toronto', 'tpp', 'trickl', 'trillion', 'tx', 'ty', 'unifi', 'urban', 'valley', 'vancouv', 'veto', 'vienna', 'wealth', 'wealthi', 'wealthiest', 'wikileak', 'zine')
+Most Typical Words: ['deficit', 'deregul', 'dispar', 'geographi', 'inequ', 'medicaid', 'mmt', 'neoliber', 'neonazi', 'rubin']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'haldaume3', 'jackclarkSF', 'yoavgo', 'zacharylipton')
+Core Items: ('abstract', 'admiss', 'analog', 'approxim', 'benchmark', 'broader', 'clarifi', 'dataset', 'domain', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'gmail', 'linear', 'metric', 'misus', 'mit', 'ml', 'nlp', 'output', 'python', 'rl', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'dota', 'embed', 'metric', 'ml', 'nlp', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'jackclarkSF', 'johnmyleswhite')
+Core Items: ('analog', 'approxim', 'benchmark', 'broader', 'causal', 'clarifi', 'cpu', 'dataset', 'domain', 'dota', 'eg', 'embed', 'frequent', 'hypothesi', 'impost', 'intervent', 'intuit', 'malici', 'misus', 'nlp', 'optim', 'output', 'ponder', 'python', 'regress', 'replic', 'rl', 'scrape', 'skeptic', 'societ', 'tricki', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'intervent', 'regress', 'scrape', 'skeptic', 'tenur']
+Duplicate Count: 8
+
+Core Users: ('Smerity', 'jackclarkSF', 'mark_riedl', 'mikarv', 'zacharylipton')
+Core Items: ('ai', 'algorithm', 'analog', 'assess', 'atari', 'autom', 'autonom', 'benchmark', 'broader', 'dataset', 'dota', 'eg', 'embed', 'faculti', 'frequent', 'github', 'latent', 'metric', 'misus', 'ml', 'nlp', 'output', 'phd', 'preprint', 'python', 'pytorch', 'recipi', 'rl', 'robot', 'scrape', 'semant', 'societ', 'supervis')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'broader', 'dataset', 'dota', 'embed', 'ml', 'rl', 'scrape']
+Duplicate Count: 2
+
+Core Users: ('AnnaJaneSmith4', 'ZachLowe_NBA', 'dhackett1565', 'joey_doubleyou', 'wtevs')
+Core Items: ('dribbl', 'foul', 'franchis', 'fred', 'gianni', 'jv', 'lin', 'offseason', 'okc', 'pelican', 'playoff', 'raptor', 'rotat', 'steph', 'turnov')
+Most Typical Words: ['gianni', 'jv', 'mccaw', 'offenc', 'pascal', 'pelican', 'raptor', 'rebound', 'rotat', 'serg']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'haldaume3', 'tyrell_turing')
+Core Items: ('abstract', 'analog', 'benchmark', 'causal', 'character', 'clarifi', 'dataset', 'eg', 'faculti', 'frequent', 'hah', 'hypothesi', 'impost', 'irrespons', 'misus', 'nlp', 'optim', 'output', 'ponder', 'postdoc', 'replic', 'rl', 'scrape', 'skeptic', 'societ', 'sociolog', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'hypothesi', 'intervent', 'irrespons', 'neurosci', 'rl', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('j2bryson', 'jackclarkSF', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('ai', 'assess', 'attribut', 'autonom', 'benchmark', 'binari', 'broader', 'causal', 'cf', 'compon', 'confound', 'dataset', 'debug', 'deriv', 'discours', 'domain', 'eg', 'embed', 'ensembl', 'gmail', 'increment', 'invari', 'linear', 'metric', 'mit', 'ml', 'nlp', 'phd', 'postdoc', 'rl', 'robot', 'robust', 'semant', 'subset', 'supervis')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'dataset', 'embed', 'keynot', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('SeanTrende', 'curaffairs', 'ezraklein', 'qjurecic', 'timoreilly')
+Core Items: ('analog', 'astonish', 'barr', 'bennet', 'bullock', 'buttigieg', 'congression', 'delaney', 'essay', 'fascin', 'medicar', 'monopoli', 'obstruct', 'pelosi', 'pete', 'pod', 'radic', 'revisit', 'silicon', 'undergrad', 'valley')
+Most Typical Words: ['bennet', 'congression', 'delaney', 'gerrymand', 'greenland', 'medicareforal', 'partisan', 'pod', 'reconcili', 'skeptic']
+Duplicate Count: 1
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'WillOremus', 'alexstamos')
+Core Items: ('amplifi', 'analytica', 'bret', 'cabl', 'compon', 'conspiraci', 'contributor', 'earnest', 'factcheck', 'fox', 'gmail', 'hanniti', 'mitig', 'privaci', 'segment', 'tucker', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'bret', 'cabl', 'earnest', 'factcheck', 'fox', 'hanniti', 'privaci', 'retract']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'KT_So_It_Goes', 'LorenRaeDeJ', 'MattGertz', 'qjurecic')
+Core Items: ('8chan', 'adequ', 'amplifi', 'approxim', 'astonish', 'barr', 'benchmark', 'boomer', 'bret', 'broader', 'buffalo', 'cabl', 'carl', 'carlson', 'chernobyl', 'civ', 'compon', 'congression', 'conspiraci', 'contributor', 'corncob', 'cuck', 'cult', 'debunk', 'deploy', 'deriv', 'ds', 'dvr', 'earnest', 'ebola', 'eleven', 'esper', 'essay', 'estim', 'examin', 'exoner', 'expertis', 'exposur', 'facet', 'factcheck', 'fascin', 'fisher', 'fox', 'frequent', 'garrison', 'goblin', 'goddamn', 'gofundm', 'gore', 'grail', 'grappl', 'greenland', 'grift', 'ham', 'handwrit', 'hanniti', 'hawley', 'hog', 'impeach', 'incent', 'incoher', 'ineffect', 'inquiri', 'interpret', 'intervent', 'iowa', 'irrespons', 'jeffrey', 'juri', 'kurt', 'likewis', 'lindsey', 'litig', 'mampm', 'median', 'miniseri', 'monica', 'mueller', 'nationalist', 'neonazi', 'newsroom', 'nich', 'nsc', 'oath', 'overst', 'partisan', 'peanut', 'pelosi', 'pivot', 'puzzl', 'reform', 'retract', 'rug', 'segment', 'seth', 'shapiro', 'shooter', 'skeptic', 'smdh', 'sof', 'soybean', 'specul', 'subset', 'syllabus', 'tiller', 'tucker', 'turd', 'undergrad', 'unrel', 'vacanc', 'walsh', 'wikileak', 'worldview')
+Most Typical Words: ['amplifi', 'bret', 'cabl', 'conspiraci', 'factcheck', 'fox', 'greenland', 'hanniti', 'retract', 'tucker']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'LisPower1', 'MattGertz', 'MichaelSLinden', 'peltzmadeline')
+Core Items: ('bret', 'broader', 'cabl', 'caravan', 'carlson', 'congression', 'conspiraci', 'contributor', 'debunk', 'factcheck', 'fox', 'frequent', 'hanniti', 'neonazi', 'pivot', 'preexist', 'rhetor', 'segment', 'shutdown', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'carlson', 'factcheck', 'fox', 'hanniti', 'neonazi', 'retract', 'terf', 'tucker']
+Duplicate Count: 11
+
+Core Users: ('3r1nG', 'BrendanNyhan', 'MattGertz', 'MichaelSLinden', 'alexstamos')
+Core Items: ('acquisit', 'amplifi', 'analytica', 'api', 'attribut', 'axio', 'benchmark', 'bret', 'broader', 'browser', 'cabl', 'carlson', 'cluster', 'compon', 'congression', 'conspiraci', 'contributor', 'copyright', 'cough', 'cult', 'data', 'dataset', 'debunk', 'deficit', 'deregul', 'detector', 'disinfo', 'disinform', 'dispar', 'ds', 'earnest', 'ebola', 'ecosystem', 'enact', 'eoin', 'epoch', 'esta', 'estim', 'exec', 'expertis', 'exposur', 'extract', 'factcheck', 'fiscal', 'fisher', 'fox', 'frequent', 'froze', 'fulltim', 'gdp', 'gmail', 'gore', 'gotcha', 'graph', 'greenland', 'gru', 'hacker', 'hanniti', 'hash', 'hog', 'ht', 'incent', 'incom', 'inequ', 'influenti', 'infosec', 'infus', 'intervent', 'irrespons', 'jamieson', 'keynot', 'legislatur', 'lindsey', 'lte', 'malwar', 'mampm', 'mcsalli', 'median', 'medicaid', 'metric', 'misrepres', 'misus', 'mitig', 'ml', 'moat', 'moder', 'monica', 'narco', 'neal', 'neoliber', 'neonazi', 'newsroom', 'nich', 'nyt', 'observatori', 'overst', 'partisan', 'payrol', 'peanut', 'pivot', 'preced', 'preexist', 'privaci', 'puerto', 'recess', 'regress', 'retract', 'revenu', 'rico', 'rsa', 'scrape', 'segment', 'sept', 'seth', 'sharehold', 'shutdown', 'skeptic', 'soro', 'specul', 'stanford', 'static', 'supplier', 'syllabus', 'tax', 'tech', 'tiller', 'tos', 'tracker', 'trickl', 'trillion', 'tucker', 'unifi', 'unrel', 'url', 'venezuelan', 'verifi', 'vpn', 'wealth', 'wealthi', 'wealthiest', 'wikileak')
+Most Typical Words: ['amplifi', 'cabl', 'debunk', 'factcheck', 'fox', 'graph', 'hanniti', 'metric', 'neonazi', 'retract']
+Duplicate Count: 5
+
+Core Users: ('JohnHolbein1', 'MichaelSLinden', 'OsitaNwanevu', 'SeanTrende', 'Smerity')
+Core Items: ('_ツ_', 'addendum', 'analog', 'backlash', 'benchmark', 'broader', 'congression', 'dataset', 'delaney', 'egregi', 'frequent', 'hypothesi', 'impost', 'metric', 'nuanc', 'partisan', 'ponder', 'regress', 'scrape', 'skeptic', 'substant', 'substanti', 'ufo')
+Most Typical Words: ['broader', 'causal', 'dataset', 'discours', 'intervent', 'metric', 'ponder', 'regress', 'substant', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'Richard_Florida', 'WillOremus', 'alexstamos', 'jen_keesmaat')
+Core Items: ('amplifi', 'analytica', 'backlash', 'broader', 'commut', 'ecosystem', 'factcheck', 'gmail', 'incent', 'intervent', 'median', 'mitig', 'pivot', 'privaci', 'silicon', 'suburb', 'toronto', 'unifi', 'urban', 'valley', 'vancouv', 'vienna', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'commut', 'intervent', 'liveabl', 'median', 'mitig', 'pedestrian', 'privaci', 'transit']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'fhuszar', 'johnmyleswhite', 'roydanroy')
+Core Items: ('analog', 'approxim', 'assumpt', 'atom', 'benchmark', 'binari', 'broader', 'causal', 'coauthor', 'compress', 'conceptu', 'cpu', 'dataset', 'deriv', 'distribut', 'embed', 'fraction', 'frequent', 'graph', 'hypothesi', 'impost', 'intervent', 'invari', 'linear', 'lotteri', 'mathemat', 'mathematician', 'metric', 'ml', 'nip', 'optim', 'pnas', 'ponder', 'python', 'scrape', 'semant', 'skeptic', 'subtweet', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'dataset', 'embed', 'hypothesi', 'intervent', 'ml', 'regress', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'natematias', 'roydanroy', 'tdietterich')
+Core Items: ('academ', 'algorithm', 'approxim', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'cpu', 'dataset', 'embed', 'frequent', 'hypothesi', 'impost', 'intervent', 'lotteri', 'metric', 'mit', 'ml', 'optim', 'phd', 'ponder', 'postdoc', 'preprint', 'preregist', 'replic', 'scrape', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'dataset', 'hypothesi', 'intervent', 'metric', 'ml', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'johnmyleswhite', 'natematias', 'roydanroy', 'zacharylipton')
+Core Items: ('academ', 'approxim', 'atom', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'cpu', 'dataset', 'exponenti', 'faculti', 'fellowship', 'fraction', 'github', 'hypothesi', 'intervent', 'invari', 'linear', 'mathemat', 'mathematician', 'mit', 'ml', 'optim', 'phd', 'preprint', 'preregist', 'regress', 'replic', 'semant', 'skeptic', 'sociolog', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'hypothesi', 'intervent', 'ml', 'regress', 'semant', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'natematias', 'roydanroy', 'tyrell_turing')
+Core Items: ('academ', 'algorithm', 'analog', 'approxim', 'bandit', 'benchmark', 'binari', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'cpu', 'dataset', 'deriv', 'faculti', 'frequent', 'hypothesi', 'impost', 'intervent', 'lotteri', 'misus', 'mit', 'ml', 'optim', 'ponder', 'preprint', 'preregist', 'replic', 'scrape', 'semant', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'dataset', 'hypothesi', 'intervent', 'regress', 'tenur', 'variabl']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'Smerity', 'fhuszar', 'johnmyleswhite')
+Core Items: ('addendum', 'analog', 'approxim', 'assumpt', 'benchmark', 'broader', 'causal', 'cpu', 'dataset', 'error', 'frequent', 'graph', 'hypothesi', 'impost', 'intervent', 'invari', 'linear', 'metric', 'ml', 'nuanc', 'optim', 'pnas', 'ponder', 'python', 'regress', 'scrape', 'skeptic', 'subtweet', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'intervent', 'regress', 'skeptic', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'Miles_Brundage', 'ModeledBehavior', 'matthewstoller', 'tyrell_turing')
+Core Items: ('1970s', 'analog', 'character', 'deficit', 'deregul', 'eg', 'irrespons', 'medicaid', 'misus', 'monetari', 'neoliber', 'optim', 'output', 'recess', 'rl')
+Most Typical Words: ['algorithm', 'dataset', 'deficit', 'economist', 'irrespons', 'metaphor', 'neoliber', 'neuron', 'neurosci', 'rl']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'j2bryson', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('amplifi', 'approxim', 'attribut', 'autonom', 'benchmark', 'binari', 'broader', 'causal', 'cf', 'compon', 'confound', 'data', 'debug', 'deriv', 'discours', 'eg', 'embed', 'ensembl', 'gmail', 'increment', 'intervent', 'invari', 'keynot', 'linear', 'metric', 'mit', 'mitig', 'ml', 'nlp', 'phd', 'postdoc', 'rl', 'robust', 'semant', 'subset', 'supervis', 'unifi')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'embed', 'keynot', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'alexstamos', 'j2bryson', 'tdietterich', 'yoavgo')
+Core Items: ('ai', 'analog', 'api', 'approxim', 'attribut', 'autonom', 'benchmark', 'binari', 'broader', 'cf', 'compon', 'data', 'dataset', 'deriv', 'ecosystem', 'eg', 'embed', 'ensembl', 'gmail', 'hypothesi', 'intervent', 'keynot', 'metric', 'misus', 'mit', 'mitig', 'ml', 'nlp', 'optim', 'postdoc', 'python', 'scrape', 'semant', 'supervis', 'unifi')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'cf', 'dataset', 'embed', 'keynot', 'metric', 'ml', 'semant']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'Smerity', 'alexstamos', 'tyrell_turing')
+Core Items: ('addendum', 'analog', 'api', 'benchmark', 'broader', 'causal', 'compon', 'cough', 'dataset', 'ecosystem', 'gmail', 'hypothesi', 'impost', 'intervent', 'metric', 'misus', 'ml', 'nuanc', 'optim', 'outlier', 'ponder', 'scrape', 'skeptic', 'sociolog', 'unifi', 'variabl')
+Most Typical Words: ['algorithm', 'broader', 'causal', 'dataset', 'hypothesi', 'intervent', 'metric', 'regress', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'ModeledBehavior', 'Richard_Florida', 'SeanTrende', 'jen_keesmaat')
+Core Items: ('broader', 'commut', 'cycl', 'ds', 'hawley', 'incent', 'irrespons', 'median', 'nuanc', 'outlier', 'pivot', 'suburb', 'toronto', 'urban', 'vancouv', 'vienna')
+Most Typical Words: ['commut', 'congest', 'environment', 'intervent', 'liveabl', 'median', 'neighbourhood', 'pedestrian', 'transit', 'vancouv']
+Duplicate Count: 1
+
+Core Users: ('SolomonMg', 'StatModeling', 'edwardhkennedy', 'johnmyleswhite', 'tyrell_turing')
+Core Items: ('analog', 'assumpt', 'causal', 'cis', 'correl', 'eg', 'error', 'estim', 'github', 'intervent', 'logist', 'method', 'optim', 'postdoc', 'python', 'regress', 'replic', 'semant', 'statist', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'identif', 'intervent', 'metaphor', 'neuron', 'neurosci', 'postdoc', 'regress', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'ModeledBehavior')
+Core Items: ('amplifi', 'approxim', 'bret', 'cabl', 'conspiraci', 'contributor', 'cult', 'factcheck', 'fox', 'greenland', 'hanniti', 'hawley', 'irrespons', 'median', 'pivot', 'shooter', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'factcheck', 'fox', 'hanniti', 'median', 'retract', 'segment', 'tucker', 'volatil']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'curaffairs')
+Core Items: ('amplifi', 'bret', 'cabl', 'conspiraci', 'contributor', 'cult', 'factcheck', 'fox', 'greenland', 'hanniti', 'retract', 'segment', 'shapiro', 'shooter', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'contributor', 'factcheck', 'fox', 'hanniti', 'pod', 'retract', 'segment', 'tucker']
+Duplicate Count: 1
+
+Core Users: ('LisPower1', 'MattGertz', 'WillOremus', 'alexstamos', 'ezraklein')
+Core Items: ('amplifi', 'analytica', 'barr', 'bret', 'cabl', 'congression', 'contributor', 'delaney', 'earnest', 'factcheck', 'fox', 'hanniti', 'mitig', 'pelosi', 'privaci', 'segment', 'silicon', 'slack', 'tucker', 'valley', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'bret', 'cabl', 'earnest', 'factcheck', 'fox', 'hanniti', 'privaci', 'retract']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'fermatslibrary', 'fhuszar', 'johnmyleswhite', 'roydanroy')
+Core Items: ('approxim', 'assumpt', 'atom', 'benchmark', 'binari', 'broader', 'causal', 'compress', 'cpu', 'deriv', 'distribut', 'embed', 'exponenti', 'fraction', 'graph', 'hypothesi', 'intervent', 'invari', 'linear', 'lotteri', 'mathemat', 'mathematician', 'metric', 'ml', 'nip', 'notat', 'optim', 'python', 'quantum', 'semant', 'skeptic', 'sphere', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'causal', 'cpu', 'dataset', 'embed', 'hypothesi', 'metric', 'ml']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'supergovernance', 'tdietterich', 'yoavgo', 'zacharylipton')
+Core Items: ('analog', 'approxim', 'assess', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'contextu', 'data', 'dataset', 'debug', 'embed', 'ensembl', 'exponenti', 'gmail', 'hypothesi', 'increment', 'invari', 'linear', 'logist', 'metric', 'ml', 'nlp', 'nuanc', 'optim', 'phd', 'python', 'rl', 'robust', 'semant', 'supervis')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('KT_So_It_Goes', 'LisPower1', 'MattGertz', 'curaffairs', 'ezraklein')
+Core Items: ('barr', 'bennet', 'bret', 'buttigieg', 'cabl', 'congression', 'conspiraci', 'contributor', 'delaney', 'factcheck', 'fox', 'hanniti', 'medicar', 'pelosi', 'pod', 'radic', 'retract', 'segment', 'shapiro', 'shooter', 'tucker')
+Most Typical Words: ['bret', 'cabl', 'congression', 'factcheck', 'fox', 'hanniti', 'pod', 'retract', 'segment', 'tucker']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'KT_So_It_Goes', 'LorenRaeDeJ', 'qjurecic', 'timoreilly')
+Core Items: ('8chan', 'adequ', 'amplifi', 'analog', 'anand', 'approxim', 'astonish', 'baldwin', 'benchmark', 'bestsel', 'boomer', 'bret', 'broader', 'buffalo', 'carl', 'chernobyl', 'civ', 'compon', 'congression', 'conspiraci', 'corncob', 'cuck', 'cult', 'deploy', 'deriv', 'ds', 'dvr', 'econom', 'ecosystem', 'eleven', 'esper', 'essay', 'estim', 'examin', 'exoner', 'expenditur', 'expertis', 'exposur', 'extract', 'facet', 'factcheck', 'fascin', 'francisco', 'frequent', 'garrison', 'goblin', 'goddamn', 'gofundm', 'gore', 'grail', 'grappl', 'greenland', 'grift', 'ham', 'handwrit', 'hawley', 'hhs', 'impeach', 'incent', 'incoher', 'ineffect', 'inequ', 'inquiri', 'interpret', 'intervent', 'investor', 'iowa', 'irrespons', 'jeffrey', 'juri', 'kurt', 'likewis', 'litig', 'longterm', 'mampm', 'median', 'miniseri', 'monopoli', 'mueller', 'nationalist', 'nsc', 'oath', 'obstruct', 'ought', 'overst', 'peanut', 'pelosi', 'pivot', 'ponder', 'puzzl', 'reform', 'rug', 'shapiro', 'sharehold', 'shooter', 'silicon', 'smdh', 'sof', 'soybean', 'spark', 'specul', 'subset', 'syllabus', 'thinker', 'trilog', 'turd', 'undergrad', 'vacanc', 'valley', 'walsh', 'worldview')
+Most Typical Words: ['algorithm', 'astonish', 'congression', 'factcheck', 'greenland', 'hhs', 'intervent', 'nsc', 'overst', 'subset']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'fermatslibrary', 'fhuszar', 'roydanroy', 'thesasho')
+Core Items: ('approxim', 'atom', 'binari', 'bound', 'compress', 'cpu', 'deriv', 'distribut', 'embed', 'exponenti', 'fraction', 'hypothesi', 'invert', 'linear', 'lotteri', 'mathematician', 'metric', 'ml', 'nip', 'notat', 'optim', 'quantum', 'shortest', 'sphere', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'binari', 'dataset', 'embed', 'hypothesi', 'mathemat', 'mathematician', 'metric', 'ml']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'fermatslibrary', 'johnmyleswhite', 'octonion', 'roydanroy')
+Core Items: ('analog', 'approxim', 'atom', 'benchmark', 'cpu', 'deriv', 'exponenti', 'fraction', 'github', 'gpu', 'hypothesi', 'infinit', 'linear', 'lotteri', 'mathemat', 'mathematician', 'maxim', 'ml', 'notat', 'optim', 'polynomi', 'python', 'quantum', 'semant', 'sphere', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'bpm', 'causal', 'cpu', 'dataset', 'hypothesi', 'mathemat', 'mathematician']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'mikarv', 'roydanroy', 'supergovernance', 'tdietterich')
+Core Items: ('ai', 'algorithm', 'analog', 'approxim', 'assess', 'autom', 'autonom', 'bandit', 'benchmark', 'broader', 'classif', 'contextu', 'cpu', 'data', 'eg', 'embed', 'exponenti', 'hypothesi', 'lotteri', 'maxim', 'metric', 'ml', 'nuanc', 'optim', 'scrape', 'semant', 'societ', 'variabl')
+Most Typical Words: ['algorithm', 'approxim', 'autom', 'causal', 'dataset', 'embed', 'metric', 'ml', 'optim', 'rl']
+Duplicate Count: 1
+
+Core Users: ('Smerity', 'johnmyleswhite', 'rctatman', 'roydanroy', 'zacharylipton')
+Core Items: ('analog', 'api', 'approxim', 'atom', 'autom', 'benchmark', 'broader', 'causal', 'classif', 'cpu', 'dataset', 'embed', 'exponenti', 'fraction', 'github', 'gpu', 'hypothesi', 'invari', 'linear', 'lotteri', 'mathemat', 'mathematician', 'metric', 'ml', 'nlp', 'optim', 'output', 'preprint', 'python', 'regress', 'semant', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'embed', 'gustav', 'ml', 'pacif', 'semant']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'SeanMcElwee', 'SeanTrende', 'johnmyleswhite', 'timoreilly')
+Core Items: ('analog', 'baldwin', 'broader', 'congression', 'ds', 'enact', 'error', 'extract', 'factcheck', 'graph', 'hawley', 'inequ', 'metric', 'migrat', 'neal', 'neoliber', 'partisan', 'regress', 'skeptic')
+Most Typical Words: ['causal', 'congression', 'dccc', 'intervent', 'medicaid', 'neoliber', 'partisan', 'regress', 'skeptic', 'yougov']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'SeanTrende', 'Smerity', 'alexstamos', 'zacharylipton')
+Core Items: ('addendum', 'altogeth', 'amplifi', 'analog', 'api', 'approxim', 'benchmark', 'broader', 'causal', 'dataset', 'ecosystem', 'embed', 'faculti', 'gmail', 'hypothesi', 'impost', 'intervent', 'metric', 'misus', 'ml', 'nlp', 'nuanc', 'ponder', 'regress', 'scrape', 'skeptic')
+Most Typical Words: ['algorithm', 'broader', 'causal', 'dataset', 'intervent', 'metric', 'ml', 'regress', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'SeanTrende', 'Smerity', 'ezraklein', 'qjurecic')
+Core Items: ('8chan', '_ツ_', 'addendum', 'adequ', 'admiss', 'altogeth', 'analog', 'api', 'approxim', 'astonish', 'autom', 'axio', 'backfir', 'barr', 'benchmark', 'bennet', 'blasio', 'breyer', 'broader', 'bullock', 'bush', 'buttigieg', 'cabl', 'candidaci', 'chernobyl', 'clarifi', 'clearest', 'compromis', 'congression', 'cpu', 'dani', 'dataset', 'debunk', 'deficit', 'delaney', 'deleg', 'deregul', 'dispar', 'dota', 'ds', 'ec', 'ecosystem', 'egregi', 'embed', 'enact', 'error', 'essay', 'extract', 'factcheck', 'fascin', 'fdr', 'fiscal', 'frequent', 'gdp', 'gerrymand', 'gmail', 'gotcha', 'graph', 'grappl', 'greenland', 'hampshir', 'hardwar', 'hawley', 'https', 'hypothesi', 'impeach', 'impost', 'incoher', 'incom', 'ineffect', 'inequ', 'inquiri', 'instanc', 'iowa', 'jeb', 'juri', 'khanna', 'klobuchar', 'lbj', 'legislatur', 'litig', 'lotteri', 'magpi', 'mason', 'mcsalli', 'medicaid', 'medicar', 'medicareforal', 'metric', 'missouri', 'misus', 'ml', 'mueller', 'nc', 'neal', 'neoliber', 'neonazi', 'nh', 'nlp', 'nuanc', 'nv', 'oath', 'obamacar', 'obstruct', 'optim', 'outlier', 'output', 'overton', 'partisan', 'payrol', 'pelosi', 'pete', 'pod', 'ponder', 'preexist', 'pseudo', 'puzzl', 'python', 'pytorch', 'radic', 'rampd', 'rational', 'realign', 'recess', 'reconcili', 'redact', 'redistrict', 'reform', 'regress', 'revenu', 'revisit', 'rhaegal', 'scrape', 'silicon', 'skeptic', 'slack', 'societ', 'soro', 'sphere', 'static', 'strat', 'structur', 'substant', 'substanti', 'supplier', 'tax', 'tldr', 'trickl', 'trillion', 'tutor', 'tx', 'ufo', 'undergrad', 'valley', 'wasm', 'wealth', 'wealthi', 'wealthiest', 'winnow')
+Most Typical Words: ['algorithm', 'broader', 'congression', 'dataset', 'dota', 'ecosystem', 'metric', 'neonazi', 'ponder', 'skeptic']
+Duplicate Count: 1
+
+Core Users: ('MichaelSLinden', 'ModeledBehavior', 'Richard_Florida', 'SeanTrende', 'matthewstoller')
+Core Items: ('1970s', 'analog', 'blasio', 'broader', 'congression', 'deficit', 'deregul', 'fiscal', 'hawley', 'inequ', 'median', 'medicaid', 'metric', 'monetari', 'neoliber', 'nuanc', 'outlier', 'silicon', 'trickl', 'ufo')
+Most Typical Words: ['deficit', 'econ', 'economist', 'inequ', 'median', 'neoliber', 'neonazi', 'regress', 'skeptic', 'volatil']
+Duplicate Count: 1
+
+Core Users: ('Susan_Athey', 'WillOremus', 'matthewstoller', 'timoreilly', 'zeynep')
+Core Items: ('1970s', 'ahahaha', 'alexa', 'algorithm', 'alum', 'amplifi', 'analog', 'analytica', 'anand', 'applic', 'arya', 'astonish', 'autom', 'backlash', 'bailout', 'baldwin', 'banker', 'bannon', 'bestsel', 'blacklist', 'blasio', 'bret', 'broader', 'causal', 'ccp', 'clickbait', 'cluster', 'conceptu', 'confer', 'congression', 'conner', 'corn', 'defer', 'deficit', 'delaney', 'delawar', 'deregul', 'desktop', 'destabil', 'dishonest', 'dystopian', 'earnest', 'ecolog', 'econom', 'economist', 'ecosystem', 'ensembl', 'entrench', 'essay', 'expenditur', 'extract', 'factcheck', 'fascin', 'forthcom', 'fraction', 'framework', 'francisco', 'gee', 'gerald', 'gmail', 'grappl', 'guido', 'hah', 'hhs', 'hypothet', 'impact', 'increment', 'inequ', 'intervent', 'investor', 'keyn', 'lectur', 'liabil', 'logist', 'longterm', 'lousi', 'machin', 'median', 'method', 'metric', 'mitig', 'mmt', 'monetari', 'monopoli', 'mtr', 'nc', 'neoliber', 'nyt', 'obamacar', 'ought', 'persuas', 'petul', 'pharma', 'phd', 'pivot', 'ponder', 'postdoc', 'privaci', 'provis', 'rancid', 'realign', 'refram', 'reinforc', 'renegoti', 'retali', 'revisit', 'rogan', 'rubin', 'semant', 'sensor', 'sharehold', 'shooter', 'silicon', 'slack', 'slipperi', 'sociolog', 'soybean', 'spark', 'specul', 'sphere', 'standpoint', 'stanford', 'storytel', 'straightforward', 'structur', 'subtweet', 'surveil', 'tech', 'thinker', 'thorni', 'tpp', 'trickl', 'trilog', 'undergrad', 'valley', 'veto', 'vpn', 'writeup', 'yelp', 'zeppelin')
+Most Typical Words: ['algorithm', 'amplifi', 'earnest', 'economist', 'mmt', 'monopoli', 'postdoc', 'rubin', 'silicon', 'sociolog']
+Duplicate Count: 1
+
+Core Users: ('TedOnPrivacy', 'alexstamos', 'j2bryson', 'mikarv', 'zeynep')
+Core Items: ('academ', 'aggreg', 'algorithm', 'amplifi', 'attribut', 'autom', 'broader', 'browser', 'cc', 'contextu', 'copyright', 'data', 'eg', 'forthcom', 'gmail', 'hash', 'intervent', 'keynot', 'malwar', 'metric', 'mitig', 'ml', 'postdoc', 'presum', 'privaci', 'recipi', 'scrape', 'semant', 'sociolog', 'tracker', 'vpn')
+Most Typical Words: ['algorithm', 'amplifi', 'cf', 'dataset', 'intervent', 'keynot', 'metric', 'ml', 'privaci', 'semant']
+Duplicate Count: 1
+
+Core Users: ('3r1nG', 'BrendanNyhan', 'GeoffreySupran', 'MattGertz', 'MichaelSLinden')
+Core Items: ('amplifi', 'axio', 'benchmark', 'bps', 'breathless', 'bret', 'broader', 'cabl', 'carlson', 'climat', 'cluster', 'co2', 'congression', 'conspiraci', 'contributor', 'credul', 'cult', 'dataset', 'debunk', 'deficit', 'delay', 'denial', 'denier', 'deregul', 'destabil', 'disinfo', 'dispar', 'ds', 'earnest', 'ebola', 'eloqu', 'emiss', 'enact', 'eoin', 'epoch', 'esta', 'estim', 'et', 'expertis', 'exposur', 'extract', 'factcheck', 'fiscal', 'fisher', 'fossil', 'fox', 'frequent', 'fuel', 'gbs', 'gdp', 'gore', 'gotcha', 'graph', 'greenland', 'hacker', 'hanniti', 'hog', 'ht', 'incent', 'incom', 'increment', 'inequ', 'influenti', 'infus', 'irrespons', 'katharin', 'legislatur', 'legitimis', 'liabil', 'lindsey', 'mampm', 'mcsalli', 'median', 'medicaid', 'metric', 'misrepres', 'mit', 'monica', 'narco', 'neal', 'neoliber', 'neonazi', 'newsroom', 'nich', 'ninth', 'nyt', 'oct', 'overst', 'oxford', 'pancra', 'partisan', 'payrol', 'peanut', 'pivot', 'playbook', 'preexist', 'puerto', 'rebuk', 'recess', 'reef', 'refram', 'regress', 'retract', 'revenu', 'rico', 'scientist', 'segment', 'sept', 'seth', 'sharehold', 'shutdown', 'skeptic', 'soro', 'specul', 'static', 'substant', 'supplier', 'syllabus', 'takeaway', 'tax', 'tiller', 'tobacco', 'trickl', 'trillion', 'tucker', 'unrel', 'url', 'venezuelan', 'verifi', 'wealth', 'wealthi', 'wealthiest', 'wikileak')
+Most Typical Words: ['amplifi', 'cabl', 'debunk', 'factcheck', 'fox', 'graph', 'hanniti', 'neonazi', 'partisan', 'retract']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'alexstamos', 'johnmyleswhite', 'mikarv')
+Core Items: ('academ', 'analog', 'autom', 'benchmark', 'biometr', 'broader', 'causal', 'cc', 'conceptu', 'coopt', 'copyright', 'data', 'eg', 'forthcom', 'hash', 'hypothet', 'identif', 'intervent', 'ml', 'privaci', 'regress', 'scrape', 'sharehold', 'skeptic', 'tenur', 'variabl', 'vpn')
+Most Typical Words: ['algorithm', 'broader', 'causal', 'coauthor', 'frt', 'identif', 'intervent', 'regress', 'scrape', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('KT_So_It_Goes', 'SeanTrende', 'curaffairs', 'ezraklein', 'qjurecic')
+Core Items: ('8chan', 'astonish', 'barr', 'bennet', 'bret', 'bullock', 'buttigieg', 'congression', 'delaney', 'essay', 'greenland', 'hawley', 'iowa', 'klobuchar', 'medicar', 'obstruct', 'pelosi', 'pete', 'pod', 'radic', 'revisit', 'undergrad')
+Most Typical Words: ['bennet', 'congression', 'delaney', 'gerrymand', 'greenland', 'iowa', 'medicareforal', 'pod', 'reconcili', 'skeptic']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'Miles_Brundage', 'Smerity', 'jackclarkSF', 'johnmyleswhite')
+Core Items: ('analog', 'autom', 'autonom', 'benchmark', 'broader', 'causal', 'cc', 'character', 'clarifi', 'coauthor', 'conceptu', 'constraint', 'cpu', 'dataset', 'domain', 'dota', 'eg', 'embed', 'emphas', 'frequent', 'github', 'hypothesi', 'hypothet', 'identif', 'impost', 'intervent', 'intuit', 'malici', 'misus', 'nlp', 'optim', 'output', 'ponder', 'python', 'recognit', 'regress', 'replic', 'rl', 'scrape', 'selfregul', 'skeptic', 'societ', 'tenur', 'tricki', 'ture', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'frt', 'intervent', 'scrape', 'skeptic', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Smerity', 'haldaume3', 'natematias', 'tdietterich')
+Core Items: ('academ', 'algorithm', 'approxim', 'bandit', 'benchmark', 'broader', 'causal', 'clarifi', 'cluster', 'correl', 'dataset', 'eg', 'embed', 'faculti', 'frequent', 'hah', 'hypothesi', 'impost', 'intervent', 'metric', 'ml', 'output', 'phd', 'pointer', 'ponder', 'postdoc', 'preregist', 'replic', 'scrape', 'sociolog', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bandit', 'benchmark', 'causal', 'dataset', 'hypothesi', 'intervent', 'metric', 'ml', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'Smerity', 'johnmyleswhite', 'roydanroy')
+Core Items: ('analog', 'approxim', 'atom', 'autom', 'benchmark', 'broader', 'causal', 'coauthor', 'conceptu', 'cpu', 'frequent', 'hypothesi', 'hypothet', 'identif', 'impost', 'intervent', 'linear', 'lotteri', 'mathemat', 'mathematician', 'ml', 'optim', 'ponder', 'python', 'regress', 'scrape', 'semant', 'skeptic', 'tenur', 'variabl', 'vector')
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'regress', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'jackclarkSF', 'mikarv', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'algorithm', 'amplifi', 'assess', 'attribut', 'autonom', 'benchmark', 'broader', 'causal', 'compon', 'copyright', 'data', 'eg', 'embed', 'hash', 'increment', 'intervent', 'invari', 'metric', 'misus', 'ml', 'phd', 'preprint', 'recipi', 'rl', 'robust', 'scrape', 'semant', 'societ', 'supervis', 'unifi', 'vpn')
+Most Typical Words: ['algorithm', 'benchmark', 'broader', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'scrape']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'Miles_Brundage', 'Smerity', 'alexstamos', 'mikarv', 'yoavgo')
+Core Items: ('academ', 'analog', 'api', 'benchmark', 'broader', 'cc', 'clarifi', 'contextu', 'copyright', 'data', 'dataset', 'domain', 'ecosystem', 'eg', 'embed', 'forthcom', 'frequent', 'gmail', 'hash', 'hypothesi', 'impost', 'intervent', 'lms', 'metric', 'misus', 'mitig', 'ml', 'moat', 'nlp', 'output', 'ponder', 'python', 'replic', 'scrape', 'skeptic', 'societ', 'vpn')
+Most Typical Words: ['algorithm', 'api', 'broader', 'dataset', 'embed', 'intervent', 'metric', 'ml', 'scrape', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'SolomonMg', 'edwardhkennedy', 'johnmyleswhite', 'tyrell_turing')
+Core Items: ('analog', 'benchmark', 'broader', 'causal', 'cis', 'correl', 'eg', 'error', 'estim', 'github', 'hypothesi', 'identif', 'intervent', 'logist', 'method', 'optim', 'preregist', 'python', 'regress', 'replic', 'semant', 'skeptic', 'sociolog', 'statist', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'hypothesi', 'identif', 'intervent', 'neurosci', 'regress', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'Miles_Brundage', 'Smerity', 'jackclarkSF')
+Core Items: ('analog', 'autom', 'benchmark', 'broader', 'cc', 'character', 'clarifi', 'coauthor', 'conceptu', 'constraint', 'dataset', 'domain', 'dota', 'eg', 'embed', 'emphas', 'frequent', 'hypothesi', 'hypothet', 'identif', 'impost', 'intervent', 'malici', 'misus', 'nlp', 'output', 'ponder', 'recognit', 'replic', 'rl', 'scrape', 'selfregul', 'skeptic', 'societ', 'tenur', 'ture')
+Most Typical Words: ['algorithm', 'broader', 'coauthor', 'dataset', 'frt', 'identif', 'intervent', 'scrape', 'skeptic', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'JohnHolbein1', 'SolomonMg', 'johnmyleswhite', 'natematias')
+Core Items: ('academ', 'aggreg', 'benchmark', 'broader', 'causal', 'cluster', 'coauthor', 'conceptu', 'correl', 'dataset', 'error', 'faculti', 'framework', 'github', 'hypothesi', 'hypothet', 'intervent', 'preregist', 'python', 'regress', 'replic', 'scrape', 'skeptic', 'sociolog', 'tenur', 'turnout', 'variabl', 'varianc')
+Most Typical Words: ['algorithm', 'bandit', 'causal', 'coauthor', 'frt', 'identif', 'intervent', 'regress', 'skeptic', 'tenur']
+Duplicate Count: 1
+
