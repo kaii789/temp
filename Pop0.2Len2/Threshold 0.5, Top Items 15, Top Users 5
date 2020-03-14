@@ -1,0 +1,100 @@
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'alexstamos', 'rajiinio', 'thesasho')
+Core Items: ('amplifi', 'analog', 'api', 'backlash', 'biometr', 'broader', 'clickbait', 'irrespons', 'kissing', 'metric', 'overst', 'preprint', 'scrape', 'stakehold', 'variabl')
+Most Typical Words: ['algorithm', 'embed', 'factcheck', 'intervent', 'invari', 'kissing', 'metric', 'overst', 'quantum', 'variabl']
+Duplicate Count: 854
+
+Core Users: ('JohnHolbein1', 'KLdivergence', 'ShalitUri', 'alexdamour', 'angelamczhou', 'johnmyleswhite', 'yisongyue')
+Core Items: ('analog', 'assess', 'causal', 'confound', 'constraint', 'detector', 'dispar', 'hoc', 'identif', 'intervent', 'latent', 'skeptic', 'subset', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bw', 'causal', 'confound', 'constraint', 'detector', 'identif', 'intervent', 'latent', 'variabl']
+Duplicate Count: 5
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'alexstamos', 'angelamczhou', 'rajiinio')
+Core Items: ('amplifi', 'analog', 'api', 'backlash', 'biometr', 'broader', 'clickbait', 'identif', 'intervent', 'irrespons', 'kissing', 'overst', 'scrape', 'stakehold', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'cf', 'constraint', 'factcheck', 'identif', 'intervent', 'latent', 'overst', 'variabl']
+Duplicate Count: 3
+
+Core Users: ('JohnHolbein1', 'KLdivergence', 'ShalitUri', 'alexdamour', 'alexstamos', 'angelamczhou', 'johnmyleswhite')
+Core Items: ('amplifi', 'api', 'assess', 'causal', 'confound', 'detector', 'dispar', 'hoc', 'identif', 'intervent', 'latent', 'scrape', 'skeptic', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'bw', 'causal', 'cf', 'confound', 'detector', 'identif', 'intervent', 'latent', 'variabl']
+Duplicate Count: 3
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'KLdivergence', 'benzevgreen', 'ddebow', 'mikarv', 'yisongyue')
+Core Items: ('amplifi', 'analog', 'assess', 'backlash', 'biometr', 'broader', 'clickbait', 'constraint', 'detector', 'dispar', 'increment', 'overst', 'scrape', 'selfdriv', 'subset', 'subtweet', 'tfw')
+Most Typical Words: ['algorithm', 'assess', 'broader', 'causal', 'constraint', 'dispar', 'intervent', 'marino', 'quantum', 'subset']
+Duplicate Count: 2
+
+Core Users: ('BrendaKLeong', 'KLdivergence', 'alexstamos', 'rajiinio', 'thesasho')
+Core Items: ('amplifi', 'analog', 'api', 'assess', 'biometr', 'broader', 'clickbait', 'detector', 'dispar', 'kissing', 'metric', 'preprint', 'scrape', 'stakehold', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'constraint', 'embed', 'invari', 'keynot', 'kissing', 'metric', 'quantum', 'variabl']
+Duplicate Count: 2
+
+Core Users: ('BrendaKLeong', 'NicolasPapernot', 'alexstamos', 'rajiinio', 'thesasho')
+Core Items: ('amplifi', 'analog', 'api', 'biometr', 'broader', 'clickbait', 'kissing', 'metric', 'ml', 'preprint', 'privaci', 'scrape', 'semant', 'stakehold', 'variabl')
+Most Typical Words: ['algorithm', 'entangl', 'github', 'keynot', 'kissing', 'marta', 'metric', 'ml', 'privaci', 'semant']
+Duplicate Count: 2
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'JohnHolbein1', 'alexstamos', 'angelamczhou', 'natematias', 'rajiinio')
+Core Items: ('amplifi', 'analog', 'api', 'backlash', 'biometr', 'broader', 'clickbait', 'identif', 'influenti', 'intervent', 'kissing', 'overst', 'scrape', 'stakehold', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'cf', 'dataset', 'factcheck', 'identif', 'intervent', 'latent', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'NicolasPapernot', 'alexstamos', 'rajiinio')
+Core Items: ('amplifi', 'analog', 'api', 'backlash', 'biometr', 'broader', 'clickbait', 'irrespons', 'kissing', 'ml', 'overst', 'privaci', 'scrape', 'semant', 'stakehold')
+Most Typical Words: ['algorithm', 'entangl', 'github', 'intervent', 'keynot', 'marta', 'ml', 'privaci', 'semant', 'tf2']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'KLdivergence', 'alexstamos', 'rajiinio', 'timoreilly')
+Core Items: ('amplifi', 'analog', 'api', 'assess', 'biometr', 'broader', 'clickbait', 'congression', 'detector', 'dispar', 'earnest', 'kissing', 'monopoli', 'scrape', 'stakehold')
+Most Typical Words: ['algorithm', 'analog', 'causal', 'detector', 'dispar', 'intervent', 'keynot', 'kissing', 'misus', 'ml']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'alexstamos', 'thesasho', 'zittrain')
+Core Items: ('amplifi', 'analog', 'api', 'biometr', 'broader', 'clickbait', 'detector', 'irrespons', 'kissing', 'metric', 'overst', 'preprint', 'scrape', 'selfdriv', 'variabl')
+Most Typical Words: ['algorithm', 'analog', 'embed', 'intervent', 'invari', 'kissing', 'metric', 'quantum', 'selfdriv', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'alexstamos', 'ddebow', 'nathanjurgenson', 'rajiinio', 'thesasho')
+Core Items: ('amplifi', 'analog', 'backlash', 'biometr', 'broader', 'clickbait', 'increment', 'irrespons', 'kissing', 'metric', 'overst', 'preprint', 'scrape', 'skeptic', 'stakehold', 'subtweet', 'tfw', 'variabl')
+Most Typical Words: ['algorithm', 'amplifi', 'embed', 'intervent', 'invari', 'keynot', 'kissing', 'metric', 'quantum', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'JohnHolbein1', 'alexstamos', 'angelamczhou', 'rajiinio', 'thesasho')
+Core Items: ('amplifi', 'analog', 'api', 'backlash', 'biometr', 'broader', 'clickbait', 'identif', 'intervent', 'irrespons', 'kissing', 'metric', 'overst', 'scrape', 'stakehold', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'cf', 'constraint', 'identif', 'intervent', 'kissing', 'latent', 'quantum', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'JohnHolbein1', 'alexstamos', 'angelamczhou', 'natematias', 'rajiinio', 'zittrain')
+Core Items: ('amplifi', 'analog', 'api', 'backlash', 'biometr', 'broader', 'clickbait', 'detector', 'identif', 'influenti', 'intervent', 'irrespons', 'kissing', 'overst', 'scrape', 'stakehold', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'analog', 'causal', 'cf', 'identif', 'intervent', 'latent', 'selfdriv', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('KLdivergence', 'NicolasPapernot', 'alexstamos', 'catherineols', 'rajiinio', 'timoreilly')
+Core Items: ('amplifi', 'analog', 'api', 'assess', 'congression', 'detector', 'dispar', 'earnest', 'kissing', 'ml', 'monopoli', 'privaci', 'scrape', 'semant', 'stakehold')
+Most Typical Words: ['adversari', 'algorithm', 'detector', 'entangl', 'github', 'keynot', 'marta', 'ml', 'privaci', 'semant']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'KLdivergence', 'alexstamos', 'benzevgreen', 'mikarv', 'rajiinio')
+Core Items: ('amplifi', 'analog', 'api', 'assess', 'biometr', 'broader', 'clickbait', 'detector', 'dispar', 'irrespons', 'kissing', 'overst', 'scrape', 'selfdriv', 'stakehold')
+Most Typical Words: ['algorithm', 'assess', 'broader', 'causal', 'dispar', 'forthcom', 'intervent', 'keynot', 'kissing', 'selfdriv']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'alexstamos', 'kdphd', 'packer_ben', 'rajiinio', 'sarahcolq', 'thesasho')
+Core Items: ('analog', 'api', 'biometr', 'broader', 'clickbait', 'conquer', 'dataset', 'kissing', 'metric', 'preprint', 'scrape', 'sexism', 'stakehold', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'conquer', 'dataset', 'energyusag', 'metric', 'mudd', 'parol', 'redistrict', 'sexism', 'undergrad']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'kdphd', 'packer_ben', 'rajiinio', 'sarahcolq', 'thesasho', 'yisongyue')
+Core Items: ('amplifi', 'analog', 'api', 'conquer', 'constraint', 'dataset', 'kissing', 'metric', 'preprint', 'scrape', 'sexism', 'stakehold', 'subset', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'conquer', 'constraint', 'dataset', 'metric', 'quantum', 'redistrict', 'sexism', 'undergrad']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'JohnHolbein1', 'angelamczhou', 'mark_riedl', 'natematias', 'rajiinio', 'zeynep', 'zittrain')
+Core Items: ('amplifi', 'analog', 'backlash', 'biometr', 'broader', 'clickbait', 'detector', 'identif', 'influenti', 'intervent', 'kissing', 'overst', 'scrape', 'selfdriv', 'stakehold', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'cf', 'dataset', 'identif', 'intervent', 'latent', 'selfdriv', 'sociolog', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'ddebow', 'yisongyue', 'zittrain')
+Core Items: ('amplifi', 'analog', 'backlash', 'biometr', 'broader', 'clickbait', 'constraint', 'detector', 'increment', 'irrespons', 'overst', 'selfdriv', 'subset', 'subtweet', 'tfw')
+Most Typical Words: ['algorithm', 'analog', 'constraint', 'factcheck', 'geometr', 'intervent', 'learner', 'marino', 'quantum', 'selfdriv']
+Duplicate Count: 1
+

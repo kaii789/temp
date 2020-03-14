@@ -1,0 +1,75 @@
+Core Users: ('SarahJamieLewis', 'jennwvaughan', 'jessebett', 'rajiinio', 'random_walker')
+Core Items: ('character', 'cryptograph', 'dough', 'intersect', 'kissing', 'misus', 'ml', 'privaci', 'retract', 'surveil')
+Most Typical Words: ['algorithm', 'cryptograph', 'dataset', 'infosec', 'intersect', 'keynot', 'misus', 'ml', 'retract', 'tenur']
+Duplicate Count: 6
+
+Core Users: ('aselbst', 'jessebett', 'maya_sen', 'rajiinio', 'thesasho')
+Core Items: ('assess', 'character', 'dough', 'intersect', 'kissing', 'misus', 'partisan', 'retract', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'forthcom', 'intersect', 'kissing', 'misus', 'partisan', 'quantum', 'retract', 'tenur', 'variabl']
+Duplicate Count: 4
+
+Core Users: ('AmirRosenfeld', '_asubbaswamy', 'jessebett', 'rajiinio', 'thesasho')
+Core Items: ('character', 'dataset', 'dough', 'invari', 'kissing', 'latent', 'misus', 'retract', 'selfdriv', 'variabl')
+Most Typical Words: ['algorithm', 'dataset', 'etdoa', 'eyxz', 'invari', 'latent', 'lti', 'misleadingconfus', 'stableinvari', 'textimag']
+Duplicate Count: 3
+
+Core Users: ('BKCHarvard', 'SarahJamieLewis', 'alexstamos', 'blancamiller_', 'jennwvaughan', 'rajiinio', 'random_walker', 'thesasho', 'zacharylipton')
+Core Items: ('character', 'cryptograph', 'fellowship', 'intersect', 'kissing', 'ml', 'privaci', 'scrape', 'surveil', 'tos', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'compon', 'fellowship', 'intersect', 'intervent', 'keynot', 'metric', 'ml', 'variabl']
+Duplicate Count: 3
+
+Core Users: ('GaryMarchant1', 'ShalitUri', 'SolomonMg', 'johnmyleswhite', 'zeynep')
+Core Items: ('causal', 'coauthor', 'confound', 'forthcom', 'hah', 'hoc', 'intervent', 'privaci', 'skeptic', 'sociolog')
+Most Typical Words: ['asu', 'causal', 'coauthor', 'crossfertil', 'forthcom', 'gnlu', 'hah', 'intervent', 'karjala', 'scienv']
+Duplicate Count: 1
+
+Core Users: ('GaryMarchant1', 'JohnHolbein1', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite', 'maya_sen', 'mikarv')
+Core Items: ('causal', 'coauthor', 'confound', 'forthcom', 'hah', 'identif', 'intervent', 'partisan', 'regress', 'scrape', 'skeptic', 'tenur')
+Most Typical Words: ['asu', 'causal', 'coauthor', 'confound', 'crossfertil', 'forthcom', 'gnlu', 'hah', 'identif', 'intervent']
+Duplicate Count: 1
+
+Core Users: ('EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite', 'mikarv')
+Core Items: ('causal', 'coauthor', 'confound', 'forthcom', 'hah', 'hoc', 'identif', 'intervent', 'regress', 'scrape', 'surveil')
+Most Typical Words: ['asu', 'causal', 'coauthor', 'confound', 'crossfertil', 'forthcom', 'gnlu', 'hah', 'identif', 'intervent']
+Duplicate Count: 1
+
+Core Users: ('SarahJamieLewis', 'aselbst', 'jessebett', 'karen_ec_levy', 'maya_sen')
+Core Items: ('assess', 'cryptograph', 'dough', 'misus', 'partisan', 'pointer', 'retract', 'sociolog', 'surveil', 'tenur')
+Most Typical Words: ['algorithm', 'faculti', 'forthcom', 'intersect', 'lindsey', 'partisan', 'pointer', 'retract', 'surveil', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('SarahJamieLewis', 'aselbst', 'jennwvaughan', 'jessebett', 'mrtz', 'rajiinio', 'thesasho', 'zacharylipton')
+Core Items: ('assess', 'character', 'cryptograph', 'dough', 'intersect', 'kissing', 'misus', 'ml', 'partisan', 'surveil', 'unintend', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'intersect', 'keynot', 'kissing', 'ml', 'postdoc', 'quantum', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BKCHarvard', 'blancamiller_', 'jennwvaughan', 'jessebett', 'johnmyleswhite', 'mattyglesias', 'rajiinio')
+Core Items: ('dough', 'fellowship', 'hoc', 'intersect', 'kissing', 'misus', 'ml', 'retract', 'skeptic', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'fellowship', 'happenbi', 'intersect', 'intervent', 'keynot', 'ml', 'useto', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('AmirRosenfeld', 'JohnHolbein1', 'Miles_Brundage', '_asubbaswamy', 'angelamczhou', 'mark_riedl', 'rajiinio', 'zittrain')
+Core Items: ('character', 'dataset', 'identif', 'intervent', 'invari', 'kissing', 'latent', 'misus', 'selfdriv', 'stylegan')
+Most Typical Words: ['algorithm', 'dataset', 'etdoa', 'eyxz', 'invari', 'latent', 'lti', 'misleadingconfus', 'stableinvari', 'textimag']
+Duplicate Count: 1
+
+Core Users: ('alexstamos', 'blancamiller_', 'jennwvaughan', 'jessebett', 'rajiinio', 'zacharylipton')
+Core Items: ('character', 'dough', 'intersect', 'kissing', 'misus', 'ml', 'retract', 'scrape', 'tos', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'compon', 'happenbi', 'intersect', 'intervent', 'keynot', 'ml', 'pplhard', 'useto']
+Duplicate Count: 1
+
+Core Users: ('jessebett', 'mattyglesias', 'mrtz', 'rajiinio', 'thesasho')
+Core Items: ('character', 'dough', 'hoc', 'intersect', 'kissing', 'misus', 'retract', 'skeptic', 'unintend', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'glymour', 'kissing', 'misus', 'quantum', 'retract', 'skeptic', 'spirt', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'alexbeutel', 'david_sontag', 'haldaume3', 'mattschleg', 'megberetta', 'mrtz')
+Core Items: ('increment', 'keynot', 'median', 'mit', 'overst', 'pod', 'pointer', 'rl', 'stakehold', 'unintend', 'variabl')
+Most Typical Words: ['benchmark', 'didi', 'factsir', 'jiayu', 'keynot', 'mit', 'rl', 'upstair', 'zhao', 'zhiwei']
+Duplicate Count: 1
+
+Core Users: ('GaryMarchant1', 'ShalitUri', 'johnmyleswhite', 'maya_sen', 'zeynep')
+Core Items: ('causal', 'coauthor', 'confound', 'forthcom', 'hah', 'hoc', 'intervent', 'partisan', 'sociolog', 'tenur')
+Most Typical Words: ['asu', 'causal', 'coauthor', 'crossfertil', 'forthcom', 'gnlu', 'hah', 'intervent', 'karjala', 'scienv']
+Duplicate Count: 1
+

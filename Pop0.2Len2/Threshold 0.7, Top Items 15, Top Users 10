@@ -1,0 +1,15 @@
+Core Users: ('BrendaKLeong', 'JohnHolbein1', 'SolomonMg', 'angelamczhou', 'blancamiller_', 'fhuszar', 'jennwvaughan', 'johnmyleswhite', 'leeclemnet', 'mrtz')
+Core Items: ('algorithm', 'autonom', 'causal', 'coauthor', 'forthcom', 'github', 'hoc', 'hog', 'identif', 'intersect', 'intervent', 'invari', 'irrespons', 'keynot', 'latent', 'median', 'mit', 'ml', 'netanyahu', 'overst', 'partisan', 'pod', 'postdoc', 'privaci', 'raptor', 'retract', 'selfdriv', 'serg', 'sexism', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'identif', 'intervent', 'keynot', 'ml', 'postdoc', 'tenur', 'variabl']
+Duplicate Count: 138
+
+Core Users: ('AlecMacGillis', 'BrendanNyhan', 'DavidDuvenaud', 'EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SeanTrende', 'angelamczhou', 'blancamiller_', 'johnmyleswhite', 'julia_azari', 'leeclemnet', 'mattyglesias', 'maya_sen', 'mikarv', 'natematias', 'riakall')
+Core Items: ('coauthor', 'forthcom', 'hoc', 'identif', 'intervent', 'irrespons', 'latent', 'median', 'overst', 'partisan', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'asu', 'causal', 'coauthor', 'forthcom', 'intervent', 'latent', 'ml', 'tenur', 'variabl']
+Duplicate Count: 27
+
+Core Users: ('AlecMacGillis', 'BrendanNyhan', 'EvanSelinger', 'JohnHolbein1', 'SeanTrende', 'angelamczhou', 'blancamiller_', 'fhuszar', 'halhod', 'irenetrampoline', 'jennwvaughan', 'johnmyleswhite', 'leeclemnet', 'mattyglesias', 'maya_sen', 'mrtz', 'natematias')
+Core Items: ('hoc', 'identif', 'intersect', 'intervent', 'irrespons', 'median', 'mit', 'ml', 'overst', 'partisan', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'intersect', 'intervent', 'keynot', 'mit', 'ml', 'tenur', 'variabl']
+Duplicate Count: 1
+

@@ -1,0 +1,155 @@
+Core Users: ('berty38', 'fhuszar', 'hima_lakkaraju', 'irenetrampoline', 'julius_adebayo', 'leeclemnet', 'zacharylipton')
+Core Items: ('admiss', 'clarif', 'debug', 'exponenti', 'fraction', 'ml', 'nip', 'prof', 'supervis')
+Most Typical Words: ['algorithm', 'dataset', 'debug', 'img', 'lissaj', 'mit', 'ml', 'sampw', 'undergrad', 'woahw']
+Duplicate Count: 157
+
+Core Users: ('Eleni30fillou', 'NicolasPapernot', 'adversariel', 'coolboi95', 'fhuszar', 'gokstudio', 'irenetrampoline', 'jh_jacobsen', 'moyix', 'roydanroy', 'tw_killian')
+Core Items: ('adversari', 'binari', 'nip', 'pytorch', 'robust')
+Most Typical Words: ['flllllyyyyyy', 'invari', 'miiiind', 'ml', 'nip', 'olah', 'pytorch', 'rlirl', 'stronglyunconvinc', 'tensorflow']
+Duplicate Count: 30
+
+Core Users: ('Eleni30fillou', 'RandomlyWalking', 'coolboi95', 'fhuszar', 'irenetrampoline', 'julius_adebayo', 'roydanroy')
+Core Items: ('compress', 'debug', 'distribut', 'exponenti', 'fraction', 'nip', 'tensorflow')
+Most Typical Words: ['algorithm', 'flllllyyyyyy', 'img', 'miiiind', 'nip', 'olah', 'pytorch', 'rlirl', 'stronglyunconvinc', 'tensorflow']
+Duplicate Count: 21
+
+Core Users: ('Eleni30fillou', 'MichaelOberst', 'david_sontag', 'fhuszar', 'halhod', 'hima_lakkaraju', 'irenetrampoline', 'julius_adebayo', 'leilanigilpin', 'mbogen', 'moyix', 'packer_ben', 'roydanroy')
+Core Items: ('binari', 'debug', 'discriminatori', 'mit', 'nip')
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'debug', 'decompos', 'discriminatori', 'gumbelmax', 'mit', 'ml', 'stronglyunconvinc']
+Duplicate Count: 18
+
+Core Users: ('EvanSelinger', 'SarahJamieLewis', 'WillOremus', 'elizabeth_joh', 'random_walker')
+Core Items: ('analytica', 'cryptograph', 'decentr', 'hypothet', 'infosec', 'privaci', 'recognit', 'redact', 'surveil')
+Most Typical Words: ['algorithm', 'coauthor', 'consensus', 'cough', 'cryptograph', 'decentr', 'frt', 'infosec', 'privaci', 'surveil']
+Duplicate Count: 17
+
+Core Users: ('DavidDuvenaud', 'Eleni30fillou', 'SussilloDavid', 'fhuszar', 'irenetrampoline', 'roydanroy')
+Core Items: ('binari', 'distribut', 'fraction', 'linear', 'nip', 'preprint')
+Most Typical Words: ['algorithm', 'greek', 'keynot', 'latent', 'linear', 'mit', 'ml', 'nip', 'stronglyunconvinc', 'submiss']
+Duplicate Count: 15
+
+Core Users: ('SoloGen', 'annakoop', 'beenwrekt', 'irenetrampoline', 'mattschleg')
+Core Items: ('addi', 'algebra', 'approxim', 'autonomi', 'bandit', 'd463', 'debug', 'decentr', 'denver', 'diagnosi', 'edmonton', 'erik', 'framework', 'gait', 'infus', 'kickoff', 'learner', 'meetup', 'mit', 'neurosci', 'nip', 'noisi', 'offpolici', 'overlord', 'playabl', 'portion', 'procrastin', 'prose', 'psychiatr', 'redmond', 'reproduc', 'rl', 'robot', 'russ', 'trajectori', 'undergrad', 'vector')
+Most Typical Words: ['algorithm', 'delibr', 'dreeeaammsss', 'duuuee', 'mit', 'ml', 'pod', 'rl', 'sampleimportanceresampl', 'seeee']
+Duplicate Count: 12
+
+Core Users: ('Aaroth', 'SolomonMg', 'TedOnPrivacy', 'mikekimbackward', 'random_walker')
+Core Items: ('attribut', 'browser', 'composit', 'contextu', 'differenti', 'dp', 'leakag', 'opensourc', 'privaci', 'reconstruct', 'tracker')
+Most Typical Words: ['abbrevi', 'algorithm', 'amirata', 'dataset', 'differenti', 'metric', 'privaci', 'quantum', 'subset', 'variabl']
+Duplicate Count: 12
+
+Core Users: ('ShalitUri', 'StatModeling', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite')
+Core Items: ('assumpt', 'causal', 'confound', 'regress', 'statist')
+Most Typical Words: ['assumpt', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'postdoc', 'regress', 'variabl']
+Duplicate Count: 11
+
+Core Users: ('DoctorVive', 'GaryMarchant1', 'NicolasPapernot', 'aivillage_dc', 'alexbeutel', 'audurand', 'coolboi95', 'ermgrant', 'gokstudio', 'jennwvaughan', 'julius_adebayo', 'kswersk', 'negar_rz')
+Core Items: ('deadlin', 'montreal', 'pytorch', 'tensorflow', 'workshop')
+Most Typical Words: ['flllllyyyyyy', 'jiayu', 'keynot', 'miiiind', 'ml', 'olah', 'pytorch', 'rl', 'rlirl', 'tensorflow']
+Duplicate Count: 10
+
+Core Users: ('1vnzh', 'GretchenAMcC', 'JFutoma', 'MarzyehGhassemi', 'Miles_Brundage', 'SingularMattrix', 'Smerity', '_asubbaswamy', 'aerinykim', 'alex_y_gao', 'gokstudio', 'jackclarkSF', 'melosare', 'moyix', 'mtesfald', 'octonion', 'packer_ben', 'randal_olson', 'rctatman')
+Core Items: ('dataset', 'github', 'linguist', 'python', 'societ')
+Most Typical Words: ['5hr', 'algorithm', 'dataset', 'github', 'halfmarathon', 'invari', 'ml', 'negativeslop', 'ucalgari', 'waterresist']
+Duplicate Count: 10
+
+Core Users: ('EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag')
+Core Items: ('aipac', 'antisemit', 'gaza', 'isra', 'israel', 'jew', 'jewish', 'netanyahu', 'shabbat', 'zionism', 'zionist')
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 9
+
+Core Users: ('Aaroth', 'FrankPasquale', 'SolomonMg', 'TedOnPrivacy', 'mikarv')
+Core Items: ('aggreg', 'algorithm', 'attribut', 'autom', 'biometr', 'cc', 'character', 'composit', 'contextu', 'data', 'differenti', 'dp', 'hash', 'leakag', 'output', 'privaci', 'proprietari', 'reconstruct', 'scope')
+Most Typical Words: ['algorithm', 'constraint', 'data', 'dataset', 'differenti', 'github', 'intervent', 'metric', 'privaci', 'tenur']
+Duplicate Count: 9
+
+Core Users: ('dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou', 'wtevs')
+Core Items: ('danni', 'foul', 'fred', 'jv', 'kyle', 'raptor', 'serg')
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 4
+
+Core Users: ('EvanSelinger', 'benzevgreen', 'elizabeth_joh', 'judywawira', 'math_rachel', 'wsisaac')
+Core Items: ('ethic', 'fellowship', 'judi', 'keynot', 'kickoff', 'recognit', 'surveil')
+Most Typical Words: ['algorithm', 'assess', 'broader', 'embed', 'ethic', 'fellowship', 'frt', 'intervent', 'keynot', 'surveil']
+Duplicate Count: 3
+
+Core Users: ('ContraPoints', 'FrankPasquale', 'Miles_Brundage', 'blancamiller_', 'edwardhkennedy', 'geomblog', 'j2bryson', 'jackclarkSF', 'johnmyleswhite', 'juliagalef', 'michaelrzhang', 'mikarv', 'tyrell_turing')
+Core Items: ('cc', 'cis', 'eg', 'intuit', 'irrespons', 'tricki')
+Most Typical Words: ['a2c', 'advantageactorcrit', 'algorithm', 'causal', 'illumin', 'intervent', 'intuit', 'pasteur', 'rl', 'rshowerthought']
+Duplicate Count: 3
+
+Core Users: ('Aaroth', 'SingularMattrix', 'SolomonMg', 'TedOnPrivacy', 'mikekimbackward')
+Core Items: ('composit', 'contextu', 'differenti', 'dp', 'leakag', 'output', 'privaci', 'reconstruct', 'tracker')
+Most Typical Words: ['abbrevi', 'algorithm', 'differenti', 'embed', 'github', 'metric', 'postdoc', 'privaci', 'subset', 'tracker']
+Duplicate Count: 3
+
+Core Users: ('KLdivergence', 'TrooperSanders', 'aselbst', 'benzevgreen', 'wsisaac')
+Core Items: ('assess', 'deepen', 'dispar', 'equit', 'pinpoint')
+Most Typical Words: ['algorithm', 'assess', 'autonom', 'causal', 'dispar', 'equit', 'forthcom', 'intervent', 'keynot', 'selfdriv']
+Duplicate Count: 2
+
+Core Users: ('beenwrekt', 'ermgrant', 'hima_lakkaraju', 'julius_adebayo', 'negar_rz')
+Core Items: ('abbrevi', 'aoe', 'applaus', 'assert', 'autonomi', 'bastani', 'benchmark', 'clarif', 'classif', 'cynthia', 'deadlin', 'debug', 'dsa', 'exponenti', 'incl', 'inclus', 'infus', 'mai', 'metalearn', 'mit', 'montreal', 'osbert', 'ponder', 'preregist', 'prof', 'redmond', 'revisit', 'russ', 'simon', 'stanford', 'structur', 'templat', 'tensorflow', 'workshop', 'yayi', 'و')
+Most Typical Words: ['addupvot', 'debug', 'eringr', 'hutter', 'img', 'likelihoodfre', 'ml', 'r04', 'rl', 'spirl']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'adversariel', 'coolboi95', 'gokstudio', 'jh_jacobsen', 'tw_killian')
+Core Items: ('adversari', 'eager', 'pytorch', 'robust', 'tensorflow')
+Most Typical Words: ['flllllyyyyyy', 'invari', 'miiiind', 'ml', 'olah', 'physio', 'pytorch', 'rlirl', 'tenenbaum', 'tensorflow']
+Duplicate Count: 1
+
+Core Users: ('AINowInstitute', 'EvanSelinger', 'MichaelOberst', 'jamiemorgenste1', 'katecrawford', 'mbogen', 'mmitchell_ai', 'packer_ben')
+Core Items: ('discriminatori', 'franco', 'interrog', 'recognit', 'rekognit', 'richardson', 'sexism', 'subcommitte')
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'decompos', 'discriminatori', 'gumbelmax', 'rekognit', 'sexism', 'twitterlength', 'whova']
+Duplicate Count: 1
+
+Core Users: ('AidanNGomez', 'Susan_Athey', 'avicgoldfarb', 'beenwrekt', 'halhod', 'irenetrampoline', 'kongaloosh', 'leeclemnet', 'leilanigilpin', 'm_sendhil', 'mathbabedotorg', 'random_walker', 'tw_killian', 'zacharylipton')
+Core Items: ('admiss', 'analytica', 'd463', 'ensembl', 'mit', 'phd', 'proprietari', 'stanford')
+Most Typical Words: ['algorithm', 'imagingehr', 'jacr', 'mit', 'ml', 'phd', 'rl', 'skeptic', 'teamappli', 'undergrad']
+Duplicate Count: 1
+
+Core Users: ('Aaroth', 'SolomonMg', 'TedOnPrivacy', 'carrasqu', 'thesasho')
+Core Items: ('attribut', 'composit', 'contextu', 'differenti', 'dp', 'juan', 'leakag', 'output', 'quantum', 'reconstruct')
+Most Typical Words: ['algorithm', 'differenti', 'dmrg', 'estell', 'j1j2', 'juan', 'kosterlitzthouless', 'lgt', 'quantum', 'vmc']
+Duplicate Count: 1
+
+Core Users: ('SirrahChan', 'audurand', 'beenwrekt', 'ermgrant', 'negar_rz')
+Core Items: ('abbrevi', 'aoe', 'autonomi', 'bastani', 'classif', 'deadlin', 'gardner', 'gillian', 'hindsight', 'hugo', 'incl', 'inclus', 'induct', 'infus', 'mai', 'meta', 'metalearn', 'mit', 'montreal', 'osbert', 'preregist', 'qui', 'redmond', 'russ', 'structur', 'sui', 'varianc', 'workshop', 'à', 'و')
+Most Typical Words: ['addupvot', 'eringr', 'gurecki', 'harutyunyan', 'hutter', 'jespèr', 'likelihoodfre', 'r04', 'rl', 'spirl']
+Duplicate Count: 1
+
+Core Users: ('AnnaJaneSmith4', 'BlakeMurphyODC', 'bruce_arthur', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'taltheturtle', 'wtevs')
+Core Items: ('dribbl', 'fred', 'jv', 'mccaw', 'raptor', 'serg')
+Most Typical Words: ['basketballcraz', 'hockey', 'jv', 'mitzvad', 'nav', 'raptor', 'rebound', 'serg', 'superfan', 'tal']
+Duplicate Count: 1
+
+Core Users: ('JFutoma', 'MarzyehGhassemi', 'Miles_Brundage', 'PariAIML', 'Smerity', '_asubbaswamy', 'blancamiller_', 'edwardhkennedy', 'geomblog', 'haldaume3', 'j2bryson', 'jackclarkSF', 'johnmyleswhite', 'juliagalef', 'michaelrzhang', 'moyix', 'packer_ben', 'rajiinio', 'randal_olson', 'rctatman', 'tyrell_turing', 'zittrain')
+Core Items: ('analog', 'dataset', 'eg', 'intuit', 'nlp')
+Most Typical Words: ['a2c', 'advantageactorcrit', 'algorithm', 'causal', 'dataset', 'intervent', 'invari', 'ml', 'rl', 'rshowerthought']
+Duplicate Count: 1
+
+Core Users: ('Mo_Fad3l', 'ShalitUri', 'Susan_Athey', 'avicgoldfarb', 'kongaloosh', 'leeclemnet', 'leilanigilpin', 'm_sendhil', 'mathbabedotorg', 'random_walker', 'tw_killian', 'zacharylipton')
+Core Items: ('admiss', 'analytica', 'confound', 'overlap', 'phd', 'stanford')
+Most Typical Words: ['algorithm', 'causal', 'imagingehr', 'jacr', 'keypoint', 'mit', 'overlap', 'phd', 'teamappli', 'vocabulari']
+Duplicate Count: 1
+
+Core Users: ('AINowInstitute', 'j2bryson', 'jackclarkSF', 'katecrawford', 'mmitchell_ai')
+Core Items: ('ai', 'eg', 'franco', 'recognit', 'richardson', 'societ', 'subcommitte')
+Most Typical Words: ['ai', 'algorithm', 'autonom', 'franco', 'keynot', 'oct', 'postdoc', 'recognit', 'richardson', 'sexism']
+Duplicate Count: 1
+
+Core Users: ('AidanNGomez', 'Eleni30fillou', 'EthanFetaya', 'JFutoma', 'SirrahChan', 'SoloGen', 'alexbeutel', 'annakoop', 'audurand', 'beenwrekt', 'david_sontag', 'ermgrant', 'fermatslibrary', 'fhuszar', 'halhod', 'irenetrampoline', 'leilanigilpin', 'mattschleg', 'michaelrzhang', 'orionbuske', 'roydanroy', 'rtqichen', 'tw_killian', 'variationalBAE')
+Core Items: ('approxim', 'diagnosi', 'mit', 'nip', 'rl')
+Most Typical Words: ['a2c', 'advantageactorcrit', 'algorithm', 'jiayu', 'keynot', 'mit', 'rl', 'rshowerthought', 'stronglyunconvinc', 'zhiwei']
+Duplicate Count: 1
+
+Core Users: ('annakoop', 'audurand', 'beenwrekt', 'ermgrant', 'linamkhan')
+Core Items: ('1970s', 'abstract', 'acquisit', 'aoe', 'arbitr', 'atampt', 'autonomi', 'bandit', 'bastani', 'breakup', 'breyer', 'deadlin', 'decentr', 'edmonton', 'faa', 'forthcom', 'framework', 'gait', 'gardner', 'hugo', 'incl', 'induct', 'infus', 'learner', 'metalearn', 'mit', 'monopoli', 'montreal', 'noisi', 'osbert', 'playabl', 'qui', 'railroad', 'redmond', 'remedi', 'retali', 'rl', 'robot', 'russ', 'structur', 'subcommitte', 'sui', 'trajectori', 'undergrad', 'workshop', 'à')
+Most Typical Words: ['addupvot', 'eringr', 'gurecki', 'harutyunyan', 'hutter', 'jespèr', 'likelihoodfre', 'r04', 'rl', 'spirl']
+Duplicate Count: 1
+
+Core Users: ('DoctorVive', 'GaryMarchant1', 'JFutoma', 'aivillage_dc', 'alexbeutel', 'audurand', 'ermgrant', 'ewarren', 'hima_lakkaraju', 'jennwvaughan', 'julius_adebayo', 'kswersk', 'linamkhan', 'negar_rz', 'zeynep')
+Core Items: ('abstract', 'deadlin', 'montreal', 'structur', 'workshop')
+Most Typical Words: ['avir', 'debug', 'factsir', 'isca', 'jiayu', 'keynot', 'ml', 'ranganathan', 'rl', 'zhiwei']
+Duplicate Count: 1
+
