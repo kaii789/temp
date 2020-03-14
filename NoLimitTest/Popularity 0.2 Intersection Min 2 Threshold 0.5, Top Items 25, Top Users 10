@@ -1,0 +1,10 @@
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'EgSophie', 'NicolasPapernot', 'alexstamos', 'catherineols', 'haldaume3', 'j2bryson', 'katecrawford', 'leeclemnet', 'mark_riedl', 'mikarv', 'roydanroy', 'tyrell_turing', 'zacharylipton', 'zittrain')
+Core Items: ('algorithm', 'autonom', 'binari', 'coauthor', 'congression', 'detector', 'intervent', 'irrespons', 'keynot', 'median', 'ml', 'neonazi', 'partisan', 'pod', 'postdoc', 'raptor', 'rl', 'scrape', 'selfdriv', 'semant', 'sexism', 'skeptic', 'surveil', 'tenur', 'tfw', 'vancouv')
+Most Typical Words: ['admiss', 'algorithm', 'autonom', 'intervent', 'keynot', 'ml', 'overst', 'semant', 'tenur', 'undergrad']
+Duplicate Count: 919
+
+Core Users: ('BrendaKLeong', 'EgSophie', 'NicolasPapernot', 'alexstamos', 'catherineols', 'fhuszar', 'haldaume3', 'j2bryson', 'katecrawford', 'leeclemnet', 'mark_riedl', 'mikarv', 'roydanroy', 'tdietterich', 'tyrell_turing', 'zacharylipton', 'zittrain')
+Core Items: ('algorithm', 'autonom', 'binari', 'coauthor', 'congression', 'detector', 'intervent', 'irrespons', 'keynot', 'metric', 'ml', 'neonazi', 'partisan', 'pod', 'postdoc', 'raptor', 'rl', 'scrape', 'selfdriv', 'semant', 'sexism', 'skeptic', 'surveil', 'tenur', 'tfw', 'vancouv')
+Most Typical Words: ['admiss', 'algorithm', 'autonom', 'intervent', 'ml', 'postdoc', 'selfdriv', 'semant', 'tenur', 'undergrad']
+Duplicate Count: 150
+

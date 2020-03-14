@@ -1,0 +1,25 @@
+Core Users: ('BrendaKLeong', 'JohnHolbein1', 'SolomonMg', 'angelamczhou', 'blancamiller_', 'fhuszar', 'jennwvaughan', 'johnmyleswhite', 'leeclemnet', 'mrtz')
+Core Items: ('algorithm', 'autonom', 'causal', 'coauthor', 'ensembl', 'forthcom', 'github', 'hoc', 'hog', 'identif', 'intersect', 'intervent', 'invari', 'irrespons', 'keynot', 'latent', 'median', 'mit', 'ml', 'netanyahu', 'overst', 'partisan', 'pod', 'postdoc', 'privaci', 'raptor', 'retract', 'selfdriv', 'serg', 'sexism', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['admiss', 'algorithm', 'benchmark', 'causal', 'identif', 'intervent', 'keynot', 'ml', 'tenur', 'variabl']
+Duplicate Count: 31
+
+Core Users: ('AlecMacGillis', 'BrendaKLeong', 'BrendanNyhan', 'DavidDuvenaud', 'EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SolomonMg', 'angelamczhou', 'blancamiller_', 'fhuszar', 'halhod', 'irenetrampoline', 'jennwvaughan', 'johnmyleswhite', 'julia_azari', 'leeclemnet', 'mattyglesias', 'mikarv', 'mrtz', 'natematias', 'riakall')
+Core Items: ('coauthor', 'forthcom', 'hoc', 'identif', 'intersect', 'intervent', 'irrespons', 'latent', 'median', 'mit', 'ml', 'overst', 'privaci', 'skeptic', 'surveil', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'forthcom', 'intervent', 'latent', 'mit', 'ml', 'tenur', 'variabl']
+Duplicate Count: 17
+
+Core Users: ('AlecMacGillis', 'BrendaKLeong', 'BrendanNyhan', 'DavidDuvenaud', 'EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SeanTrende', 'SolomonMg', 'angelamczhou', 'blancamiller_', 'fhuszar', 'halhod', 'irenetrampoline', 'jennwvaughan', 'johnmyleswhite', 'julia_azari', 'leeclemnet', 'maya_sen', 'mikarv', 'mrtz', 'natematias', 'riakall')
+Core Items: ('coauthor', 'forthcom', 'identif', 'intersect', 'intervent', 'irrespons', 'latent', 'median', 'mit', 'ml', 'overst', 'partisan', 'privaci', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'forthcom', 'intervent', 'latent', 'mit', 'ml', 'tenur', 'variabl']
+Duplicate Count: 6
+
+Core Users: ('AidanNGomez', 'BrendaKLeong', 'JFutoma', 'JohnHolbein1', 'SoloGen', 'SolomonMg', 'StatModeling', 'Susan_Athey', 'alexbeutel', 'alexdamour', 'alexstamos', 'beenwrekt', 'blancamiller_', 'david_sontag', 'geomblog', 'j2bryson', 'jackclarkSF', 'johnmyleswhite', 'katecrawford', 'leeclemnet', 'maria__cuellar', 'mattschleg', 'mattyglesias', 'mrtz', 'nathanjurgenson', 'packer_ben', 'tdietterich')
+Core Items: ('autonom', 'causal', 'ensembl', 'hoc', 'identif', 'keynot', 'mit', 'overst', 'pod', 'postdoc', 'privaci', 'rl', 'sexism', 'skeptic', 'tenur', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'factsir', 'intervent', 'jiayu', 'keynot', 'ml', 'postdoc', 'rl', 'zhiwei']
+Duplicate Count: 3
+
+Core Users: ('AidanNGomez', 'AlecMacGillis', 'AmirRosenfeld', 'BrendanNyhan', 'DavidDuvenaud', '_asubbaswamy', 'alexbeutel', 'beenwrekt', 'catherineols', 'david_sontag', 'hardmaru', 'j2bryson', 'jackclarkSF', 'jennwvaughan', 'julia_azari', 'katecrawford', 'leeclemnet', 'suchisaria', 'tdietterich', 'umangsbhatt')
+Core Items: ('autonom', 'coauthor', 'ensembl', 'intersect', 'invari', 'irrespons', 'keynot', 'latent', 'median', 'mit', 'ml', 'overst', 'rl', 'selfdriv', 'sexism', 'tenur', 'undergrad')
+Most Typical Words: ['algorithm', 'dataset', 'factsir', 'invari', 'jiayu', 'keynot', 'latent', 'ml', 'rl', 'zhiwei']
+Duplicate Count: 3
+

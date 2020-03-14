@@ -1,0 +1,20 @@
+Core Users: ('A_Aspuru_Guzik', 'KLdivergence', 'NicolasPapernot', 'SarahJamieLewis', 'alexstamos', 'benzevgreen', 'catherineols', 'j2bryson', 'jackclarkSF', 'jennwvaughan', 'katecrawford', 'leeclemnet', 'mark_riedl', 'mikarv', 'rajiinio', 'roydanroy', 'thesasho', 'yisongyue', 'zittrain')
+Core Items: ('analog', 'assess', 'autonom', 'broader', 'detector', 'intersect', 'keynot', 'malici', 'metric', 'ml', 'postdoc', 'preprint', 'privaci', 'scrape', 'selfdriv', 'semant', 'surveil', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'autonom', 'intervent', 'keynot', 'ml', 'postdoc', 'quantum', 'selfdriv', 'semant', 'tenur']
+Duplicate Count: 14
+
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'NicolasPapernot', 'Richard_Florida', 'SeanTrende', 'alexstamos', 'blancamiller_', 'catherineols', 'jen_keesmaat', 'johnmyleswhite', 'leeclemnet', 'mark_riedl', 'mikarv', 'rajiinio', 'zittrain')
+Core Items: ('analog', 'autonom', 'backlash', 'broader', 'detector', 'increment', 'intervent', 'irrespons', 'malici', 'median', 'ml', 'privaci', 'scrape', 'selfdriv', 'semant', 'skeptic', 'tenur', 'undergrad', 'vancouv', 'variabl')
+Most Typical Words: ['admiss', 'algorithm', 'autonom', 'causal', 'compon', 'intervent', 'ml', 'semant', 'undergrad', 'variabl']
+Duplicate Count: 12
+
+Core Users: ('A_Aspuru_Guzik', 'BrendanNyhan', 'Miles_Brundage', 'NicolasPapernot', 'Smerity', 'adversariel', 'alexstamos', 'berty38', 'catherineols', 'j2bryson', 'jackclarkSF', 'katecrawford', 'leeclemnet', 'mark_riedl', 'rajiinio', 'roydanroy', 'thesasho', 'tyrell_turing', 'yisongyue', 'zittrain')
+Core Items: ('analog', 'autonom', 'backlash', 'broader', 'dataset', 'detector', 'irrespons', 'malici', 'median', 'metric', 'ml', 'postdoc', 'preprint', 'privaci', 'scrape', 'selfdriv', 'semant', 'tenur', 'undergrad', 'variabl')
+Most Typical Words: ['algorithm', 'autonom', 'dataset', 'intervent', 'ml', 'postdoc', 'quantum', 'selfdriv', 'semant', 'undergrad']
+Duplicate Count: 3
+
+Core Users: ('BrendaKLeong', 'KLdivergence', 'NicolasPapernot', 'SarahJamieLewis', 'alexstamos', 'blancamiller_', 'catherineols', 'fhuszar', 'jennwvaughan', 'mikarv', 'rajiinio', 'thesasho', 'timoreilly', 'wsisaac', 'zittrain')
+Core Items: ('analog', 'assess', 'broader', 'congression', 'detector', 'earnest', 'intersect', 'intervent', 'keynot', 'malici', 'metric', 'ml', 'monopoli', 'preprint', 'privaci', 'scrape', 'selfdriv', 'semant', 'surveil', 'variabl')
+Most Typical Words: ['algorithm', 'causal', 'embed', 'intervent', 'keynot', 'metric', 'ml', 'privaci', 'semant', 'variabl']
+Duplicate Count: 1
+
